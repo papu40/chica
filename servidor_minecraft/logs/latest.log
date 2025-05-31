@@ -195,3 +195,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 22:34:25.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:32943] logged in with entity id 1627 at (-850.5, 76.0, -218.5)
 [31May2025 22:34:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
 [31May2025 22:34:26.445] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 22:37:30.815] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.102 ms. 1608/1636 recipes are parallelized.
+[31May2025 22:40:37.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 22:40:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game

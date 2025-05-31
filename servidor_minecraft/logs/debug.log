@@ -2422,3 +2422,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 22:34:25.666] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@494b53a2 into net.minecraft.network.Connection@544ca144
 [31May2025 22:34:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
 [31May2025 22:34:26.445] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 22:35:53.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 22:35:53.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 22:37:30.815] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.102 ms. 1608/1636 recipes are parallelized.
+[31May2025 22:38:51.957] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@d3df861 for service interface com.blamejared.clumps.platform.IEventHelper
+[31May2025 22:38:51.957] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@4c30dd1a for service interface com.blamejared.clumps.platform.IPlatformHelper
+[31May2025 22:40:37.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 22:40:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 22:40:53.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 22:40:53.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
