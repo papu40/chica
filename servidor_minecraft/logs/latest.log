@@ -200,3 +200,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 13:45:52.392] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 1.956 ms. 1608/1636 recipes are parallelized.
 [31May2025 13:47:33.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 9.70653996956294,0.0,2.67679635773095
 [31May2025 13:48:47.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Rotten to the Core]
+[31May2025 14:00:07.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -6.949582942617816,0.2987031463477763,-7.306268969964293
+[31May2025 14:00:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk hit the ground too hard
+[31May2025 14:00:20.136] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-85, 64, 133) minecraft:overworld
+[31May2025 14:00:23.168] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air

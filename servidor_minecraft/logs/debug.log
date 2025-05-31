@@ -2192,3 +2192,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 13:46:58.969] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [31May2025 13:47:33.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 9.70653996956294,0.0,2.67679635773095
 [31May2025 13:48:47.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Rotten to the Core]
+[31May2025 13:51:18.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 13:51:18.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 13:56:18.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 13:56:18.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 14:00:07.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -6.949582942617816,0.2987031463477763,-7.306268969964293
+[31May2025 14:00:20.134] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Haazk ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -84.1 64 134!","color":"gold"}]'
+[31May2025 14:00:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk hit the ground too hard
+[31May2025 14:00:20.136] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-85, 64, 133) minecraft:overworld
+[31May2025 14:00:23.168] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
