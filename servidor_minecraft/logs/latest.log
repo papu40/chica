@@ -329,3 +329,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 15:57:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
 [31May2025 15:57:59.400] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player bacalao_1 has successfully logged in.
 [31May2025 16:00:22.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bacalao_1) moved wrongly! 0.286550806567476
+[31May2025 16:13:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Sweet Dreams]
+[31May2025 16:20:06.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-900, y=64, z=857} BlockPos{x=-899, y=62, z=856}
+[31May2025 16:20:06.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-900, y=64, z=857} BlockPos{x=-899, y=62, z=856}
+[31May2025 16:29:02.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: bacalao_1
+[31May2025 16:31:07.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Acquire Hardware]
