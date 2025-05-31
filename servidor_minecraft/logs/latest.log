@@ -238,3 +238,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 14:28:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> xddd
 [31May2025 14:28:17.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=71, z=103} BlockPos{x=-116, y=70, z=103}
 [31May2025 14:28:19.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=74, z=105} BlockPos{x=-112, y=72, z=105}
+[31May2025 14:31:04.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[31May2025 14:31:04.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[31May2025 14:31:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> nooo
+[31May2025 14:37:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 fell from a high place
+[31May2025 14:37:13.797] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(234, 26, 397) minecraft:overworld
+[31May2025 14:37:17.665] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
