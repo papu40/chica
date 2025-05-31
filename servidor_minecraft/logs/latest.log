@@ -271,3 +271,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 15:26:37.365] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(96, 61, 123) minecraft:overworld
 [31May2025 15:28:06.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was shot by Skeleton
 [31May2025 15:29:21.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Getting an Upgrade]
+[31May2025 15:32:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Sunken City]
+[31May2025 15:32:30.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 fell while climbing
+[31May2025 15:32:30.880] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(134, 31, 376) minecraft:overworld
+[31May2025 15:34:10.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Disconnected
+[31May2025 15:34:10.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
+[31May2025 15:34:10.113] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 15:40:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[31May2025 15:40:54.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:35349] logged in with entity id 33570 at (-859.6204957237715, 80.5625, -190.57466702585236)
+[31May2025 15:40:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 15:40:55.880] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 15:41:24.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[31May2025 15:41:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 15:41:29.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bacalao_1[/127.130.225.53:49793] logged in with entity id 33816 at (50.701463707466736, 64.0, 67.71454262027186)
+[31May2025 15:41:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
+[31May2025 15:41:30.883] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player bacalao_1 has successfully logged in.
+[31May2025 15:41:37.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:53663] logged in with entity id 33940 at (-859.6204957237715, 80.5625, -190.57466702585236)
+[31May2025 15:41:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 15:41:38.472] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 15:41:50.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> apa
