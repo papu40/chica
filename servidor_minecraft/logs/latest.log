@@ -244,3 +244,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 14:37:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 fell from a high place
 [31May2025 14:37:13.797] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(234, 26, 397) minecraft:overworld
 [31May2025 14:37:17.665] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 14:45:34.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Diamonds!]
+[31May2025 14:46:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Who You Gonna Call?]
+[31May2025 14:50:42.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> juandi}
+[31May2025 14:57:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Broken Parts III]
+[31May2025 14:58:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Stay dead]
+[31May2025 14:58:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Spider
+[31May2025 14:58:45.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-954, 69, -454) minecraft:overworld
+[31May2025 14:58:58.564] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 15:09:20.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pradolf56) moved wrongly! 0.29395206039401955
+[31May2025 15:15:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 hit the ground too hard
+[31May2025 15:15:48.698] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-964, 71, 529) minecraft:overworld
+[31May2025 15:15:51.784] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 15:19:28.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[31May2025 15:19:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
