@@ -247,3 +247,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 23:35:47.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> si no contesto, es que estaba buscando el journey
 [31May2025 23:35:50.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
 [31May2025 23:35:50.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[31May2025 23:38:13.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> las máscaras de los bichos esos de la sabana están rotas
+[31May2025 23:38:36.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> uno te da velocidad minera, otro te da velocidad, otro salto, otro fuerza
+[31May2025 23:39:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> lo unico es que se van rompiendo y solo tienen 1 de armadura
+[31May2025 23:39:26.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero pa empezar ta bien
+[31May2025 23:39:29.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:46923] logged in with entity id 13490 at (100.69999998807907, 65.0, 224.58963869451355)
+[31May2025 23:39:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[31May2025 23:39:31.188] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[31May2025 23:39:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el lugar es una aldea
+[31May2025 23:39:58.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> con una planicie considerablemente grande
+[31May2025 23:40:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> un océano y un toque de bosque
+[31May2025 23:40:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> esta bien
+[31May2025 23:43:04.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Fishy Business]
+[31May2025 23:46:20.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 23:46:20.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 23:46:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> hola fautso
+[31May2025 23:46:34.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> hola
