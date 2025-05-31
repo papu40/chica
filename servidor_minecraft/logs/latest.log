@@ -258,3 +258,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 15:15:51.784] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [31May2025 15:19:28.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
 [31May2025 15:19:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[31May2025 15:21:39.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bacalao_1[/127.130.225.53:54145] logged in with entity id 30344 at (25.5, 64.0, -32.5)
+[31May2025 15:21:39.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
+[31May2025 15:21:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Ice and Fire]
+[31May2025 15:21:39.776] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player bacalao_1 has successfully registered.
+[31May2025 15:23:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was shot by Skeleton
+[31May2025 15:25:39.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=67, z=125} BlockPos{x=74, y=66, z=125}
+[31May2025 15:26:18.254] [SimpleLogin-Worker-1/INFO] [simplelogin/]: Auto saving entries
+[31May2025 15:26:18.255] [SimpleLogin-Worker-1/INFO] [simplelogin/]: Done! Took 0ms.
+[31May2025 15:26:29.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Stone Age]
+[31May2025 15:26:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Spider
+[31May2025 15:26:37.365] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(96, 61, 123) minecraft:overworld
+[31May2025 15:28:06.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was shot by Skeleton
+[31May2025 15:29:21.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Getting an Upgrade]
