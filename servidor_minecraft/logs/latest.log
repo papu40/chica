@@ -1,136 +1,548 @@
-[30May2025 20:50:05.724] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30May2025 20:50:05.728] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[30May2025 20:50:05.820] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/chica/servidor_minecraft/config/fml.toml is not correct. Correcting
-[30May2025 20:50:05.822] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[30May2025 20:50:05.822] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[30May2025 20:50:05.823] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[30May2025 20:50:05.823] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[30May2025 20:50:05.838] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30May2025 20:50:05.884] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chica/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30May2025 20:50:06.109] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30May2025 20:50:06.110] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30May2025 20:50:06.112] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30May2025 20:50:06.113] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30May2025 20:50:06.206] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[30May2025 20:50:07.814] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30May2025 20:50:13.795] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30May2025 20:50:13.797] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30May2025 20:50:14.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30May2025 20:50:14.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[30May2025 20:50:15.332] [main/ERROR] [net.minecraft.server.dedicated.Settings/]: Failed to load properties from file: server.properties
-java.nio.file.NoSuchFileException: server.properties
-	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
-	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
-	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
-	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422) ~[?:?]
-	at java.nio.file.Files.newInputStream(Files.java:160) ~[?:?]
-	at net.minecraft.server.dedicated.Settings.m_139839_(Settings.java:36) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.dedicated.DedicatedServerProperties.m_180929_(DedicatedServerProperties.java:137) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.dedicated.DedicatedServerSettings.<init>(DedicatedServerSettings.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.Main.main(Main.java:126) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30May2025 20:50:15.355] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30May2025 20:50:15.383] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/chica/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[30May2025 20:50:15.384] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/chica/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[30May2025 20:50:16.935] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[30May2025 20:50:17.059] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[30May2025 20:50:17.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30May2025 20:50:17.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30May2025 20:50:17.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30May2025 20:50:17.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30May2025 20:50:17.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30May2025 20:50:17.732] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30May2025 20:50:17.887] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[30May2025 20:50:17.893] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[30May2025 20:50:17.894] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[30May2025 20:50:17.896] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[30May2025 20:50:17.897] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[30May2025 20:50:17.899] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[30May2025 20:50:17.901] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[30May2025 20:50:17.903] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[30May2025 20:50:17.904] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[30May2025 20:50:17.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30May2025 20:50:24.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30May2025 20:50:25.738] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30May2025 20:50:25.739] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30May2025 20:50:25.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30May2025 20:50:25.780] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30May2025 20:50:26.285] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30May2025 20:50:26.800] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30May2025 20:50:27.288] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[30May2025 20:50:27.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[30May2025 20:50:28.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[30May2025 20:50:29.598] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[30May2025 20:50:29.598] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[30May2025 20:50:29.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[30May2025 20:50:30.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[30May2025 20:50:31.169] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[30May2025 20:50:31.274] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[30May2025 20:50:31.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[30May2025 20:50:32.273] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[30May2025 20:50:32.780] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[30May2025 20:50:33.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[30May2025 20:50:33.780] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
-[30May2025 20:50:34.293] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[30May2025 20:50:34.777] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[30May2025 20:50:35.296] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[30May2025 20:50:35.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[30May2025 20:50:36.272] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[30May2025 20:50:36.771] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[30May2025 20:50:37.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
-[30May2025 20:50:37.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[30May2025 20:50:38.271] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[30May2025 20:50:38.795] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[30May2025 20:50:39.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[30May2025 20:50:39.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[30May2025 20:50:40.318] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[30May2025 20:50:40.790] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[30May2025 20:50:41.276] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[30May2025 20:50:41.779] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
-[30May2025 20:50:42.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
-[30May2025 20:50:42.772] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[30May2025 20:50:43.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[30May2025 20:50:43.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[30May2025 20:50:44.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
-[30May2025 20:50:44.772] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[30May2025 20:50:45.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[30May2025 20:50:45.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[30May2025 20:50:46.273] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[30May2025 20:50:46.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[30May2025 20:50:47.273] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[30May2025 20:50:47.775] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[30May2025 20:50:48.272] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[30May2025 20:50:48.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[30May2025 20:50:49.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[30May2025 20:50:49.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[30May2025 20:50:50.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
-[30May2025 20:50:50.519] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26249 ms
-[30May2025 20:50:50.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.657s)! For help, type "help"
-[30May2025 20:50:50.540] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30May2025 20:54:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30May2025 20:54:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30May2025 20:54:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30May2025 20:54:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30May2025 20:54:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30May2025 20:54:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30May2025 20:54:07.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30May2025 20:54:07.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30May2025 20:54:07.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30May2025 20:54:07.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31May2025 00:00:07.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:44297] logged in with entity id 6576 at (25.13652312816068, 64.0, -38.04090767382695)
+[31May2025 00:00:07.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 00:00:07.731] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 00:00:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[31May2025 00:00:12.839] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(26, 64, -39) minecraft:overworld
+[31May2025 00:01:00.013] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.028 ms. 1608/1636 recipes are parallelized.
+[31May2025 00:02:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Stone Age]
+[31May2025 00:04:22.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Getting an Upgrade]
+[31May2025 00:08:12.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:38185] logged in with entity id 8749 at (23.5, 71.0, -22.5)
+[31May2025 00:08:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[31May2025 00:08:12.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Ice and Fire]
+[31May2025 00:08:13.338] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player pradolf56 has successfully registered.
+[31May2025 00:08:16.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> hola
+[31May2025 00:08:20.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Deepling Angler
+[31May2025 00:08:20.695] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(169, 59, 274) minecraft:overworld
+[31May2025 00:08:23.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> xddd
+[31May2025 00:08:26.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ola
+[31May2025 00:08:34.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> podes disc?
+[31May2025 00:08:43.276] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Auto saving entries
+[31May2025 00:08:43.277] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Done! Took 0ms.
+[31May2025 00:08:50.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya un poco despues
+[31May2025 00:08:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[31May2025 00:09:02.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> encontré una estructura
+[31May2025 00:09:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> opa
+[31May2025 00:09:07.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Sunken City]
+[31May2025 00:09:20.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> alta pinta de altlantis
+[31May2025 00:09:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[31May2025 00:09:36.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> no anda un poco lag?
+[31May2025 00:09:43.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Stone Age]
+[31May2025 00:09:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> a mi non
+[31May2025 00:09:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> lo digo por los mensajes
+[31May2025 00:10:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> que llegan un poco lento
+[31May2025 00:10:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Getting an Upgrade]
+[31May2025 00:10:26.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ni idea
+[31May2025 00:11:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> coño
+[31May2025 00:11:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me tengo que ir a hacer limanesada
+[31May2025 00:11:26.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> adonde tengo que ir?
+[31May2025 00:11:27.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> milanesas
+[31May2025 00:11:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[31May2025 00:11:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> yo estoy en 130 330 más o menos
+[31May2025 00:12:17.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Sweet Dreams]
+[31May2025 00:12:18.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> me encontre unos pajaros mas raros que la pinga
+[31May2025 00:12:19.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[31May2025 00:12:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[31May2025 00:12:25.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:47075] logged in with entity id 11215 at (152.99449998936313, 64.0, 59.17964030834802)
+[31May2025 00:12:25.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[31May2025 00:12:26.098] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[31May2025 00:12:29.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> XD
+[31May2025 00:12:35.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> los de la sabana?
+[31May2025 00:12:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> a donde dijiste que estas?
+[31May2025 00:12:43.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was shot by Skeleton
+[31May2025 00:12:43.001] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(160, 63, 274) minecraft:overworld
+[31May2025 00:12:53.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[31May2025 00:12:58.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> 160 270
+[31May2025 00:13:01.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> voy
+[31May2025 00:13:09.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dale
+[31May2025 00:13:13.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya uelvo
+[31May2025 00:13:14.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 00:13:14.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 00:13:15.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[31May2025 00:13:23.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> 160 270
+[31May2025 00:16:14.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:44885] logged in with entity id 13015 at (39.5, 69.0, -30.5)
+[31May2025 00:16:14.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[31May2025 00:16:14.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Ice and Fire]
+[31May2025 00:16:16.355] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player haazk has successfully registered.
+[31May2025 00:16:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> hola
+[31May2025 00:16:32.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> quien sos?
+[31May2025 00:16:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> el fausto
+[31May2025 00:16:46.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[31May2025 00:16:57.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> tene cuidado que hay pajarracos hincha cocos
+[31May2025 00:17:03.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> y despues a los chocobos
+[31May2025 00:17:07.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Sunken City]
+[31May2025 00:17:18.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> dale
+[31May2025 00:18:43.276] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Auto saving entries
+[31May2025 00:18:43.277] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Done! Took 1ms.
+[31May2025 00:19:48.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Stone Age]
+[31May2025 00:20:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Getting an Upgrade]
+[31May2025 00:21:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Umvuthana Raptor
+[31May2025 00:21:28.650] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-20, 61, -58) minecraft:overworld
+[31May2025 00:21:32.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> OPA
+[31May2025 00:21:44.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> a la mierda
+[31May2025 00:22:03.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> que son esos mamarrachos?
+[31May2025 00:22:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> ni idea
+[31May2025 00:22:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> estoy escuchando un soundtrack re epico
+[31May2025 00:22:54.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Sweet Dreams]
+[31May2025 00:23:05.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzzz
+[31May2025 00:23:08.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> eeeee
+[31May2025 00:23:15.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> te encontraste un jefe?
+[31May2025 00:23:16.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> todavia no tengo cama
+[31May2025 00:23:19.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> bueno
+[31May2025 00:23:19.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> nono
+[31May2025 00:23:21.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[31May2025 00:23:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[31May2025 00:23:22.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> salite
+[31May2025 00:23:45.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:54427] logged in with entity id 16442 at (-82.93797616543064, 64.0, -57.87819833706262)
+[31May2025 00:23:45.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[31May2025 00:23:46.424] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[31May2025 00:23:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> gracias
+[31May2025 00:23:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> de nada
+[31May2025 00:25:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> che
+[31May2025 00:25:30.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> en donde estas?
+[31May2025 00:25:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> tengo lana para una cama
+[31May2025 00:25:48.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> -139 -175
+[31May2025 00:25:51.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> voy
+[31May2025 00:28:09.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> mejor veni al spawn
+[31May2025 00:28:16.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> voy
+[31May2025 00:29:59.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> graciasss
+[31May2025 00:30:05.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uuu
+[31May2025 00:30:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> de nada
+[31May2025 00:30:49.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Umvuthana Raptor
+[31May2025 00:30:49.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(106, 65, 81) minecraft:overworld
+[31May2025 00:30:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uuuu
+[31May2025 00:30:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> las putas
+[31May2025 00:30:59.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=188} BlockPos{x=-82, y=62, z=189}
+[31May2025 00:31:26.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Monster Hunter]
+[31May2025 00:33:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Acquire Hardware]
+[31May2025 00:34:39.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Suit Up]
+[31May2025 00:35:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[31May2025 00:35:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Not Today, Thank You]
+[31May2025 00:36:14.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> boy
+[31May2025 00:36:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> se me lleno de mobs
+[31May2025 00:36:33.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[31May2025 00:36:38.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Sweet Dreams]
+[31May2025 00:37:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 hit the ground too hard
+[31May2025 00:37:07.067] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(134, 64, 190) minecraft:overworld
+[31May2025 00:37:09.918] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 00:37:17.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=64, z=149} BlockPos{x=-71, y=62, z=149}
+[31May2025 00:37:54.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was shot by Skeleton
+[31May2025 00:37:54.142] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(127, 48, 187) minecraft:overworld
+[31May2025 00:38:04.790] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 00:39:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Acquire Hardware]
+[31May2025 00:39:15.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> porfin
+[31May2025 00:39:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> 30 años con la gorda del hierro
+[31May2025 00:39:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> jajaja
+[31May2025 00:39:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Isn't It Iron Pick]
+[31May2025 00:41:00.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Isn't It Iron Pick]
+[31May2025 00:41:50.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Suit Up]
+[31May2025 00:48:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [The Parrots and the Bats]
+[31May2025 00:49:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Monster Hunter]
+[31May2025 00:49:23.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> che
+[31May2025 00:49:29.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ya vuelvo
+[31May2025 00:49:30.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[31May2025 00:49:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[31May2025 00:52:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Best Friends Forever]
+[31May2025 00:55:59.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[31May2025 00:55:59.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[31May2025 01:07:18.529] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7565cbbf[id=<null>,name=BatmanGordo1,properties={},legacy=false] (/127.106.135.166:36731) lost connection: Disconnected
+[31May2025 01:07:46.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:48313] logged in with entity id 30449 at (32.5, 64.0, -35.5)
+[31May2025 01:07:46.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[31May2025 01:07:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Ice and Fire]
+[31May2025 01:07:48.530] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player batmangordo1 has successfully registered.
+[31May2025 01:08:43.276] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Auto saving entries
+[31May2025 01:08:43.277] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Done! Took 1ms.
+[31May2025 01:10:21.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:42789] logged in with entity id 31030 at (-99.28211696962944, 63.0, -371.02298540925165)
+[31May2025 01:10:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[31May2025 01:10:22.404] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[31May2025 01:11:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> puto
+[31May2025 01:11:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> no
+[31May2025 01:12:06.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Skeleton
+[31May2025 01:12:06.043] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-79, 66, 50) minecraft:overworld
+[31May2025 01:12:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Monster Hunter]
+[31May2025 01:12:12.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> jajaj
+[31May2025 01:15:07.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como andas?
+[31May2025 01:15:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> todo bien
+[31May2025 01:15:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> recien comenzando
+[31May2025 01:15:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> podes disc?
+[31May2025 01:15:29.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> nop
+[31May2025 01:16:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Stone Age]
+[31May2025 01:21:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Getting an Upgrade]
+[31May2025 01:23:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> me voy acomer
+[31May2025 01:23:14.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> voy a estar afk
+[31May2025 01:23:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> bueno
+[31May2025 01:24:24.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Diamonds!]
+[31May2025 01:26:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> vicio
+[31May2025 01:26:20.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> me salieron unos pocosa
+[31May2025 01:26:23.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> cuales eran las reglas, podia conseguirlo pero no usarlo?
+[31May2025 01:26:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> igual no voy a hacer nada
+[31May2025 01:26:33.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> si
+[31May2025 01:26:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> pero no farmear una banda
+[31May2025 01:27:17.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Skeleton
+[31May2025 01:27:17.994] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(46, 63, 349) minecraft:overworld
+[31May2025 01:27:51.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[31May2025 01:27:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[31May2025 01:37:39.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=65, z=121} BlockPos{x=-77, y=63, z=120}
+[31May2025 01:37:39.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=65, z=121} BlockPos{x=-76, y=63, z=119}
+[31May2025 01:37:40.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=65, z=120} BlockPos{x=-74, y=63, z=119}
+[31May2025 01:42:30.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [What a Deal!]
+[31May2025 01:49:47.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:40825] logged in with entity id 40120 at (164.97985195408188, 64.0, 268.39839146918865)
+[31May2025 01:49:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 01:49:48.270] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 01:50:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> qonda
+[31May2025 01:50:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> holAA
+[31May2025 01:51:54.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=65, z=116} BlockPos{x=-84, y=63, z=115}
+[31May2025 01:52:12.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:47555] logged in with entity id 41354 at (53.810385503511746, 63.0, 104.54859402884343)
+[31May2025 01:52:12.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[31May2025 01:52:13.100] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[31May2025 01:53:38.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Zombie
+[31May2025 01:53:38.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-61, 64, 152) minecraft:overworld
+[31May2025 01:53:42.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Sunken City]
+[31May2025 01:53:58.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Spider
+[31May2025 01:53:58.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(162, 64, 271) minecraft:overworld
+[31May2025 01:54:00.327] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 01:54:42.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was shot by Skeleton
+[31May2025 01:54:42.454] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(142, 64, 309) minecraft:overworld
+[31May2025 01:55:45.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> creo que era una dungeon
+[31May2025 01:55:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 01:55:47.497] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(136, 27, 410) minecraft:overworld
+[31May2025 01:57:14.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was shot by Skeleton
+[31May2025 01:57:14.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(145, 64, 270) minecraft:overworld
+[31May2025 01:57:27.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Spider
+[31May2025 01:57:27.809] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(134, 63, 282) minecraft:overworld
+[31May2025 01:58:02.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Sweet Dreams]
+[31May2025 01:58:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[31May2025 01:58:17.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[31May2025 01:58:17.848] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(162, 64, 266) minecraft:overworld
+[31May2025 01:58:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Spider
+[31May2025 01:58:32.142] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(150, 64, 278) minecraft:overworld
+[31May2025 01:59:46.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Drowned
+[31May2025 01:59:46.745] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(143, 64, 268) minecraft:overworld
+[31May2025 02:00:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> me tengo que ir
+[31May2025 02:01:00.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ok
+[31May2025 02:01:05.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> chao
+[31May2025 02:01:14.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[31May2025 02:01:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[31May2025 02:01:16.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> chao
+[31May2025 02:01:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> juan
+[31May2025 02:01:47.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> se podian picar diamantes?
+[31May2025 02:01:55.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si pero no usarlos
+[31May2025 02:02:00.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ok
+[31May2025 02:02:03.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ni vivirla mucho
+[31May2025 02:02:35.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Acquire Hardware]
+[31May2025 02:03:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Isn't It Iron Pick]
+[31May2025 02:03:07.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> podes disc?
+[31May2025 02:03:13.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> non
+[31May2025 02:03:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Diamonds!]
+[31May2025 02:04:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:04:37.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(186, 34, 447) minecraft:overworld
+[31May2025 02:05:25.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no se podia usar el tpa?
+[31May2025 02:05:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pq no
+[31May2025 02:05:58.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no me deja
+[31May2025 02:06:09.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> aaaa
+[31May2025 02:06:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> cancelala
+[31May2025 02:06:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Suit Up]
+[31May2025 02:08:18.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:08:18.190] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(190, 34, 439) minecraft:overworld
+[31May2025 02:08:35.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> pensaba que se podia el /back
+[31May2025 02:08:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 fell from a high place
+[31May2025 02:08:38.597] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-117, 46, -462) minecraft:overworld
+[31May2025 02:09:02.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved too quickly! -0.699999988079071,-11.0,1.3117758209476165
+[31May2025 02:11:25.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juandi3531 a server operator
+[31May2025 02:11:53.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Made Juandi3531 no longer a server operator]
+[31May2025 02:12:28.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 02:12:28.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 02:16:55.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:16:55.893] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(194, 25, 418) minecraft:overworld
+[31May2025 02:17:09.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:57365] logged in with entity id 53865 at (-51.214296765230365, 68.0, -598.2291479106548)
+[31May2025 02:17:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 02:17:09.725] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 02:17:26.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> todavia e de nche
+[31May2025 02:17:27.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como te quedaron las milangas?
+[31May2025 02:17:46.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> el
+[31May2025 02:17:49.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was impaled by Drowned
+[31May2025 02:17:49.949] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-56, 55, -660) minecraft:overworld
+[31May2025 02:18:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> el prado me dijo que cosinaste
+[31May2025 02:18:22.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Nightmare
+[31May2025 02:18:34.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> quew es eso?
+[31May2025 02:18:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no sé
+[31May2025 02:18:50.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> un wachin
+[31May2025 02:19:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:19:49.789] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(199, 26, 412) minecraft:overworld
+[31May2025 02:21:22.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:21:22.940] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(204, 26, 418) minecraft:overworld
+[31May2025 02:23:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was impaled by Drowned
+[31May2025 02:23:52.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(112, 56, -827) minecraft:overworld
+[31May2025 02:24:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:24:09.106] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(191, 26, 431) minecraft:overworld
+[31May2025 02:24:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:24:49.545] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(161, 20, 396) minecraft:overworld
+[31May2025 02:28:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:30:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Gravedigger]
+[31May2025 02:30:21.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:30:21.866] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(168, 20, 398) minecraft:overworld
+[31May2025 02:31:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 tried to swim in lava
+[31May2025 02:34:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:34:02.991] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(182, 24, 438) minecraft:overworld
+[31May2025 02:34:28.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dormi ducliap
+[31May2025 02:34:35.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[31May2025 02:34:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[31May2025 02:34:41.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was burnt to a crisp whilst fighting Zombie
+[31May2025 02:34:41.236] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(236, 72, -707) minecraft:overworld
+[31May2025 02:34:42.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:48969] logged in with entity id 69585 at (100.09996562239878, 63.0, 66.38867415023195)
+[31May2025 02:34:42.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[31May2025 02:34:43.267] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[31May2025 02:36:35.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Suit Up]
+[31May2025 02:36:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:40:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> encontré 2caballeros de hierro forjado
+[31May2025 02:40:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 02:42:02.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 drowned
+[31May2025 02:42:02.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(316, 61, -390) minecraft:overworld
+[31May2025 02:42:13.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ESTAS EN ATLANTIS?
+[31May2025 02:42:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no
+[31May2025 02:42:25.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me re fui
+[31May2025 02:42:55.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> te va lag?
+[31May2025 02:45:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Umvuthana Raptor
+[31May2025 02:45:13.793] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(54, 67, 130) minecraft:overworld
+[31May2025 02:45:47.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved too quickly! -7.750906615299961,-1.0,12.10650814872568
+[31May2025 02:46:02.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Masquerade]
+[31May2025 02:46:22.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was blown up by Creeper
+[31May2025 02:46:22.093] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(95, 67, 107) minecraft:overworld
+[31May2025 02:46:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ZZZZ
+[31May2025 02:46:39.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dormigoshiado
+[31May2025 02:46:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya
+[31May2025 02:47:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 02:47:10.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(185, 26, 430) minecraft:overworld
+[31May2025 02:51:15.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Take Aim]
+[31May2025 02:51:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:51:25.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(234, 26, 388) minecraft:overworld
+[31May2025 02:52:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:52:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:52:42.185] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(237, 25, 391) minecraft:overworld
+[31May2025 02:53:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:53:11.484] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(237, 25, 395) minecraft:overworld
+[31May2025 02:53:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:53:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:54:28.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:54:28.085] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(240, 26, 389) minecraft:overworld
+[31May2025 02:54:36.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Who You Gonna Call?]
+[31May2025 02:54:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:54:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:55:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 hit the ground too hard
+[31May2025 02:55:09.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-158, 65, 262) minecraft:overworld
+[31May2025 02:55:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:55:25.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:55:40.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:56:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Not Today, Thank You]
+[31May2025 02:57:45.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:57:45.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(236, 25, 392) minecraft:overworld
+[31May2025 02:58:07.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:58:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me re cagué en las patas
+[31May2025 02:58:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:58:59.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:58:59.587] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(237, 26, 390) minecraft:overworld
+[31May2025 02:59:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:59:19.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 02:59:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:59:33.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:59:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:59:49.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 02:59:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:00:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:00:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> suave suave?ç
+[31May2025 03:00:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:00:56.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[31May2025 03:00:56.763] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-685, 66, 447) minecraft:overworld
+[31May2025 03:06:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[31May2025 03:06:11.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 03:06:11.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 03:08:47.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:58969] logged in with entity id 98461 at (-589.5, 69.0, 270.5)
+[31May2025 03:08:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 03:08:47.691] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 03:10:22.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling
+[31May2025 03:10:22.994] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(77, 16, 397) minecraft:overworld
+[31May2025 03:11:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:11:16.496] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(70, 17, 404) minecraft:overworld
+[31May2025 03:11:29.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:11:41.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was doomed to fall by Deepling Brute
+[31May2025 03:11:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:11:51.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:11:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:03.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:10.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 03:12:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: w puto<--[HERE]
+[31May2025 03:12:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:20.291] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(68, 19, 405) minecraft:overworld
+[31May2025 03:12:29.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:29.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(68, 19, 405) minecraft:overworld
+[31May2025 03:12:34.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling
+[31May2025 03:12:46.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:12:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Juandi3531: puto
+[31May2025 03:12:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to BatmanGordo1: puto
+[31May2025 03:12:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:13:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:13:07.990] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(65, 16, 404) minecraft:overworld
+[31May2025 03:13:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:13:20.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling
+[31May2025 03:13:22.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juandi3531 a server operator
+[31May2025 03:13:48.071] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 11 ms
+[31May2025 03:13:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by Deepling Priest using magic
+[31May2025 03:13:56.093] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(54, 15, 382) minecraft:overworld
+[31May2025 03:14:01.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juandi3531 no longer a server operator
+[31May2025 03:14:21.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Juandi3531 se corre
+[31May2025 03:14:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ?
+[31May2025 03:15:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Juandi3531 brinca de emoción
+[31May2025 03:15:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Juandi3531 se ha cagao
+[31May2025 03:17:41.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:17:41.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(189, 26, 335) minecraft:overworld
+[31May2025 03:17:58.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:17:58.381] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(193, 26, 329) minecraft:overworld
+[31May2025 03:18:14.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:18:42.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was turned into gorgonzola by Gorgon
+[31May2025 03:18:42.923] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-970, 65, 198) minecraft:overworld
+[31May2025 03:18:42.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved too quickly! 1.858207539880624,0.0,-9.935672819992476
+[31May2025 03:18:42.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> lAG
+[31May2025 03:18:42.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20545ms or 410 ticks behind
+[31May2025 03:19:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:19:00.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(198, 26, 333) minecraft:overworld
+[31May2025 03:19:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:19:18.037] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(200, 26, 335) minecraft:overworld
+[31May2025 03:19:26.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:19:30.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved too quickly! -10.329577683789807,-1.0,-0.12851766677030696
+[31May2025 03:19:32.546] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 03:19:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:19:43.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[31May2025 03:19:43.418] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-968, 65, 195) minecraft:overworld
+[31May2025 03:19:45.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:19:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:19:56.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(202, 26, 335) minecraft:overworld
+[31May2025 03:20:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:20:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was turned to stone by Gorgon
+[31May2025 03:20:28.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> la bufearon
+[31May2025 03:20:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:20:47.183] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(198, 26, 328) minecraft:overworld
+[31May2025 03:21:05.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was shot by Skeleton
+[31May2025 03:21:16.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> PERO PUTOP
+[31May2025 03:21:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:21:24.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(195, 26, 320) minecraft:overworld
+[31May2025 03:21:30.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[31May2025 03:21:30.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[31May2025 03:21:37.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:40971] logged in with entity id 114990 at (177.92332819009604, 26.5625, 341.9728057970393)
+[31May2025 03:21:37.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[31May2025 03:21:37.638] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[31May2025 03:22:08.346] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 03:22:17.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:22:17.494] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(192, 26, 321) minecraft:overworld
+[31May2025 03:22:24.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:22:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:23:09.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:23:09.053] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(190, 26, 322) minecraft:overworld
+[31May2025 03:23:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:23:33.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:23:33.409] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(192, 26, 316) minecraft:overworld
+[31May2025 03:24:00.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:24:00.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(189, 26, 341) minecraft:overworld
+[31May2025 03:24:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:24:07.329] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(190, 26, 341) minecraft:overworld
+[31May2025 03:24:29.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Disturbing the Dead I]
+[31May2025 03:25:42.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:25:42.006] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(194, 16, 345) minecraft:overworld
+[31May2025 03:25:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Acquire Hardware]
+[31May2025 03:25:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:25:57.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:26:06.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:26:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Angler
+[31May2025 03:26:17.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:26:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:26:30.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:26:37.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling
+[31May2025 03:26:37.343] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(197, 16, 349) minecraft:overworld
+[31May2025 03:26:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:26:43.022] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(194, 16, 344) minecraft:overworld
+[31May2025 03:26:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:26:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:26:55.942] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(198, 16, 350) minecraft:overworld
+[31May2025 03:27:01.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:27:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:27:08.641] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(199, 16, 346) minecraft:overworld
+[31May2025 03:27:19.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:27:27.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:27:35.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:27:43.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:27:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[31May2025 03:28:00.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:28:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:28:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:28:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:28:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:28:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:28:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling Brute
+[31May2025 03:28:51.656] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(203, 16, 351) minecraft:overworld
+[31May2025 03:29:02.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[31May2025 03:29:23.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:29:23.301] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(198, 24, 348) minecraft:overworld
+[31May2025 03:29:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:29:30.694] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(199, 16, 349) minecraft:overworld
+[31May2025 03:29:48.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:29:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:30:02.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:30:09.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[31May2025 03:32:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Diamonds!]
+[31May2025 03:34:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Ghost
+[31May2025 03:34:25.489] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-856, 64, 37) minecraft:overworld
+[31May2025 03:34:29.443] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 03:34:59.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> nesesito un coral y corazon del mar
+[31May2025 03:35:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dormictm
+[31May2025 03:35:15.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[31May2025 03:35:15.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[31May2025 03:35:23.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:44599] logged in with entity id 135333 at (82.4817097425311, 26.0, 388.5587490742096)
+[31May2025 03:35:23.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[31May2025 03:35:24.043] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[31May2025 03:35:24.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tengo una concha de nautilo noma
+[31May2025 03:36:44.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 fell from a high place
+[31May2025 03:36:44.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(56, 17, 402) minecraft:overworld
+[31May2025 03:37:17.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tenes un corazon de mar?
+[31May2025 03:38:23.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by Deepling Priest using magic
+[31May2025 03:38:23.235] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(139, -16, 374) minecraft:overworld
+[31May2025 03:39:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by Deepling Priest using magic
+[31May2025 03:39:07.535] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(133, -16, 368) minecraft:overworld
+[31May2025 03:39:41.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by Deepling Priest using magic
+[31May2025 03:39:41.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(129, -16, 367) minecraft:overworld
+[31May2025 03:40:21.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by Deepling Priest using magic
+[31May2025 03:40:21.485] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(139, -16, 362) minecraft:overworld
+[31May2025 03:41:13.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 hit the ground too hard
+[31May2025 03:41:13.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-847, 75, -194) minecraft:overworld
+[31May2025 03:41:21.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved too quickly! 12.427248922489866,-5.0,-2.5
+[31May2025 03:41:24.614] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 03:41:24.614] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[31May2025 03:42:56.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 fell while climbing
+[31May2025 03:42:56.133] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(127, 27, 407) minecraft:overworld
+[31May2025 03:43:51.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 fell while climbing
+[31May2025 03:43:51.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(126, 23, 407) minecraft:overworld
+[31May2025 03:47:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tenes corazon de mar?
+[31May2025 03:47:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> non
+[31May2025 03:47:48.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> coral?
+[31May2025 03:48:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[31May2025 03:48:41.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tampoco
+[31May2025 03:50:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> chao
+[31May2025 03:50:14.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[31May2025 03:50:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[31May2025 03:52:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [A Seedy Place]
+[31May2025 04:00:28.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 04:00:28.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 04:01:01.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 04:01:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 04:01:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 04:01:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 04:01:01.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31May2025 04:01:01.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[31May2025 04:01:01.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31May2025 04:01:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 04:01:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 04:01:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[31May2025 04:01:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 04:01:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31May2025 04:01:02.142] [Server thread/INFO] [simplelogin/]: Shutting down player login handler
+[31May2025 04:01:02.142] [Server thread/INFO] [simplelogin/]: Disabling all plugins
+[31May2025 04:01:02.143] [Server thread/INFO] [simplelogin/]: Saving all entries
