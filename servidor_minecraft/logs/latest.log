@@ -263,3 +263,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 23:46:20.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
 [31May2025 23:46:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> hola fautso
 [31May2025 23:46:34.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> hola
+[31May2025 23:47:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tenemos algo para mates, aarte de lo del cuadro?
+[31May2025 23:47:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> creo que no
+[31May2025 23:47:37.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ok
+[31May2025 23:47:47.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> cuando rendiamos estatica?
+[31May2025 23:47:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> jueves
+[31May2025 23:48:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ok
+[31May2025 23:48:17.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> encontraste diamantes?
+[31May2025 23:48:24.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> sip
+[31May2025 23:48:27.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> pero no los use
+[31May2025 23:48:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> x2
+[31May2025 23:48:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> yo estoy haciendo una casita
+[31May2025 23:49:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> yo estoy buscando un coral
+[31May2025 23:49:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> para
+[31May2025 23:49:21.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> un boss
+[31May2025 23:49:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> ahhh
+[31May2025 23:50:11.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> me salen puros peces
+[31May2025 23:50:59.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzz?
+[31May2025 23:51:24.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Zombie
+[31May2025 23:51:24.769] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(136, 63, 327) minecraft:overworld
+[31May2025 23:54:32.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, desoues me podes pasar como te quedo el cuadro?
+[31May2025 23:54:34.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:43969] logged in with entity id 18730 at (-775.2421035539957, 83.0, -224.11929060432908)
+[31May2025 23:54:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 23:54:36.220] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 23:54:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> dale
+[31May2025 23:54:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> gracias
+[31May2025 23:54:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> igual todavia no lo hago
+[31May2025 23:55:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> si, si me contaste
+[31May2025 23:55:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> pero lo digo para despues compararlo
+[31May2025 23:55:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> dale
+[31May2025 23:55:58.311] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3663a5fb[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:36685) lost connection: Disconnected
