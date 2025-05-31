@@ -290,3 +290,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 15:41:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
 [31May2025 15:41:38.472] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
 [31May2025 15:41:50.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> apa
+[31May2025 15:41:55.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> gay
+[31May2025 15:42:03.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> sos
+[31May2025 15:42:18.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Disconnected
+[31May2025 15:42:18.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
+[31May2025 15:42:38.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bacalao_1[/127.130.225.53:53385] logged in with entity id 34474 at (89.9681611421991, 64.0, 160.57450941623088)
+[31May2025 15:42:38.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
+[31May2025 15:42:38.705] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player bacalao_1 has successfully logged in.
+[31May2025 15:42:57.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Zombie
+[31May2025 15:43:08.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Timed out
+[31May2025 15:43:08.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
+[31May2025 15:43:20.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bacalao_1[/127.130.225.53:38837] logged in with entity id 34860 at (89.9681611421991, 64.0, 160.57450941623088)
+[31May2025 15:43:20.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
+[31May2025 15:43:20.480] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player bacalao_1 has successfully logged in.
+[31May2025 15:43:42.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> avisa si te va lag
+[31May2025 15:44:04.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> acabo de atrabecer todo el mundohasta el vacio xd
+[31May2025 15:44:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> atrvesar
+[31May2025 15:44:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> igual los primeros 1000 bloqes (radio 1000) están precargados
+[31May2025 15:44:35.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> entonces podes ira 32chunk sin problema
+[31May2025 15:44:44.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> lol
+[31May2025 15:46:04.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> hay home?
+[31May2025 15:46:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> en teoría si
+[31May2025 15:47:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> o tal vez no lo metí en el zip
+[31May2025 15:47:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> diablos
+[31May2025 15:47:12.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> más tarde cuando no haya nadie reviso
+[31May2025 15:47:12.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> a mi no me deja hacer home
+[31May2025 15:47:36.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[31May2025 15:47:36.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[31May2025 15:50:50.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Timed out
+[31May2025 15:50:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
