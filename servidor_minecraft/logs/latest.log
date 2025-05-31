@@ -204,3 +204,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 14:00:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk hit the ground too hard
 [31May2025 14:00:20.136] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-85, 64, 133) minecraft:overworld
 [31May2025 14:00:23.168] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 14:18:51.168] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ac19a3[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:43965) lost connection: Disconnected
+[31May2025 14:18:56.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:33465] logged in with entity id 6593 at (236.94021575150379, 64.0, 388.3214392391902)
+[31May2025 14:18:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[31May2025 14:18:56.929] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[31May2025 14:19:01.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> buenas
+[31May2025 14:19:08.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> que ondaa
+[31May2025 14:19:26.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> me cago en la atlantis pinga esta
+[31May2025 14:19:38.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> yo ni la encontre
+[31May2025 14:19:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[31May2025 14:19:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> yo me cago en los pajaros de mierda
+[31May2025 14:20:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> opa
+[31May2025 14:20:59.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[31May2025 14:21:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> gracias
+[31May2025 14:21:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> de nad
+[31May2025 14:24:38.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 6.015575547607611,1.1661092609382138,8.131556719588346
+[31May2025 14:24:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was killed by Deepling Priest using magic
+[31May2025 14:24:55.920] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(194, 16, 432) minecraft:overworld
+[31May2025 14:24:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uy
+[31May2025 14:25:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[31May2025 14:25:20.723] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 14:25:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> esa cagada te one shotea
+[31May2025 14:25:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uyy
+[31May2025 14:26:21.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] puto el que lee
+[31May2025 14:26:38.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> yo no lei nada
+[31May2025 14:27:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Haazk, Pradolf56
+[31May2025 14:27:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> fausto, sabes cuando el juandi se va a conectar?
+[31May2025 14:27:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> ni idea
+[31May2025 14:27:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[31May2025 14:27:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] en un rato prao
+[31May2025 14:27:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[31May2025 14:28:07.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me mandaron a comprar :v
+[31May2025 14:28:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> xddd
+[31May2025 14:28:17.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=71, z=103} BlockPos{x=-116, y=70, z=103}
+[31May2025 14:28:19.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=74, z=105} BlockPos{x=-112, y=72, z=105}
