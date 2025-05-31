@@ -230,3 +230,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 23:25:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> xaeros minimap
 [31May2025 23:25:25.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> o algo asi
 [31May2025 23:25:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ok
+[31May2025 23:26:58.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:53105] logged in with entity id 8776 at (-72.5937632741612, 64.0, 129.20791265804442)
+[31May2025 23:26:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[31May2025 23:27:01.062] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[31May2025 23:29:07.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> esta es la 20.1 verda?
+[31May2025 23:29:16.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si
+[31May2025 23:29:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> 1.20.1
+[31May2025 23:30:13.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> encontré un posible centro
+[31May2025 23:32:40.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Isn't It Iron Pick]
+[31May2025 23:33:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> se ve bonito?
+[31May2025 23:34:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ?
+[31May2025 23:34:58.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me lo depilé entonces podría desirse que si
+[31May2025 23:35:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> es relatio igual
+[31May2025 23:35:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> hay gente que le gusta con pelos
+[31May2025 23:35:35.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> xd
+[31May2025 23:35:47.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> si no contesto, es que estaba buscando el journey
+[31May2025 23:35:50.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[31May2025 23:35:50.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
