@@ -206,3 +206,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [31May2025 23:13:32.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=58, z=442} BlockPos{x=194, y=59, z=442}
 [31May2025 23:15:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by Deepling Priest using magic
 [31May2025 23:15:24.720] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(189, 17, 440) minecraft:overworld
+[31May2025 23:19:50.903] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65e6aa08[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:44759) lost connection: Disconnected
+[31May2025 23:20:39.550] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fff5503[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:48817) lost connection: Disconnected
+[31May2025 23:21:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Umvuthana
+[31May2025 23:21:06.402] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(124, 62, 236) minecraft:overworld
+[31May2025 23:22:44.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bee34e[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:40607) lost connection: Disconnected
+[31May2025 23:22:50.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:60279] logged in with entity id 7255 at (-846.196860013159, 76.0, -218.56491007259336)
+[31May2025 23:22:50.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[31May2025 23:22:50.465] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[31May2025 23:23:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> hola
+[31May2025 23:23:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ola
+[31May2025 23:23:15.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che juan, como se llama el mod del mapa
+[31May2025 23:23:28.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> este no, el otro, ya que se me hace mas facil manejar el otro
+[31May2025 23:23:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el otro es journey map
+[31May2025 23:23:47.758] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@574897e5[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:43753) lost connection: Disconnected
+[31May2025 23:23:58.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> para poner waypoints con este creo que se usa la u o algo así
+[31May2025 23:24:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> hay para esta version?
+[31May2025 23:24:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si
+[31May2025 23:24:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> solo que puse este porque se ma hace más cómoda la interfaz, pero se puede cambiar sin probema
+[31May2025 23:25:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> justo eso te queria preguntar
+[31May2025 23:25:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ya lo cambio
+[31May2025 23:25:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> este como se llama?
+[31May2025 23:25:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> xaeros minimap
+[31May2025 23:25:25.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> o algo asi
+[31May2025 23:25:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ok
