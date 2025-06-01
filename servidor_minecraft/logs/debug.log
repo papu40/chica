@@ -6496,3 +6496,20 @@ Reason: Banned by an operator.
 [01Jun2025 01:47:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> se unio
 [01Jun2025 01:47:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> quien puede disc?
 [01Jun2025 01:49:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> perame
+[01Jun2025 01:49:34.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> aarecio la barra del boss
+[01Jun2025 01:49:41.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> cual
+[01Jun2025 01:50:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> el void blossom
+[01Jun2025 01:50:34.512] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 154.7 69 389.4!","color":"gold"}]'
+[01Jun2025 01:50:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 01:50:34.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(154, 68, 388) minecraft:overworld
+[01Jun2025 01:50:53.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 01:50:53.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 01:53:42.400] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 156.8 20.4 400.1!","color":"gold"}]'
+[01Jun2025 01:53:42.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 01:55:53.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 01:55:53.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 01:57:41.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Disconnected
+[01Jun2025 01:57:41.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
+[01Jun2025 01:59:24.955] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 154.7 68 386.1!","color":"gold"}]'
+[01Jun2025 01:59:24.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 01:59:24.956] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(154, 68, 386) minecraft:overworld
