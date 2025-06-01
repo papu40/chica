@@ -262,3 +262,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01Jun2025 15:13:46.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Hot Stuff]
 [01Jun2025 15:17:39.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [01Jun2025 15:17:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 15:22:54.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:50547] logged in with entity id 18961 at (-861.5667545530966, -40.0, 30.30000001192093)
+[01Jun2025 15:22:54.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 15:22:55.021] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 15:25:18.222] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@438f70d0[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:51875): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 15:25:18.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@438f70d0[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:51875) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 15:25:18.271] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
