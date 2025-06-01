@@ -401,3 +401,33 @@ Reason: Banned by an operator.
 [01Jun2025 01:37:58.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:44811] logged in with entity id 90687 at (140.85775806724666, 41.93060177219848, 376.0340475687736)
 [01Jun2025 01:37:58.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
 [01Jun2025 01:38:00.445] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[01Jun2025 01:39:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 01:39:12.157] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(133, -7, 389) minecraft:overworld
+[01Jun2025 01:39:23.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved too quickly! 0.35616357380499153,10.150000345706857,0.0
+[01Jun2025 01:41:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 01:42:34.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:45065] logged in with entity id 93149 at (-799.9876670438839, -26.0, 114.98814261799907)
+[01Jun2025 01:42:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[01Jun2025 01:42:34.591] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[01Jun2025 01:42:40.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> hola
+[01Jun2025 01:42:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> que paso con el juandi y el lemos?
+[01Jun2025 01:42:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> se fue a comer
+[01Jun2025 01:43:04.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> a bueno
+[01Jun2025 01:43:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 01:45:11.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 01:45:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> wtf
+[01Jun2025 01:45:20.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> y eso?
+[01Jun2025 01:45:29.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> cualquier cosa
+[01Jun2025 01:45:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> suerte
+[01Jun2025 01:45:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> lo incoqué
+[01Jun2025 01:45:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> por que la vas a necesitar
+[01Jun2025 01:45:45.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[01Jun2025 01:45:59.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Skeleton
+[01Jun2025 01:45:59.560] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(108, 64, 114) minecraft:overworld
+[01Jun2025 01:46:05.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Not Today, Thank You]
+[01Jun2025 01:46:59.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bacalao_1[/127.130.225.53:39961] logged in with entity id 96140 at (-723.917289503839, 62.08887708142331, 365.81989329476033)
+[01Jun2025 01:46:59.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
+[01Jun2025 01:46:59.905] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player bacalao_1 has successfully logged in.
+[01Jun2025 01:47:01.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> op
+[01Jun2025 01:47:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> se unio
+[01Jun2025 01:47:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> quien puede disc?
+[01Jun2025 01:49:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bacalao_1> perame
