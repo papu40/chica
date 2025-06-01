@@ -610,3 +610,33 @@ Reason: Banned by an operator.
 [01Jun2025 22:20:57.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved too quickly! 10.347868432008,0.0,-0.9097200836926618
 [01Jun2025 22:30:47.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved wrongly!
 [01Jun2025 22:30:47.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved wrongly!
+[01Jun2025 22:35:48.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 22:35:48.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 22:39:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned bacalao_1
+[01Jun2025 22:39:31.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player isn't banned
+[01Jun2025 22:40:49.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned BatmanGordo1
+[01Jun2025 22:41:34.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3431e19e[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:59515): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:41:34.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3431e19e[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:59515) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:41:34.306] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:41:43.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@41ebd3e5[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:57145): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:41:43.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41ebd3e5[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:57145) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:41:43.605] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:43:03.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@762a5982[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:56993): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:43:03.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@762a5982[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:56993) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:43:03.506] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:43:36.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6a329ab4[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:56961): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:43:36.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a329ab4[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:56961) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:43:36.205] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:44:21.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@755908ec[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:40357): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:44:21.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@755908ec[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:40357) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:44:21.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
