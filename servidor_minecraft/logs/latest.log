@@ -410,3 +410,20 @@ Reason: Banned by an operator.
 [01Jun2025 21:22:29.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -7.181902648224344,0.7531999805212024,-7.237824553365627
 [01Jun2025 21:22:37.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
 [01Jun2025 21:22:37.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:23:25.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:46993] logged in with entity id 110854 at (-69.50550411045008, 64.41999998688698, 115.90974750033301)
+[01Jun2025 21:23:25.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:23:26.458] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:23:39.656] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:24:01.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 2.7748440578833566,0.0,9.703593271275281
+[01Jun2025 21:27:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[01Jun2025 21:27:44.968] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-999, 56, -203) minecraft:overworld
+[01Jun2025 21:28:19.369] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:28:19.369] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:28:19.370] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:28:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[01Jun2025 21:28:51.936] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1084, 62, -181) minecraft:overworld
+[01Jun2025 21:29:50.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:29:50.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:29:50.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:32:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[01Jun2025 21:32:30.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1083, 63, -181) minecraft:overworld
