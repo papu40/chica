@@ -6,13 +6,5 @@
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "f1c9fe37-60ce-3625-b836-d8af1dc3c6f8",
-    "name": "bacalao_1",
-    "created": "2025-06-01 00:30:53 +0000",
-    "source": "Server",
-    "expires": "forever",
-    "reason": "Banned by an operator."
   }
 ]
