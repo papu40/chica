@@ -285,3 +285,10 @@ Reason: Banned by an operator.
 [01Jun2025 16:32:46.565] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [01Jun2025 16:43:54.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/30244, l='ServerLevel[world]', x=-932.33, y=68.00, z=-180.54] died, message: 'Butcher was slain by Juandi3531'
 [01Jun2025 16:48:38.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31524, l='ServerLevel[world]', x=-843.31, y=75.84, z=-223.29] died, message: 'Farmer was slain by Juandi3531'
+[01Jun2025 16:51:26.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 16:51:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 16:51:36.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:36521] logged in with entity id 39283 at (-935.2694166133067, 72.1875, -200.69999998807907)
+[01Jun2025 16:51:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 16:51:37.078] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 16:54:27.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 16:54:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
