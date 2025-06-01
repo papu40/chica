@@ -4412,3 +4412,18 @@ Reason: Banned by an operator.
 [01Jun2025 18:17:59.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 18:17:59.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 18:20:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Ice Bucket Challenge]
+[01Jun2025 18:22:59.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 18:22:59.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 18:24:16.740] [Worker-Main-183/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jun2025 18:24:16.741] [Worker-Main-183/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jun2025 18:24:16.741] [Worker-Main-183/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jun2025 18:24:16.852] [Worker-Main-183/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Jun2025 18:24:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [We Need to Go Deeper]
+[01Jun2025 18:24:20.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3942ms or 78 ticks behind
+[01Jun2025 18:25:23.312] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Juandi3531 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -95.8 31.8 41.5!","color":"gold"}]'
+[01Jun2025 18:25:23.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 tried to swim in lava
+[01Jun2025 18:25:23.315] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-96, 33, 40) minecraft:the_nether
+[01Jun2025 18:27:38.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 18:27:38.314] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 18:28:03.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 18:28:03.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
