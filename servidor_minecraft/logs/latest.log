@@ -310,3 +310,6 @@ Reason: Banned by an operator.
 [01Jun2025 18:53:00.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved wrongly!
 [01Jun2025 18:57:44.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [01Jun2025 18:59:59.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-847, y=64, z=48} BlockPos{x=-848, y=63, z=49}
+[01Jun2025 19:20:26.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:47385] logged in with entity id 54005 at (-253.81481514545, -56.0, -331.76870929197025)
+[01Jun2025 19:20:26.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 19:20:28.784] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player haazk has successfully logged in.
