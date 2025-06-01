@@ -482,3 +482,71 @@ Reason: Banned by an operator.
 [01Jun2025 02:09:00.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Ferrous Wroughtnaut
 [01Jun2025 02:09:00.651] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-927, 48, -147) minecraft:overworld
 [01Jun2025 02:09:08.980] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:10:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Ferrous Wroughtnaut
+[01Jun2025 02:10:54.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-927, 48, -151) minecraft:overworld
+[01Jun2025 02:11:01.914] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:11:10.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:11:10.362] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(135, 31, 377) minecraft:overworld
+[01Jun2025 02:11:21.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Ferrous Wroughtnaut
+[01Jun2025 02:11:21.648] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-928, 48, -150) minecraft:overworld
+[01Jun2025 02:11:33.740] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:12:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Ferrous Wroughtnaut
+[01Jun2025 02:12:12.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-925, 48, -152) minecraft:overworld
+[01Jun2025 02:12:26.462] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:12:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Ferrous Wroughtnaut
+[01Jun2025 02:12:40.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-926, 48, -151) minecraft:overworld
+[01Jun2025 02:12:51.962] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:13:06.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:14:05.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has completed the challenge [Just a Flesh Wound]
+[01Jun2025 02:15:09.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[01Jun2025 02:15:09.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(170, 23, 392) minecraft:overworld
+[01Jun2025 02:17:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> facu
+[01Jun2025 02:17:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[01Jun2025 02:17:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[01Jun2025 02:17:19.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[01Jun2025 02:17:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[01Jun2025 02:17:20.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 hit the ground too hard
+[01Jun2025 02:17:20.958] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1138, 66, -18) minecraft:overworld
+[01Jun2025 02:17:27.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:51583] logged in with entity id 118364 at (33.5, 66.0, -28.5)
+[01Jun2025 02:17:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[01Jun2025 02:17:28.109] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[01Jun2025 02:17:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> falta
+[01Jun2025 02:17:36.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[01Jun2025 02:17:36.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[01Jun2025 02:17:48.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:59355] logged in with entity id 118559 at (36.94775652375879, 69.0, -24.083652734609753)
+[01Jun2025 02:17:48.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[01Jun2025 02:17:49.367] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[01Jun2025 02:17:49.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Disconnected
+[01Jun2025 02:17:49.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
+[01Jun2025 02:17:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> falta el lemos
+[01Jun2025 02:18:00.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> falta
+[01Jun2025 02:18:13.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> duerma facu
+[01Jun2025 02:18:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> duerma
+[01Jun2025 02:18:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> z
+[01Jun2025 02:18:38.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> z
+[01Jun2025 02:18:38.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> z
+[01Jun2025 02:18:39.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> z
+[01Jun2025 02:18:45.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> o salite otra vez
+[01Jun2025 02:18:47.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[01Jun2025 02:18:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[01Jun2025 02:18:54.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:41557] logged in with entity id 119407 at (119.77582593313636, 70.0, 190.87874500999865)
+[01Jun2025 02:18:54.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[01Jun2025 02:18:54.686] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[01Jun2025 02:18:56.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bacalao_1[/127.130.225.53:51033] logged in with entity id 119682 at (-1148.293345200865, 67.0, -10.57784449488598)
+[01Jun2025 02:18:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 joined the game
+[01Jun2025 02:18:56.981] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player bacalao_1 has successfully logged in.
+[01Jun2025 02:18:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> gracias
+[01Jun2025 02:19:47.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:20:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Gravedigger]
+[01Jun2025 02:21:42.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has left this dimension
+[01Jun2025 02:21:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> wtf
+[01Jun2025 02:22:23.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was impaled by Deepling
+[01Jun2025 02:23:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:23:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:25:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:27:10.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:28:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was blown up by The Leviathan
+[01Jun2025 02:28:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Gravedigger]
+[01Jun2025 02:28:56.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:29:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:30:13.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
