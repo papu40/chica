@@ -250,3 +250,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01Jun2025 14:48:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Stay dead]
 [01Jun2025 14:51:19.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Stay dead]
 [01Jun2025 14:52:01.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Walking Dead]
+[01Jun2025 15:03:37.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 15:03:37.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 15:06:00.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was blown up by Creeper
+[01Jun2025 15:06:00.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-147, -11, -164) minecraft:overworld
+[01Jun2025 15:08:21.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved wrongly!
+[01Jun2025 15:08:36.447] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 15:11:21.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:49251] logged in with entity id 16597 at (-872.8873316727968, -52.0, 31.329641982672566)
+[01Jun2025 15:11:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 15:11:22.614] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 15:13:46.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Hot Stuff]
+[01Jun2025 15:17:39.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 15:17:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
