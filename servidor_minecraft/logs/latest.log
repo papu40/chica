@@ -354,3 +354,36 @@ Reason: Banned by an operator.
 [01Jun2025 20:14:55.195] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 177.0 μs. 293/293 recipes are parallelized.
 [01Jun2025 20:15:16.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [01Jun2025 20:15:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 20:23:51.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:37537] logged in with entity id 79348 at (-878.4820651726909, 75.0, -201.06855142033672)
+[01Jun2025 20:23:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 20:23:51.816] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 20:29:17.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el que no duerme esun violin
+[01Jun2025 20:29:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> good boy
+[01Jun2025 20:34:18.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=66, z=144} BlockPos{x=-95, y=64, z=144}
+[01Jun2025 20:34:19.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=66, z=144} BlockPos{x=-95, y=64, z=144}
+[01Jun2025 20:34:19.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=66, z=144} BlockPos{x=-95, y=64, z=144}
+[01Jun2025 20:34:19.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=66, z=144} BlockPos{x=-95, y=64, z=144}
+[01Jun2025 20:34:19.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=66, z=144} BlockPos{x=-95, y=64, z=144}
+[01Jun2025 20:40:58.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dormi
+[01Jun2025 20:41:05.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> aweonao
+[01Jun2025 20:54:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Zombie
+[01Jun2025 20:54:10.969] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-86, 64, 132) minecraft:overworld
+[01Jun2025 20:54:26.788] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 20:55:19.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Hot Stuff]
+[01Jun2025 20:59:34.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Haazk: Kicked by an operator
+[01Jun2025 20:59:34.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Kicked by an operator
+[01Jun2025 20:59:34.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 20:59:56.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:42581] logged in with entity id 100454 at (-71.7677674431615, 68.0, 130.18101271301646)
+[01Jun2025 20:59:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 20:59:56.939] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:07:31.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 1.375
+[01Jun2025 21:07:31.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 1.375
+[01Jun2025 21:07:31.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 1.375
+[01Jun2025 21:07:31.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 1.375
+[01Jun2025 21:11:31.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was shot by Skeleton
+[01Jun2025 21:11:31.518] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-958, 66, -211) minecraft:overworld
+[01Jun2025 21:11:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uy
+[01Jun2025 21:11:37.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106919, l='ServerLevel[world]', x=-959.94, y=66.90, z=-201.42] died, message: 'Villager was slain by Zombie'
+[01Jun2025 21:12:01.250] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:12:01.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:12:01.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
