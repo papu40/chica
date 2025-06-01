@@ -270,3 +270,11 @@ Reason: Banned by an operator.
 [01Jun2025 15:25:18.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@438f70d0[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:51875) lost connection: You are banned from this server.
 Reason: Banned by an operator.
 [01Jun2025 15:25:18.271] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 15:29:28.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 15:29:28.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 15:37:23.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:49311] logged in with entity id 22381 at (-904.4852479992551, -51.0, 39.173348979203)
+[01Jun2025 15:37:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 15:37:23.708] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 15:55:55.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [They Have a Cave Troll!]
+[01Jun2025 16:01:25.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[01Jun2025 16:01:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game

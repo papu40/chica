@@ -45,9 +45,11 @@
     "criteria": {
       "minecraft:birch_forest": "2025-05-31 00:54:06 +0000",
       "minecraft:beach": "2025-05-31 00:21:25 +0000",
+      "minecraft:dark_forest": "2025-06-01 15:54:52 +0000",
       "minecraft:lukewarm_ocean": "2025-05-31 00:34:13 +0000",
       "minecraft:river": "2025-05-31 00:29:53 +0000",
       "minecraft:forest": "2025-05-31 00:22:22 +0000",
+      "minecraft:lush_caves": "2025-06-01 15:58:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-31 01:11:30 +0000",
       "minecraft:savanna": "2025-05-31 00:18:38 +0000",
       "minecraft:plains": "2025-05-31 00:16:15 +0000"
@@ -464,6 +466,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-01 16:00:44 +0000",
       "cooked_beef": "2025-05-31 00:41:48 +0000",
       "beef": "2025-05-31 00:28:59 +0000",
       "porkchop": "2025-06-01 14:40:03 +0000",
@@ -2309,6 +2312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-01 15:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-06-01 14:40:29 +0000"
@@ -2324,6 +2333,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-01 14:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 15:29:16 +0000"
     },
     "done": true
   },
@@ -2363,15 +2378,39 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 15:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-01 14:40:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 15:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-01 15:13:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-01 15:55:55 +0000"
     },
     "done": true
   },
@@ -2417,15 +2456,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-01 15:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-01 14:38:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-06-01 15:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-01 15:56:10 +0000"
     },
     "done": true
   },
