@@ -2376,5 +2376,17 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-06-01 14:52:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-01 14:48:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

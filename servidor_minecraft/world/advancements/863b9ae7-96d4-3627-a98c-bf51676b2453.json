@@ -470,7 +470,8 @@
       "apple": "2025-06-01 14:32:10 +0000",
       "dried_kelp": "2025-06-01 14:30:45 +0000",
       "salmon": "2025-06-01 14:36:44 +0000",
-      "cooked_chicken": "2025-05-31 14:07:56 +0000"
+      "cooked_chicken": "2025-05-31 14:07:56 +0000",
+      "cooked_salmon": "2025-06-01 14:50:50 +0000"
     },
     "done": false
   },
@@ -2382,6 +2383,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-01 14:51:19 +0000"
     },
     "done": true
   },
