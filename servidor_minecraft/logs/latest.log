@@ -427,3 +427,142 @@ Reason: Banned by an operator.
 [01Jun2025 21:29:50.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
 [01Jun2025 21:32:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
 [01Jun2025 21:32:30.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1083, 63, -181) minecraft:overworld
+[01Jun2025 21:33:44.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Deepling Brute
+[01Jun2025 21:33:44.376] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1082, 63, -180) minecraft:overworld
+[01Jun2025 21:34:48.778] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:34:48.778] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:34:48.778] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.226635948698515,0.0,-9.911428040400352
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.3139478227926134,0.0,-10.300079520523155
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.4012962984880346,0.0,-10.68889392541044
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.488677715623737,0.0,-11.077854962581853
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.5760887800549312,0.0,-11.4669479688055
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.663526527051374,0.0,-11.856159747173024
+[01Jun2025 21:38:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.7509882883558703,0.0,-12.245478420467208
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.8384716625370743,0.0,-12.634893299192811
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.9259744883067924,0.0,-13.024394762804405
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -3.0134948205056844,0.0,-13.413974152811335
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -3.1010309084904293,0.0,-13.803623676572215
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -3.188581176682078,0.0,-14.19333632070996
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -3.2761442070595876,0.0,-14.583105773185395
+[01Jun2025 21:38:41.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -3.3637187234040766,0.0,-14.972926353163388
+[01Jun2025 21:38:42.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.2758210596195454,0.0,-10.13036580067481
+[01Jun2025 21:38:42.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.3634726734472338,0.0,-10.52052956479875
+[01Jun2025 21:38:42.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.4511269148947576,0.0,-10.91070502525099
+[01Jun2025 21:38:42.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.5387835212000596,0.0,-11.300891012398438
+[01Jun2025 21:38:42.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.6264422558773504,0.0,-11.691086473571318
+[01Jun2025 21:38:42.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.7141029060893516,0.0,-12.081290461366848
+[01Jun2025 21:38:42.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.8017652802825523,0.0,-12.471502123122576
+[01Jun2025 21:38:42.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! -2.8894292060588214,0.0,-12.861720691442287
+[01Jun2025 21:38:42.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.6784532283608087,0.0,16.373904541597653
+[01Jun2025 21:38:42.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.678452741457761,0.0,16.37390237424532
+[01Jun2025 21:38:42.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.5907787953514685,0.0,15.983639202414935
+[01Jun2025 21:38:42.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.5031044548537125,0.0,15.593374275029248
+[01Jun2025 21:38:42.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.4154297594036507,0.0,15.203107767643843
+[01Jun2025 21:38:42.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.3277547444965307,0.0,14.812839838258725
+[01Jun2025 21:38:43.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.24007944207807,0.0,14.422570629073903
+[01Jun2025 21:38:43.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.152403880899385,0.0,14.032300268069378
+[01Jun2025 21:38:43.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 3.06472808683651,0.0,13.64202887042714
+[01Jun2025 21:38:43.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.9770520831779095,0.0,13.251756539810998
+[01Jun2025 21:38:43.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.889375890883116,0.0,12.86148336951834
+[01Jun2025 21:38:43.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.8016995288157887,0.0,12.47120944351687
+[01Jun2025 21:38:43.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.714023013953124,0.0,12.08093483737747
+[01Jun2025 21:38:44.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.626346361574747,0.0,11.690659619113944
+[01Jun2025 21:38:44.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.53866958543216,0.0,11.300383849938726
+[01Jun2025 21:38:44.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.4509926979018246,0.0,10.910107584942978
+[01Jun2025 21:38:44.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.3633157101224924,0.0,10.519830873708798
+[01Jun2025 21:38:44.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Haazk) moved too quickly! 2.275638632119069,0.0,10.129553760860034
+[01Jun2025 21:39:17.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk was kicked for floating too long!
+[01Jun2025 21:39:17.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Flying is not enabled on this server
+[01Jun2025 21:39:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:39:32.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:41847] logged in with entity id 119777 at (-294.42760824368264, 63.796735600668704, -415.8166666229481)
+[01Jun2025 21:39:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:39:32.575] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:40:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Voluntary Exile]
+[01Jun2025 21:41:27.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:41:27.362] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-433, 47, -448) minecraft:overworld
+[01Jun2025 21:41:35.154] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:41:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:41:36.862] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-428, 47, -444) minecraft:overworld
+[01Jun2025 21:41:46.123] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:42:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Iron Golem
+[01Jun2025 21:42:25.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1098, 48, -185) minecraft:overworld
+[01Jun2025 21:42:46.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:42:46.161] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-427, 47, -444) minecraft:overworld
+[01Jun2025 21:42:50.942] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:43:32.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:43:32.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-431, 47, -442) minecraft:overworld
+[01Jun2025 21:43:38.437] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:43:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:43:42.864] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-426, 47, -444) minecraft:overworld
+[01Jun2025 21:43:44.813] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:43:44.814] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:43:44.814] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:43:57.219] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:44:17.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:44:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:44:35.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:54127] logged in with entity id 124101 at (-437.08904032298943, 47.0, -451.69999998807907)
+[01Jun2025 21:44:35.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:44:35.879] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:47:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:47:01.012] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-430, 47, -450) minecraft:overworld
+[01Jun2025 21:47:08.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:47:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:47:10.866] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-432, 47, -451) minecraft:overworld
+[01Jun2025 21:47:33.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> juandi
+[01Jun2025 21:47:33.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> te podes desconectar porfa
+[01Jun2025 21:47:35.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:47:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:47:48.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:55047] logged in with entity id 126290 at (-425.87751960626576, 53.5625, -445.9248060844274)
+[01Jun2025 21:47:48.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:47:48.631] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:47:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pa q
+[01Jun2025 21:48:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> para que me valla mejor
+[01Jun2025 21:48:24.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya voy
+[01Jun2025 21:48:32.025] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:48:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:48:39.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-430, 47, -443) minecraft:overworld
+[01Jun2025 21:48:48.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:48:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:49:01.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:43345] logged in with entity id 127054 at (-429.37860296583375, 47.7967356006687, -442.98474157108836)
+[01Jun2025 21:49:01.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:49:01.719] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:49:31.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:49:31.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:49:50.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:37489] logged in with entity id 127720 at (-424.5, 53.0, -446.5)
+[01Jun2025 21:49:50.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:49:52.605] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:50:20.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:50:20.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:50:36.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:42059] logged in with entity id 128300 at (-424.5, 53.0, -446.5)
+[01Jun2025 21:50:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:50:36.894] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:50:45.021] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:51:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:51:10.268] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-431, 47, -449) minecraft:overworld
+[01Jun2025 21:51:33.321] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:51:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Ferrous Wroughtnaut
+[01Jun2025 21:51:37.916] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-433, 47, -443) minecraft:overworld
+[01Jun2025 21:51:55.551] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:52:49.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -3.1152406575325244,-0.16610926093821377,-9.828144036838296
+[01Jun2025 21:53:06.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 21:53:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 21:53:15.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk was kicked for floating too long!
+[01Jun2025 21:53:15.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Flying is not enabled on this server
+[01Jun2025 21:53:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:53:17.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:36793] logged in with entity id 130073 at (-452.36152531694046, 64.00133597911214, -489.02586843146275)
+[01Jun2025 21:53:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:53:18.285] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully logged in.

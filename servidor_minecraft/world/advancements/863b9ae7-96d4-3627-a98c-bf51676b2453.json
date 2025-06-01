@@ -1057,6 +1057,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-01 21:39:57 +0000",
       "minecraft:skeleton": "2025-05-31 01:25:11 +0000",
       "minecraft:spider": "2025-05-31 00:49:18 +0000",
       "minecraft:creeper": "2025-05-31 01:54:45 +0000",
@@ -2778,6 +2779,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-06-01 21:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-01 21:40:08 +0000"
     },
     "done": true
   },
