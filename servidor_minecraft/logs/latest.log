@@ -313,3 +313,21 @@ Reason: Banned by an operator.
 [01Jun2025 19:20:26.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:47385] logged in with entity id 54005 at (-253.81481514545, -56.0, -331.76870929197025)
 [01Jun2025 19:20:26.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
 [01Jun2025 19:20:28.784] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 19:21:38.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Cover Me with Diamonds]
+[01Jun2025 19:21:50.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 19:21:50.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 19:27:17.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:43133] logged in with entity id 55517 at (-847.5257473277741, 76.0, -219.90819025126052)
+[01Jun2025 19:27:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 19:27:17.634] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 19:27:52.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> oie
+[01Jun2025 19:27:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> que
+[01Jun2025 19:27:58.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cuantas zanahorias queri
+[01Jun2025 19:28:16.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> dame 2 stacks si podes
+[01Jun2025 19:28:20.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> altoque
+[01Jun2025 19:28:53.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> graciass
+[01Jun2025 19:28:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dnada
+[01Jun2025 19:28:58.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> chao
+[01Jun2025 19:29:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> nos vemos
+[01Jun2025 19:29:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> xaero-waypoint:aldea:A:-844:75:-220:15:false:0:Internal-overworld-waypoints
+[01Jun2025 19:29:59.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ahí se ven las coords de la aldea
+[01Jun2025 19:30:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> joyaa
