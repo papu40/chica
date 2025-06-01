@@ -4758,3 +4758,9 @@ Reason: Banned by an operator.
 [01Jun2025 19:29:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> xaero-waypoint:aldea:A:-844:75:-220:15:false:0:Internal-overworld-waypoints
 [01Jun2025 19:29:59.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ahí se ven las coords de la aldea
 [01Jun2025 19:30:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> joyaa
+[01Jun2025 19:33:03.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 19:33:03.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 19:38:03.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 19:38:03.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 19:39:39.723] [Server thread/DEBUG] [simplelogin/]: Checking command 'seed'
+[01Jun2025 19:39:39.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [5348004889988235765]
