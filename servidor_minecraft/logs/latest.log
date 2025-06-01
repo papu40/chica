@@ -242,3 +242,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01Jun2025 14:32:11.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> creo que si
 [01Jun2025 14:32:13.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [01Jun2025 14:32:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 14:38:31.370] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/7398, l='ServerLevel[world]', x=-316.65, y=69.00, z=-337.60]
+[01Jun2025 14:42:25.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:60011] logged in with entity id 8354 at (-861.9691835068436, -34.0, 25.531473071543093)
+[01Jun2025 14:42:25.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 14:42:25.790] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 14:46:30.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=-25} BlockPos{x=-104, y=56, z=-25}

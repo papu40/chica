@@ -466,6 +466,7 @@
     "criteria": {
       "cooked_beef": "2025-05-31 00:41:48 +0000",
       "beef": "2025-05-31 00:28:59 +0000",
+      "porkchop": "2025-06-01 14:40:03 +0000",
       "apple": "2025-06-01 14:32:10 +0000",
       "dried_kelp": "2025-06-01 14:30:45 +0000",
       "salmon": "2025-06-01 14:36:44 +0000",
@@ -2294,15 +2295,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-01 14:35:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-06-01 14:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-01 14:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-01 14:38:50 +0000"
     },
     "done": true
   },
@@ -2321,6 +2376,24 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-01 14:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-01 14:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 14:40:29 +0000"
     },
     "done": true
   },
