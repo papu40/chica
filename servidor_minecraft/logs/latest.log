@@ -570,3 +570,30 @@ Reason: Banned by an operator.
 [01Jun2025 21:57:12.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 10.123390846324583,-0.1647732818260721,-0.9418137124090435
 [01Jun2025 21:59:03.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
 [01Jun2025 21:59:03.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 22:04:11.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:43793] logged in with entity id 131722 at (-970.3007476001923, 66.0, -206.78316208897579)
+[01Jun2025 22:04:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 22:04:11.487] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 22:05:24.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by puto
+[01Jun2025 22:05:24.816] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-990, 60, -196) minecraft:overworld
+[01Jun2025 22:05:57.261] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 22:05:57.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:05:57.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:06:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by puto
+[01Jun2025 22:06:04.663] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1020, 61, -196) minecraft:overworld
+[01Jun2025 22:06:55.489] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 22:06:55.489] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:06:55.489] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:07:05.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by puto
+[01Jun2025 22:07:05.611] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1056, 49, -184) minecraft:overworld
+[01Jun2025 22:07:59.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved too quickly! 2.421201279853449,-13.35445778409116,0.09262392744113868
+[01Jun2025 22:07:59.913] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 22:07:59.913] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:07:59.913] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:10:57.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Iron Golem
+[01Jun2025 22:10:57.064] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1090, 66, -179) minecraft:overworld
+[01Jun2025 22:12:03.512] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 22:12:03.512] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:12:03.512] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 22:12:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Iron Golem
+[01Jun2025 22:12:05.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1091, 67, -179) minecraft:overworld
+[01Jun2025 22:13:07.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Deepling Brute
