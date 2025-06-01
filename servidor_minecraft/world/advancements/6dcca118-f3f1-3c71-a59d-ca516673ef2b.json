@@ -45,12 +45,14 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-06-01 00:35:56 +0000",
       "minecraft:beach": "2025-05-31 01:16:34 +0000",
+      "minecraft:dark_forest": "2025-06-01 03:58:44 +0000",
       "minecraft:lukewarm_ocean": "2025-05-31 01:19:56 +0000",
       "minecraft:river": "2025-05-31 01:08:29 +0000",
       "minecraft:stony_shore": "2025-06-01 00:31:39 +0000",
       "minecraft:forest": "2025-05-31 01:11:34 +0000",
       "minecraft:ocean": "2025-06-01 00:35:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-31 01:55:35 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-01 03:57:59 +0000",
       "minecraft:savanna": "2025-05-31 01:08:25 +0000",
       "minecraft:plains": "2025-05-31 01:07:47 +0000"
     },
@@ -551,6 +553,7 @@
     "criteria": {
       "chicken": "2025-05-31 23:55:45 +0000",
       "baked_potato": "2025-05-31 02:49:59 +0000",
+      "beef": "2025-06-01 03:58:26 +0000",
       "potato": "2025-05-31 02:23:48 +0000",
       "cooked_cod": "2025-05-31 23:54:50 +0000",
       "mutton": "2025-05-31 02:10:44 +0000",
@@ -1762,6 +1765,138 @@
   "iceandfire:recipes/combat/armor_silver_metal_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-01 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-01 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-01 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-01 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-06-01 03:58:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-01 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-06-01 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-01 04:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-01 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-06-01 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-06-01 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-01 04:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-01 04:50:21 +0000"
     },
     "done": true
   },
