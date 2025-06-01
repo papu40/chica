@@ -1073,9 +1073,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/kill_horde": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "kill_horde": "2025-06-01 05:05:52 +0000"
+      "has_bow": "2025-06-01 04:59:07 +0000"
     },
     "done": true
   },
@@ -1085,9 +1085,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "graveyard:graveyard/kill_horde": {
     "criteria": {
-      "has_bow": "2025-06-01 04:59:07 +0000"
+      "kill_horde": "2025-06-01 05:05:52 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-01 05:05:52 +0000"
     },
     "done": true
   },
@@ -1097,9 +1103,63 @@
     },
     "done": true
   },
-  "graveyard:graveyard/kill_graveyard_mob": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "ghoul": "2025-06-01 05:05:52 +0000"
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-06-01 22:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-01 22:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-01 22:55:06 +0000"
     },
     "done": true
   },

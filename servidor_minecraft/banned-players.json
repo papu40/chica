@@ -6,13 +6,5 @@
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "0fd2dcb8-8194-3d61-98da-e114271d9a83",
-    "name": "Pradolf56",
-    "created": "2025-06-01 04:57:04 +0000",
-    "source": "Server",
-    "expires": "forever",
-    "reason": "Banned by an operator."
   }
 ]

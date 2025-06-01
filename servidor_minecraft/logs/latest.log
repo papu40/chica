@@ -640,3 +640,140 @@ Reason: Banned by an operator.
 [01Jun2025 22:44:21.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@755908ec[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:40357) lost connection: You are banned from this server.
 Reason: Banned by an operator.
 [01Jun2025 22:44:21.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:45:11.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:49945] logged in with entity id 142357 at (-935.3404986585226, 67.0, -203.29310969839037)
+[01Jun2025 22:45:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 22:45:11.521] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 22:45:28.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 22:45:28.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 22:45:28.756] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1c3f24c6[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:49629): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:45:28.757] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c3f24c6[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:49629) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:45:28.806] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:45:33.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:58949] logged in with entity id 142581 at (-473.41493814483766, 70.59360012650525, -497.51249998807907)
+[01Jun2025 22:45:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[01Jun2025 22:45:33.579] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[01Jun2025 22:45:55.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4c8c5f5b[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:50197): You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:45:55.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c8c5f5b[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:50197) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[01Jun2025 22:45:55.513] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 22:46:13.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was blown up by Creeper
+[01Jun2025 22:46:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[01Jun2025 22:46:32.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned Pradolf56
+[01Jun2025 22:46:53.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:60885] logged in with entity id 143860 at (-3179.1886483814746, 95.0, -652.5224428211365)
+[01Jun2025 22:46:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[01Jun2025 22:46:53.708] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[01Jun2025 22:47:05.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> hola
+[01Jun2025 22:47:07.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Spiky Worm
+[01Jun2025 22:47:16.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ahora si puedo dormir xdddd
+[01Jun2025 22:47:18.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> HOLAS
+[01Jun2025 22:47:31.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:56027] logged in with entity id 144673 at (-935.3404986585226, 67.0, -203.29310969839037)
+[01Jun2025 22:47:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 22:47:32.284] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 22:47:37.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> juandi
+[01Jun2025 22:47:43.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> q
+[01Jun2025 22:47:59.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> viste por que no conteste los mensajes de ir a dormir
+[01Jun2025 22:48:03.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -13.635687452857496,-9.0,1.3681656247749743
+[01Jun2025 22:48:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Spiky Worm
+[01Jun2025 22:48:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> por que la gorda del lemos queria tirar mi mascota al mini jefe picha
+[01Jun2025 22:48:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> JAJAJAJ
+[01Jun2025 22:48:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> y de paso con los 4 mil mensajes de muerte
+[01Jun2025 22:48:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was blown up by Creeper
+[01Jun2025 22:48:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:48:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cual es tu macota
+[01Jun2025 22:48:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> un caballero
+[01Jun2025 22:49:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:49:06.622] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-493, 63, -522) minecraft:overworld
+[01Jun2025 22:49:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya conseguiste esa invocación?
+[01Jun2025 22:49:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> sis
+[01Jun2025 22:49:20.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> puta
+[01Jun2025 22:49:26.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> no es dificl
+[01Jun2025 22:49:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> dificil es domesticarlo
+[01Jun2025 22:49:45.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> le tenes que dar un monton de hierro para que te siga
+[01Jun2025 22:49:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Spiky Worm
+[01Jun2025 22:49:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> sisi
+[01Jun2025 22:49:54.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si sé
+[01Jun2025 22:50:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:50:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> y si me lo mataba el lemos, te iba decir que le dijeras algo
+[01Jun2025 22:50:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:50:19.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> como un kickeo, baneo eso si que no se
+[01Jun2025 22:50:23.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> leiba a decir gay
+[01Jun2025 22:50:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[01Jun2025 22:50:29.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:50:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> putaa
+[01Jun2025 22:50:37.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> por que cuesta conseguir el alma
+[01Jun2025 22:50:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[01Jun2025 22:50:44.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> benja te ayudo?
+[01Jun2025 22:50:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:51:01.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> es que lo que pasa es que parece que despawneo mi tumba
+[01Jun2025 22:51:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[01Jun2025 22:51:20.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:51:20.920] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-492, 63, -525) minecraft:overworld
+[01Jun2025 22:51:28.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> juandi, dijiste que solo esta el tpa pero no el home y el back?
+[01Jun2025 22:51:36.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:51:52.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:52:05.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> puedo ir con vos juandi?
+[01Jun2025 22:52:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:52:29.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:52:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si
+[01Jun2025 22:52:33.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[01Jun2025 22:52:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> solo tpa
+[01Jun2025 22:52:38.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> a
+[01Jun2025 22:52:42.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y si podes veir
+[01Jun2025 22:52:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:52:44.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> a bueno
+[01Jun2025 22:52:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:53:04.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> opa
+[01Jun2025 22:53:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:53:33.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> la mascota valio pinga :(
+[01Jun2025 22:53:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:53:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[01Jun2025 22:54:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has completed the challenge [The One - Armed Monster]
+[01Jun2025 22:54:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> creo que con el escudo se puede respawnear
+[01Jun2025 22:54:11.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[01Jun2025 22:54:13.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> veni
+[01Jun2025 22:54:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> el tema es que se gasta
+[01Jun2025 22:54:24.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> lo usas y desaparece
+[01Jun2025 22:54:31.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> XD
+[01Jun2025 22:54:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> meno mal
+[01Jun2025 22:54:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> veni
+[01Jun2025 22:54:41.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> violin
+[01Jun2025 22:54:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[01Jun2025 22:54:44.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> violin
+[01Jun2025 22:54:49.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> violin
+[01Jun2025 22:55:04.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> benja, podes discord?
+[01Jun2025 22:55:13.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
+[01Jun2025 22:55:14.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> esta
+[01Jun2025 22:55:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[01Jun2025 22:55:20.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> es la granja de aldeanos
+[01Jun2025 22:55:22.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[01Jun2025 22:55:27.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> esta bueno
+[01Jun2025 22:55:27.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Spiky Worm
+[01Jun2025 22:55:27.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-457, 63, -530) minecraft:overworld
+[01Jun2025 22:55:34.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si les das zanahorias cojen
+[01Jun2025 22:55:40.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> opa
+[01Jun2025 22:55:53.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y acá está la aldea
+[01Jun2025 22:55:59.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[01Jun2025 22:57:58.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [A Seedy Place]
+[01Jun2025 22:59:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> che
+[01Jun2025 22:59:41.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ahora como vuelvo a donde estaba?
+[01Jun2025 22:59:43.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[01Jun2025 22:59:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[01Jun2025 22:59:49.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:36685] logged in with entity id 158671 at (-835.9476543610189, 77.0, -219.246998485708)
+[01Jun2025 22:59:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[01Jun2025 22:59:50.165] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[01Jun2025 22:59:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> caminando :v
+[01Jun2025 23:00:03.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> :(
+[01Jun2025 23:00:10.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pa que queria venir
+[01Jun2025 23:00:17.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> prado
+[01Jun2025 23:00:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> para ver la aldea y tu casa
+[01Jun2025 23:00:20.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ?
+[01Jun2025 23:00:22.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tenes huesitos
+[01Jun2025 23:00:26.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> si
+[01Jun2025 23:00:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> diablo gracia
+[01Jun2025 23:00:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> de nada
+[01Jun2025 23:04:09.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Who is Cutting Onions?]
+[01Jun2025 23:04:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ferrous Wroughtnaut
+[01Jun2025 23:04:40.213] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-427, 47, -444) minecraft:overworld
+[01Jun2025 23:04:43.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
