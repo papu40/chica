@@ -351,3 +351,6 @@ Reason: Banned by an operator.
 [01Jun2025 20:05:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> bld me encontre un cementerio
 [01Jun2025 20:05:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> y me aparecieron fantasmas
 [01Jun2025 20:05:44.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> good
+[01Jun2025 20:14:55.195] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 177.0 μs. 293/293 recipes are parallelized.
+[01Jun2025 20:15:16.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 20:15:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
