@@ -7340,3 +7340,568 @@ Reason: Banned by an operator.
 [01Jun2025 02:29:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
 [01Jun2025 02:30:13.006] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 164.6 16.4 390.2!","color":"gold"}]'
 [01Jun2025 02:30:13.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Deepling Brute
+[01Jun2025 02:30:53.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:30:53.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:30:53.344] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 179.2 26.5 388.5!","color":"gold"}]'
+[01Jun2025 02:30:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:31:09.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[01Jun2025 02:31:12.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[01Jun2025 02:31:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[01Jun2025 02:31:33.071] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:31:33.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[01Jun2025 02:31:33.154] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Jun2025 02:31:33.206] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[01Jun2025 02:31:33.255] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[01Jun2025 02:31:33.305] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[01Jun2025 02:31:33.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[01Jun2025 02:31:33.403] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mowziesmobs, kuma_api, trashslot, jade, geckolib, chunky, jei, graveyard, lionfishapi, simplelogin, stalwart_dungeons, sophisticatedcore, cataclysm, curios, fastsuite, clumps, cerbons_api, journeymap, placebo, citadel, legendary_monsters, entityculling, mixinextras, call_of_yucutan, sophisticatedbackpacks, ferritecore, iceandfire, balm, flib, bosses_of_mass_destruction, cloth_config, forge, appleskin, simpletomb, embeddium, rubidium]
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simplelogin:main' : Version test of '1.1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tpa:tpa' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'call_of_yucutan:call_of_yucutan' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[01Jun2025 02:31:33.415] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[01Jun2025 02:31:33.415] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[01Jun2025 02:31:33.452] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[01Jun2025 02:31:33.498] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[01Jun2025 02:31:33.498] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:33.498] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:33.506] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[01Jun2025 02:31:33.506] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[01Jun2025 02:31:33.506] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:33.506] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:33.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[01Jun2025 02:31:33.603] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[01Jun2025 02:31:33.652] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[01Jun2025 02:31:33.704] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[01Jun2025 02:31:33.752] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[01Jun2025 02:31:33.804] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[01Jun2025 02:31:33.855] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[01Jun2025 02:31:33.903] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[01Jun2025 02:31:33.954] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[01Jun2025 02:31:33.990] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[01Jun2025 02:31:33.990] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:33.990] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:33.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[01Jun2025 02:31:33.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:33.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:33.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[01Jun2025 02:31:33.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:33.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.003] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[01Jun2025 02:31:34.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[01Jun2025 02:31:34.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[01Jun2025 02:31:34.153] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 21
+[01Jun2025 02:31:34.202] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 22
+[01Jun2025 02:31:34.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config simplelogin-server.toml' to 'fml:handshake' sequence 23
+[01Jun2025 02:31:34.303] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 24
+[01Jun2025 02:31:34.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 25
+[01Jun2025 02:31:34.522] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[01Jun2025 02:31:34.522] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.522] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.562] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[01Jun2025 02:31:34.562] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.563] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.563] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[01Jun2025 02:31:34.563] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.563] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.566] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[01Jun2025 02:31:34.566] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.566] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.566] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[01Jun2025 02:31:34.566] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.566] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[01Jun2025 02:31:34.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.568] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.889] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[01Jun2025 02:31:34.889] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.889] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:34.889] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[01Jun2025 02:31:34.889] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:34.889] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[01Jun2025 02:31:36.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:36.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[01Jun2025 02:31:36.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:36.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.187] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[01Jun2025 02:31:36.187] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:36.187] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.190] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[01Jun2025 02:31:36.190] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:36.190] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.190] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[01Jun2025 02:31:36.190] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:36.190] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[01Jun2025 02:31:36.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 02:31:36.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 02:31:36.205] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01Jun2025 02:31:36.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:52819] logged in with entity id 135331 at (192.1554840861589, 26.0, 388.29422944168954)
+[01Jun2025 02:31:36.262] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@56e1f620 into net.minecraft.network.Connection@57c8d7e3
+[01Jun2025 02:31:36.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[01Jun2025 02:31:36.609] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[01Jun2025 02:31:52.950] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2177.5 68.6 -279.6!","color":"gold"}]'
+[01Jun2025 02:31:52.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was incinerated by Fire Dragon
+[01Jun2025 02:31:52.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2177, 67, -280) minecraft:overworld
+[01Jun2025 02:31:58.100] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2185.4 62 -282.7!","color":"gold"}]'
+[01Jun2025 02:31:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was turned into KFC by Fire Dragon
+[01Jun2025 02:31:58.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2186, 62, -283) minecraft:overworld
+[01Jun2025 02:31:59.050] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2177.8 65.4 -280.4!","color":"gold"}]'
+[01Jun2025 02:31:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was turned into KFC by Fire Dragon
+[01Jun2025 02:32:05.651] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2178.8 63 -311.6!","color":"gold"}]'
+[01Jun2025 02:32:05.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was turned into KFC by Fire Dragon
+[01Jun2025 02:32:09.109] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:32:30.385] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:33:02.504] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 150.3 8.3 393.8!","color":"gold"}]'
+[01Jun2025 02:33:02.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:35:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [A Terrifying Entrance]
+[01Jun2025 02:35:53.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:35:53.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:35:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [A Terrifying Entrance]
+[01Jun2025 02:36:09.705] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2514.1 91 2.3!","color":"gold"}]'
+[01Jun2025 02:36:09.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Knight
+[01Jun2025 02:36:09.706] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2515, 91, 2) minecraft:overworld
+[01Jun2025 02:36:14.505] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2516.9 91 -0.4!","color":"gold"}]'
+[01Jun2025 02:36:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Haunted Knight
+[01Jun2025 02:36:14.506] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2517, 91, -1) minecraft:overworld
+[01Jun2025 02:36:18.814] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:36:20.505] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2510.7 91 -1.4!","color":"gold"}]'
+[01Jun2025 02:36:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Guard
+[01Jun2025 02:36:20.506] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2511, 91, -2) minecraft:overworld
+[01Jun2025 02:36:24.617] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2515.7 91 2.1!","color":"gold"}]'
+[01Jun2025 02:36:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Haunted Knight
+[01Jun2025 02:36:28.559] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2510.6 91 4!","color":"gold"}]'
+[01Jun2025 02:36:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Knight
+[01Jun2025 02:36:36.154] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2512.5 91 0.2!","color":"gold"}]'
+[01Jun2025 02:36:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Knight
+[01Jun2025 02:36:38.924] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:36:39.268] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2514.3 91.6 0.8!","color":"gold"}]'
+[01Jun2025 02:36:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Haunted Guard
+[01Jun2025 02:36:39.269] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2515, 91, 0) minecraft:overworld
+[01Jun2025 02:37:22.054] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2511.8 91 9!","color":"gold"}]'
+[01Jun2025 02:37:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Knight
+[01Jun2025 02:38:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Living Armor]
+[01Jun2025 02:38:09.467] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 173.8 26.4 391.7!","color":"gold"}]'
+[01Jun2025 02:38:09.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:38:34.301] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2509.9 91 5.6!","color":"gold"}]'
+[01Jun2025 02:38:34.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Guard
+[01Jun2025 02:38:34.302] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2510, 91, 5) minecraft:overworld
+[01Jun2025 02:38:48.001] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2507.9 91 8!","color":"gold"}]'
+[01Jun2025 02:38:48.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Guard
+[01Jun2025 02:38:48.002] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2508, 91, 8) minecraft:overworld
+[01Jun2025 02:39:02.201] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2506.5 95 8.8!","color":"gold"}]'
+[01Jun2025 02:39:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Guard
+[01Jun2025 02:39:03.615] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 171.7 25 389.7!","color":"gold"}]'
+[01Jun2025 02:39:03.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:39:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Living Armor]
+[01Jun2025 02:39:21.661] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 178.8 25.6 388.7!","color":"gold"}]'
+[01Jun2025 02:39:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by The Leviathan using magic
+[01Jun2025 02:39:30.342] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:39:38.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Undead Guard]
+[01Jun2025 02:39:49.461] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 174.3 27.6 390.6!","color":"gold"}]'
+[01Jun2025 02:39:49.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:39:51.184] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:40:17.402] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.3 91 -0.6!","color":"gold"}]'
+[01Jun2025 02:40:17.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Haunted Guard
+[01Jun2025 02:40:17.403] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 91, -1) minecraft:overworld
+[01Jun2025 02:40:27.811] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:40:49.052] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2520.2 92 7.7!","color":"gold"}]'
+[01Jun2025 02:40:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Haunted Knight
+[01Jun2025 02:40:49.053] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2520, 93, 6) minecraft:overworld
+[01Jun2025 02:40:53.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:40:53.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:41:04.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:41:05.051] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2521.1 92 7.7!","color":"gold"}]'
+[01Jun2025 02:41:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Haunted Knight
+[01Jun2025 02:41:05.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2523, 93, 8) minecraft:overworld
+[01Jun2025 02:41:07.611] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 176.3 25 400.7!","color":"gold"}]'
+[01Jun2025 02:41:07.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:41:16.430] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:41:53.006] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 165.7 25 407.7!","color":"gold"}]'
+[01Jun2025 02:41:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[01Jun2025 02:42:47.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 has made the advancement [Diamonds!]
+[01Jun2025 02:43:12.901] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2508.7 83 27.7!","color":"gold"}]'
+[01Jun2025 02:43:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Haunted Knight
+[01Jun2025 02:43:12.903] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2509, 82, 27) minecraft:overworld
+[01Jun2025 02:43:50.605] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 100.9 26 388.7!","color":"gold"}]'
+[01Jun2025 02:43:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:44:40.557] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 101.9 26 388.5!","color":"gold"}]'
+[01Jun2025 02:44:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:44:42.011] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2500.8 86 25.5!","color":"gold"}]'
+[01Jun2025 02:44:42.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:44:42.012] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2501, 86, 25) minecraft:overworld
+[01Jun2025 02:44:58.861] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:45:01.231] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:45:10.152] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2508.7 86 27.6!","color":"gold"}]'
+[01Jun2025 02:45:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:45:10.153] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2509, 86, 27) minecraft:overworld
+[01Jun2025 02:45:13.157] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 168.7 20.3 402.1!","color":"gold"}]'
+[01Jun2025 02:45:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Coralssus
+[01Jun2025 02:45:31.050] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2511.8 81.8 15.7!","color":"gold"}]'
+[01Jun2025 02:45:31.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:45:31.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2512, 81, 15) minecraft:overworld
+[01Jun2025 02:45:53.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:45:53.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:46:25.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:47:25.348] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2511.3 86 19.2!","color":"gold"}]'
+[01Jun2025 02:47:25.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:47:25.349] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2512, 86, 19) minecraft:overworld
+[01Jun2025 02:48:03.649] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.1 81 5.2!","color":"gold"}]'
+[01Jun2025 02:48:03.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:48:03.650] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 81, 5) minecraft:overworld
+[01Jun2025 02:48:15.510] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 121.9 26.2 361!","color":"gold"}]'
+[01Jun2025 02:48:15.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:48:53.950] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2492.3 81 26!","color":"gold"}]'
+[01Jun2025 02:48:53.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:48:53.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2493, 81, 26) minecraft:overworld
+[01Jun2025 02:49:01.058] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 125.4 3.9 382.4!","color":"gold"}]'
+[01Jun2025 02:49:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 drowned whilst trying to escape Coralssus
+[01Jun2025 02:49:14.051] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2501 81 16.5!","color":"gold"}]'
+[01Jun2025 02:49:14.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:49:44.664] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 136.7 -16 391.3!","color":"gold"}]'
+[01Jun2025 02:49:44.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 drowned
+[01Jun2025 02:49:58.452] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2501.3 86 23.9!","color":"gold"}]'
+[01Jun2025 02:49:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:49:58.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2502, 86, 23) minecraft:overworld
+[01Jun2025 02:50:14.914] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:50:25.348] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.7 81 20.6!","color":"gold"}]'
+[01Jun2025 02:50:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:50:25.349] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 81, 20) minecraft:overworld
+[01Jun2025 02:50:53.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:50:53.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:51:07.086] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:51:21.865] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:51:23.798] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2507.1 83 24.7!","color":"gold"}]'
+[01Jun2025 02:51:23.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:51:23.800] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2508, 82, 24) minecraft:overworld
+[01Jun2025 02:51:45.112] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 133.4 -8 388.1!","color":"gold"}]'
+[01Jun2025 02:51:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:51:54.997] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2510.3 87 11.2!","color":"gold"}]'
+[01Jun2025 02:51:54.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:51:54.998] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2511, 87, 11) minecraft:overworld
+[01Jun2025 02:51:55.163] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:52:00.047] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.1 81.8 12.2!","color":"gold"}]'
+[01Jun2025 02:52:00.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:52:00.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 81, 12) minecraft:overworld
+[01Jun2025 02:52:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> el leviatan destruye tumbas
+[01Jun2025 02:52:19.407] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:52:21.548] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.2 81 14.7!","color":"gold"}]'
+[01Jun2025 02:52:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:52:21.549] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2503, 81, 14) minecraft:overworld
+[01Jun2025 02:52:25.698] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2512.2 81 11.6!","color":"gold"}]'
+[01Jun2025 02:52:25.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:52:44.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved too quickly! 1.3580885079770724,-29.0,3.973451102639217
+[01Jun2025 02:52:52.311] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 158.4 -3.6 375.3!","color":"gold"}]'
+[01Jun2025 02:52:52.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 drowned
+[01Jun2025 02:52:57.834] [Server thread/DEBUG] [simplelogin/]: Checking command 'tpa Pradolf56'
+[01Jun2025 02:52:57.834] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You sent a teleport request!","color":"gold"}]'
+[01Jun2025 02:52:57.834] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56  ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You received a teleport request from ","color":"gold"},{"text":"bacalao_1","bold":true,"color":"gold"},{"text":"! To accept it, type /tpaccept.","color":"gold"}]'
+[01Jun2025 02:53:09.243] [Server thread/DEBUG] [simplelogin/]: Checking command 'tpaccept'
+[01Jun2025 02:53:09.243] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleporting in 5 seconds...","color":"gold"}]'
+[01Jun2025 02:53:09.243] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You accepted the teleport request!","color":"gold"}]'
+[01Jun2025 02:53:14.232] [Server thread/DEBUG] [simplelogin/]: Checking command 'tp bacalao_1 Pradolf56'
+[01Jun2025 02:53:14.232] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleported!","color":"gold"}]'
+[01Jun2025 02:53:22.914] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 164.5 14.4 410.3!","color":"gold"}]'
+[01Jun2025 02:53:22.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by The Leviathan using magic
+[01Jun2025 02:53:22.936] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(168, 12, 409) minecraft:overworld
+[01Jun2025 02:53:51.362] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 167.3 20.8 397.8!","color":"gold"}]'
+[01Jun2025 02:53:51.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:53:53.669] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:53:53.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -9.946879085063756,1.0,-13.379064761163903
+[01Jun2025 02:53:55.099] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.5 81 17.5!","color":"gold"}]'
+[01Jun2025 02:53:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:53:55.100] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2503, 81, 17) minecraft:overworld
+[01Jun2025 02:53:56.414] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:54:00.807] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:54:03.148] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2500.5 81.4 15.8!","color":"gold"}]'
+[01Jun2025 02:54:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:54:03.149] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2501, 81, 15) minecraft:overworld
+[01Jun2025 02:54:09.014] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:54:12.299] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2506.1 81.4 17.9!","color":"gold"}]'
+[01Jun2025 02:54:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:54:12.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2507, 81, 17) minecraft:overworld
+[01Jun2025 02:54:16.008] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 152.5 1.5 382.7!","color":"gold"}]'
+[01Jun2025 02:54:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:54:23.864] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:54:27.098] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.2 81 19.8!","color":"gold"}]'
+[01Jun2025 02:54:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:54:27.099] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2503, 81, 19) minecraft:overworld
+[01Jun2025 02:54:34.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:54:42.500] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2505.6 82 11.1!","color":"gold"}]'
+[01Jun2025 02:54:42.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:54:42.502] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2507, 82, 11) minecraft:overworld
+[01Jun2025 02:54:48.258] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:54:49.748] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2492.3 81 26.3!","color":"gold"}]'
+[01Jun2025 02:54:49.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:54:49.749] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2493, 81, 26) minecraft:overworld
+[01Jun2025 02:54:54.498] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.7 81 14.2!","color":"gold"}]'
+[01Jun2025 02:54:54.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:54:54.499] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 81, 14) minecraft:overworld
+[01Jun2025 02:54:55.563] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 162.3 9.1 392.4!","color":"gold"}]'
+[01Jun2025 02:54:55.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by The Leviathan using magic
+[01Jun2025 02:54:55.565] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(160, 10, 389) minecraft:overworld
+[01Jun2025 02:54:59.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -3.3575972028802425,-10.0,-2.275122543550294
+[01Jun2025 02:54:59.923] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:01.149] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.9 81 15.5!","color":"gold"}]'
+[01Jun2025 02:55:01.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:55:01.150] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 81, 15) minecraft:overworld
+[01Jun2025 02:55:06.111] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:06.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:06.848] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2504.3 81 14!","color":"gold"}]'
+[01Jun2025 02:55:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:55:06.849] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2505, 81, 14) minecraft:overworld
+[01Jun2025 02:55:11.712] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:14.209] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 162.9 8.5 391.1!","color":"gold"}]'
+[01Jun2025 02:55:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was killed by The Leviathan using magic
+[01Jun2025 02:55:14.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(159, 8, 389) minecraft:overworld
+[01Jun2025 02:55:14.398] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2499.8 82.4 18.8!","color":"gold"}]'
+[01Jun2025 02:55:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:55:14.399] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2500, 81, 18) minecraft:overworld
+[01Jun2025 02:55:19.560] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:20.999] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2510.1 81 7!","color":"gold"}]'
+[01Jun2025 02:55:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:55:21.000] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2511, 81, 6) minecraft:overworld
+[01Jun2025 02:55:28.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -9.5,-10.0,-7.5
+[01Jun2025 02:55:29.655] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:35.748] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2507.4 81 13!","color":"gold"}]'
+[01Jun2025 02:55:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:55:35.749] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2508, 81, 12) minecraft:overworld
+[01Jun2025 02:55:37.371] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2505.7 82.2 19.4!","color":"gold"}]'
+[01Jun2025 02:55:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:55:37.372] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2506, 81, 19) minecraft:overworld
+[01Jun2025 02:55:42.454] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 153.3 15.8 398.4!","color":"gold"}]'
+[01Jun2025 02:55:42.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by The Leviathan
+[01Jun2025 02:55:43.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -6.69644176362408,-10.0,-1.5
+[01Jun2025 02:55:44.264] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:44.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:55:45.609] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2505.6 82.2 15.1!","color":"gold"}]'
+[01Jun2025 02:55:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:55:45.610] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2506, 81, 15) minecraft:overworld
+[01Jun2025 02:55:47.099] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2506 81 16.5!","color":"gold"}]'
+[01Jun2025 02:55:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:55:47.100] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2506, 81, 16) minecraft:overworld
+[01Jun2025 02:55:50.949] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.3 81 15.3!","color":"gold"}]'
+[01Jun2025 02:55:50.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:55:53.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:55:53.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:56:01.007] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:06.074] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:09.648] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2506.6 81.9 15.3!","color":"gold"}]'
+[01Jun2025 02:56:09.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:56:09.649] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2507, 81, 15) minecraft:overworld
+[01Jun2025 02:56:11.323] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2510.2 81 12.8!","color":"gold"}]'
+[01Jun2025 02:56:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:56:11.325] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2511, 81, 12) minecraft:overworld
+[01Jun2025 02:56:11.421] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 161.5 22.4 389.2!","color":"gold"}]'
+[01Jun2025 02:56:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was exterminated by The Leviathan 's laser
+[01Jun2025 02:56:13.667] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:18.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -9.5,-10.0,-1.5
+[01Jun2025 02:56:19.248] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2499.7 82.7 21.5!","color":"gold"}]'
+[01Jun2025 02:56:19.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:56:19.250] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2500, 81, 21) minecraft:overworld
+[01Jun2025 02:56:19.441] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:24.152] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2509.2 81.9 13.9!","color":"gold"}]'
+[01Jun2025 02:56:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:56:24.153] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2510, 81, 13) minecraft:overworld
+[01Jun2025 02:56:24.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:31.548] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.2 82.3 25!","color":"gold"}]'
+[01Jun2025 02:56:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:56:31.550] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2503, 81, 24) minecraft:overworld
+[01Jun2025 02:56:31.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -8.5,-10.0,-0.5
+[01Jun2025 02:56:32.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:36.399] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.3 81 18.8!","color":"gold"}]'
+[01Jun2025 02:56:36.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:56:36.400] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2503, 81, 18) minecraft:overworld
+[01Jun2025 02:56:43.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 moved too quickly! -1.5,-10.0,4.5
+[01Jun2025 02:56:44.768] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:45.658] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:56:47.105] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 161.4 -12.8 388.2!","color":"gold"}]'
+[01Jun2025 02:56:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 drowned whilst trying to escape The Leviathan
+[01Jun2025 02:56:50.399] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2494.3 83.3 5.4!","color":"gold"}]'
+[01Jun2025 02:56:50.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:56:50.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2495, 81, 5) minecraft:overworld
+[01Jun2025 02:56:59.157] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:57:01.798] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2510.6 81 25.8!","color":"gold"}]'
+[01Jun2025 02:57:01.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:57:01.799] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2511, 81, 25) minecraft:overworld
+[01Jun2025 02:57:07.597] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2499.3 81 24.1!","color":"gold"}]'
+[01Jun2025 02:57:07.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:57:07.598] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2500, 81, 24) minecraft:overworld
+[01Jun2025 02:57:08.558] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:57:11.148] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2503.3 81.2 22.3!","color":"gold"}]'
+[01Jun2025 02:57:11.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:57:11.149] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2504, 81, 22) minecraft:overworld
+[01Jun2025 02:57:15.847] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw bacalao_1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2496.8 83 25!","color":"gold"}]'
+[01Jun2025 02:57:15.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 was slain by Possessed Paladin
+[01Jun2025 02:57:17.448] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2500 85 25.9!","color":"gold"}]'
+[01Jun2025 02:57:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 02:57:23.560] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 143.9 9.8 398.1!","color":"gold"}]'
+[01Jun2025 02:57:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 drowned
+[01Jun2025 02:57:38.897] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:58:00.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:58:01.483] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:58:03.854] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:58:46.978] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:58:47.707] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:59:32.085] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 03:00:15.473] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 03:01:47.040] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 03:20:50.008] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[01Jun2025 02:57:23.959] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 02:58:23.995] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[01Jun2025 03:21:10.849] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[01Jun2025 03:21:11.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 1427665ms or 28553 ticks behind
+[01Jun2025 03:21:11.674] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[01Jun2025 03:21:11.674] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[01Jun2025 03:21:11.674] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[01Jun2025 03:21:11.674] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[01Jun2025 03:21:11.674] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[01Jun2025 03:21:11.675] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[01Jun2025 03:21:11.675] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[01Jun2025 03:21:11.675] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[01Jun2025 03:21:11.675] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[01Jun2025 03:21:11.675] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[01Jun2025 03:21:11.676] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[01Jun2025 03:21:11.676] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[01Jun2025 03:21:11.676] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[01Jun2025 03:21:11.676] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[01Jun2025 03:21:11.676] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[01Jun2025 03:21:11.688] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[01Jun2025 03:21:11.689] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[01Jun2025 03:21:11.689] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[01Jun2025 03:21:11.689] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[01Jun2025 03:21:11.689] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[01Jun2025 03:21:11.689] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[01Jun2025 03:21:11.704] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Pradolf56 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at -2502.8 81 24.9!","color":"gold"}]'
+[01Jun2025 03:21:11.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Possessed Paladin
+[01Jun2025 03:21:11.709] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2503, 81, 24) minecraft:overworld
+[01Jun2025 03:21:11.714] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[01Jun2025 03:21:11.716] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@4e642ee1
+[01Jun2025 03:21:11.717] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[01Jun2025 03:21:11.743] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[01Jun2025 03:21:11.744] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[01Jun2025 03:21:11.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[01Jun2025 03:21:11.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[01Jun2025 03:21:11.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bacalao_1 lost connection: Disconnected
+[01Jun2025 03:21:11.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bacalao_1 left the game
+[01Jun2025 03:21:11.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[01Jun2025 03:21:11.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[01Jun2025 03:21:11.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ba8ca42[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:38535) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52f23a37[id=<null>,name=BatmanGordo1,properties={},legacy=false] (/127.106.135.166:60837) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a4beca5[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:44047) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@184329c0[id=<null>,name=bacalao_1,properties={},legacy=false] (/127.130.225.53:53727) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45640a50[id=<null>,name=bacalao_1,properties={},legacy=false] (/127.130.225.53:58827) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@684b349[id=<null>,name=BatmanGordo1,properties={},legacy=false] (/127.106.135.166:33825) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@339f59f8[id=<null>,name=BatmanGordo1,properties={},legacy=false] (/127.106.135.166:57185) lost connection: Disconnected
+[01Jun2025 03:21:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32937b62[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:37813) lost connection: Disconnected
+[01Jun2025 03:21:11.837] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5740c1ea[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:54723) lost connection: Disconnected
+[01Jun2025 03:21:11.837] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[01Jun2025 03:21:11.884] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Jun2025 03:21:11.923] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 80f27be0-c4e4-4bb3-9faa-e0cb76c4cf11
+[01Jun2025 03:21:11.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[01Jun2025 03:21:11.982] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 5b4bcc33-24d4-4a9b-a631-be775a3d2a3a
+[01Jun2025 03:21:11.984] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/chica/servidor_minecraft/./crash-reports/crash-2025-06-01_03.21.11-server.txt
+[01Jun2025 03:21:11.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[01Jun2025 03:21:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 03:21:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 03:21:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, shw, mowziesmobs, kuma_api, trashslot, jade, geckolib, chunky, jei, graveyard, lionfishapi, simplelogin, stalwart_dungeons, sophisticatedcore, cataclysm, curios, xaerominimap, fastsuite, clumps, cerbons_api, xaeroworldmap, placebo, citadel, legendary_monsters, entityculling, mixinextras, call_of_yucutan, sophisticatedbackpacks, ferritecore, iceandfire, balm, flib, bosses_of_mass_destruction, cloth_config, forge, appleskin, simpletomb, embeddium, rubidium]
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simplelogin:main' : Version test of '1.1' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tpa:tpa' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[01Jun2025 03:21:12.106] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'call_of_yucutan:call_of_yucutan' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[01Jun2025 03:21:12.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[01Jun2025 03:21:12.186] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[01Jun2025 03:21:12.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 03:21:12.187] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 03:21:12.270] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[01Jun2025 03:21:12.270] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jun2025 03:21:12.270] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jun2025 03:21:12.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jun2025 03:21:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Jun2025 03:21:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jun2025 03:21:15.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jun2025 03:21:15.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 03:21:15.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 03:21:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 03:21:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Jun2025 03:21:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 03:21:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 03:21:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 03:21:15.307] [Server thread/INFO] [simplelogin/]: Shutting down player login handler
+[01Jun2025 03:21:15.307] [Server thread/INFO] [simplelogin/]: Disabling all plugins
+[01Jun2025 03:21:15.308] [Server thread/INFO] [simplelogin/]: Saving all entries
+[01Jun2025 03:21:15.310] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

@@ -43,8 +43,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-06-01 02:34:32 +0000",
+      "minecraft:sunflower_plains": "2025-06-01 02:34:06 +0000",
+      "minecraft:birch_forest": "2025-06-01 02:28:05 +0000",
       "minecraft:windswept_hills": "2025-05-31 15:16:24 +0000",
       "minecraft:beach": "2025-05-31 00:12:04 +0000",
+      "minecraft:dark_forest": "2025-06-01 02:26:45 +0000",
       "minecraft:sparse_jungle": "2025-05-31 15:08:49 +0000",
       "minecraft:river": "2025-05-31 00:09:20 +0000",
       "minecraft:lukewarm_ocean": "2025-05-31 00:17:10 +0000",
@@ -2125,6 +2129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-01 02:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-01 02:20:04 +0000"
@@ -2203,6 +2213,18 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-06-01 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-06-01 02:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-01 01:50:55 +0000"
@@ -2212,6 +2234,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-01 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-06-01 02:38:09 +0000"
     },
     "done": true
   },
