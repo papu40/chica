@@ -466,6 +466,9 @@
     "criteria": {
       "cooked_beef": "2025-05-31 00:41:48 +0000",
       "beef": "2025-05-31 00:28:59 +0000",
+      "apple": "2025-06-01 14:32:10 +0000",
+      "dried_kelp": "2025-06-01 14:30:45 +0000",
+      "salmon": "2025-06-01 14:36:44 +0000",
       "cooked_chicken": "2025-05-31 14:07:56 +0000"
     },
     "done": false
@@ -2288,6 +2291,36 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-01 14:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 14:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 14:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 14:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 14:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 14:35:56 +0000"
     },
     "done": true
   },
