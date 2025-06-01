@@ -739,7 +739,8 @@
       "minecraft:skeleton": "2025-05-31 00:35:01 +0000",
       "minecraft:spider": "2025-05-31 14:58:28 +0000",
       "minecraft:creeper": "2025-05-31 00:34:54 +0000",
-      "minecraft:zombie": "2025-05-31 00:31:26 +0000"
+      "minecraft:zombie": "2025-05-31 00:31:26 +0000",
+      "minecraft:drowned": "2025-06-01 00:20:34 +0000"
     },
     "done": false
   },
@@ -1904,6 +1905,72 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-05-31 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-06-01 00:23:10 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-01 00:35:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-06-01 00:18:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-06-01 00:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-01 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-01 00:18:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-01 00:18:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-01 00:18:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-06-01 00:18:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-01 00:18:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-06-01 00:18:06 +0000"
     },
     "done": true
   },
