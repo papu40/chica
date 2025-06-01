@@ -387,3 +387,26 @@ Reason: Banned by an operator.
 [01Jun2025 21:12:01.250] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [01Jun2025 21:12:01.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
 [01Jun2025 21:12:01.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[01Jun2025 21:13:21.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -8.273838321057504,-1.6279968030076049,5.661995889112589
+[01Jun2025 21:13:32.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was blown up by Creeper
+[01Jun2025 21:13:32.665] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-53, 65, 158) minecraft:overworld
+[01Jun2025 21:13:45.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 3.1797847977336176,1.2491870787446828,9.775141584999076
+[01Jun2025 21:13:51.267] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 21:14:49.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[01Jun2025 21:14:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 21:14:57.763] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e2f849b[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:52533) lost connection: Disconnected
+[01Jun2025 21:19:22.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:36487] logged in with entity id 109055 at (-78.14092574671739, 64.0, 137.23891541295941)
+[01Jun2025 21:19:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[01Jun2025 21:19:23.241] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:22:01.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -5.70933952114369,2.0013359791121417,8.196385170774477
+[01Jun2025 21:22:03.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[01Jun2025 21:22:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[01Jun2025 21:22:07.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Enderman
+[01Jun2025 21:22:07.219] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-97, 66, 113) minecraft:overworld
+[01Jun2025 21:22:07.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 3.227769318977053,0.07520089011894981,-9.796903809335518
+[01Jun2025 21:22:09.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:56843] logged in with entity id 110324 at (-1076.1610281801927, 63.08576431274413, -182.17048891417758)
+[01Jun2025 21:22:09.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[01Jun2025 21:22:09.906] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[01Jun2025 21:22:29.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -7.181902648224344,0.7531999805212024,-7.237824553365627
+[01Jun2025 21:22:37.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:22:37.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
