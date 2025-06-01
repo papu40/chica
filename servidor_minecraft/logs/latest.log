@@ -566,3 +566,7 @@ Reason: Banned by an operator.
 [01Jun2025 21:53:17.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:36793] logged in with entity id 130073 at (-452.36152531694046, 64.00133597911214, -489.02586843146275)
 [01Jun2025 21:53:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
 [01Jun2025 21:53:18.285] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:56:39.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [A Disgusting Worm]
+[01Jun2025 21:57:12.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 10.123390846324583,-0.1647732818260721,-0.9418137124090435
+[01Jun2025 21:59:03.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:59:03.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game

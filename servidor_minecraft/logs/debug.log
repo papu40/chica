@@ -6743,3 +6743,11 @@ Reason: Banned by an operator.
 [01Jun2025 21:53:17.914] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@43574099 into net.minecraft.network.Connection@738541dc
 [01Jun2025 21:53:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
 [01Jun2025 21:53:18.285] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[01Jun2025 21:56:39.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [A Disgusting Worm]
+[01Jun2025 21:57:12.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 10.123390846324583,-0.1647732818260721,-0.9418137124090435
+[01Jun2025 21:58:03.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 21:58:03.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 21:59:03.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[01Jun2025 21:59:03.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[01Jun2025 22:03:03.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 22:03:03.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

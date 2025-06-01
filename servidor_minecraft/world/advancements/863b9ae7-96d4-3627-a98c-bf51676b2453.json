@@ -1062,7 +1062,8 @@
       "minecraft:spider": "2025-05-31 00:49:18 +0000",
       "minecraft:creeper": "2025-05-31 01:54:45 +0000",
       "minecraft:zombie": "2025-05-31 00:54:54 +0000",
-      "minecraft:drowned": "2025-06-01 15:19:07 +0000"
+      "minecraft:drowned": "2025-06-01 15:19:07 +0000",
+      "minecraft:zombie_villager": "2025-06-01 21:53:37 +0000"
     },
     "done": false
   },
@@ -2785,6 +2786,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-01 21:40:08 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-06-01 21:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-01 21:54:00 +0000"
     },
     "done": true
   },
