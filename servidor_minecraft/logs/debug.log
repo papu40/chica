@@ -4087,3 +4087,9 @@ Reason: Banned by an operator.
 [01Jun2025 16:32:59.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 16:37:59.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 16:37:59.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 16:42:59.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 16:42:59.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 16:43:54.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/30244, l='ServerLevel[world]', x=-932.33, y=68.00, z=-180.54] died, message: 'Butcher was slain by Juandi3531'
+[01Jun2025 16:47:59.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 16:47:59.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 16:48:38.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31524, l='ServerLevel[world]', x=-843.31, y=75.84, z=-223.29] died, message: 'Farmer was slain by Juandi3531'

@@ -283,3 +283,5 @@ Reason: Banned by an operator.
 [01Jun2025 16:32:46.512] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e06911e[id=0fd2dcb8-8194-3d61-98da-e114271d9a83,name=Pradolf56,properties={},legacy=false] (/127.116.208.122:49473) lost connection: You are banned from this server.
 Reason: Banned by an operator.
 [01Jun2025 16:32:46.565] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 16:43:54.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/30244, l='ServerLevel[world]', x=-932.33, y=68.00, z=-180.54] died, message: 'Butcher was slain by Juandi3531'
+[01Jun2025 16:48:38.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31524, l='ServerLevel[world]', x=-843.31, y=75.84, z=-223.29] died, message: 'Farmer was slain by Juandi3531'
