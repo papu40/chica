@@ -608,3 +608,5 @@ Reason: Banned by an operator.
 [01Jun2025 22:20:57.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved too quickly! 10.327726307711146,0.0,-0.22965624663942208
 [01Jun2025 22:20:57.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved too quickly! 10.348319144770812,0.0,-0.5690541020966293
 [01Jun2025 22:20:57.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved too quickly! 10.347868432008,0.0,-0.9097200836926618
+[01Jun2025 22:30:47.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved wrongly!
+[01Jun2025 22:30:47.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved wrongly!
