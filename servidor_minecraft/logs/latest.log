@@ -195,3 +195,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 22:57:08.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
 [02Jun2025 22:58:33.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
 [02Jun2025 22:58:33.888] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2558, -43, -650) minecraft:overworld
+[02Jun2025 23:07:21.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 23:07:21.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 23:07:23.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
+[02Jun2025 23:07:33.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:36143] logged in with entity id 6431 at (-1640.699999988079, 63.0, -252.30000001192093)
+[02Jun2025 23:07:33.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 23:07:33.900] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 23:18:07.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
+[02Jun2025 23:18:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 23:18:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 23:18:09.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 23:18:09.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 23:18:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 23:18:19.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:37093] logged in with entity id 12098 at (-2557.699999988079, -0.4374999999999998, -656.6999999880791)
+[02Jun2025 23:18:19.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 23:18:19.478] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 23:21:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[02Jun2025 23:21:52.476] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2558, -43, -650) minecraft:overworld
