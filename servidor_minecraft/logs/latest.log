@@ -212,3 +212,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 23:18:19.478] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
 [02Jun2025 23:21:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
 [02Jun2025 23:21:52.476] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2558, -43, -650) minecraft:overworld
+[02Jun2025 23:29:44.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 23:29:44.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 23:29:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 23:30:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> cocas
+[02Jun2025 23:30:31.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:38777] logged in with entity id 16752 at (-1096.8566060801481, 66.5, -184.0469401306834)
+[02Jun2025 23:30:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 23:30:31.432] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 23:30:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> podes venir a ver mi cocinada cocas?
+[02Jun2025 23:30:47.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
+[02Jun2025 23:31:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> estoy yendo a mi tumba que esta como a 2k de bloques
+[02Jun2025 23:32:04.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
+[02Jun2025 23:32:04.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
