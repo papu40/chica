@@ -116,3 +116,48 @@
 [02Jun2025 00:24:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> esta resalto
 [02Jun2025 00:25:05.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no estan resaltadas
 [02Jun2025 00:25:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya sé
+[02Jun2025 00:27:19.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[02Jun2025 00:27:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[02Jun2025 00:27:33.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:34959] logged in with entity id 217613 at (-1004.1286056330877, 102.0, 641.6969932758047)
+[02Jun2025 00:27:33.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[02Jun2025 00:27:33.486] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[02Jun2025 00:27:36.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Ghost
+[02Jun2025 00:27:36.679] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1009, 97, 643) minecraft:overworld
+[02Jun2025 00:28:00.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Timed out
+[02Jun2025 00:28:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[02Jun2025 00:28:01.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[02Jun2025 00:28:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[02Jun2025 00:28:04.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[02Jun2025 00:28:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[02Jun2025 00:28:09.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:35291] logged in with entity id 218007 at (-1009.4837902652646, 97.0, 639.6516958076774)
+[02Jun2025 00:28:09.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[02Jun2025 00:28:09.513] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[02Jun2025 00:28:14.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:36281] logged in with entity id 218260 at (-1273.0818897215745, 76.0, 288.7256414156635)
+[02Jun2025 00:28:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[02Jun2025 00:28:15.269] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[02Jun2025 00:28:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> estuvieron a 0.2 segundos de ser brutalmente kickeados
+[02Jun2025 00:28:26.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:48953] logged in with entity id 218737 at (-1008.6999999880791, 97.0, 642.0887731549585)
+[02Jun2025 00:28:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[02Jun2025 00:28:26.563] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[02Jun2025 00:28:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> yo me sali justo
+[02Jun2025 00:30:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> che
+[02Jun2025 00:30:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> me tengo que ir
+[02Jun2025 00:30:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no
+[02Jun2025 00:30:15.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ao
+[02Jun2025 00:30:15.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[02Jun2025 00:30:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[02Jun2025 00:31:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Spooky Scary Skeleton]
+[02Jun2025 00:33:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
+[02Jun2025 00:34:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
+[02Jun2025 00:34:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
+[02Jun2025 00:34:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
+[02Jun2025 00:34:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
+[02Jun2025 00:34:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
+[02Jun2025 00:34:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> una estructura
+[02Jun2025 00:35:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cual
+[02Jun2025 00:36:04.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> un arbol
+[02Jun2025 00:36:25.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> bueno
+[02Jun2025 00:36:29.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me voy al pingo
+[02Jun2025 00:36:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cahao
+[02Jun2025 00:36:39.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[02Jun2025 00:36:39.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
