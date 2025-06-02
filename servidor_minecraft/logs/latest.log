@@ -161,3 +161,21 @@
 [02Jun2025 00:36:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cahao
 [02Jun2025 00:36:39.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [02Jun2025 00:36:39.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[02Jun2025 00:36:47.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:35903] logged in with entity id 224092 at (-846.6090317907689, 76.0, -218.6829271014216)
+[02Jun2025 00:36:47.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[02Jun2025 00:36:47.932] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[02Jun2025 00:37:07.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[02Jun2025 00:37:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[02Jun2025 00:37:20.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked BatmanGordo1: Kicked by an operator
+[02Jun2025 00:37:20.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Kicked by an operator
+[02Jun2025 00:37:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[02Jun2025 00:37:29.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:50989] logged in with entity id 224570 at (-1276.1825834376243, 68.0, -166.59371559996836)
+[02Jun2025 00:37:29.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[02Jun2025 00:37:29.635] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[02Jun2025 00:42:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Monster Hunter]
+[02Jun2025 00:42:24.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Best Friends Forever]
+[02Jun2025 00:44:21.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[02Jun2025 00:44:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[02Jun2025 00:45:02.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:48715] logged in with entity id 228604 at (-1202.1616399741501, 72.0, -75.96954243081598)
+[02Jun2025 00:45:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[02Jun2025 00:45:03.242] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
