@@ -1,41 +1,41 @@
-[02Jun2025 02:06:13.681] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02Jun2025 02:06:13.685] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[02Jun2025 02:06:14.624] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02Jun2025 02:06:14.702] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chica/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02Jun2025 02:06:15.105] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jun2025 02:06:15.108] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jun2025 02:06:15.110] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jun2025 02:06:15.111] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jun2025 02:06:15.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[02Jun2025 02:06:17.766] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Jun2025 02:06:17.824] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
-[02Jun2025 02:06:17.827] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
-[02Jun2025 02:06:17.867] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02Jun2025 02:06:17.920] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Jun2025 02:06:17.929] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Jun2025 02:06:18.127] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[02Jun2025 02:06:19.222] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[02Jun2025 02:06:19.249] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[02Jun2025 02:06:19.755] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
-[02Jun2025 02:06:22.924] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[02Jun2025 02:06:22.925] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[02Jun2025 02:06:22.949] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[02Jun2025 02:06:22.950] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[02Jun2025 02:06:28.493] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[02Jun2025 02:06:28.599] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
-[02Jun2025 02:06:29.119] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02Jun2025 02:06:29.121] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02Jun2025 02:06:31.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[02Jun2025 02:06:32.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[02Jun2025 02:06:32.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Jun2025 02:06:32.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[02Jun2025 02:06:32.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
-[02Jun2025 02:06:32.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
-[02Jun2025 02:06:34.853] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Jun2025 02:06:36.676] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/chica/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
-[02Jun2025 02:06:36.677] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/chica/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
-[02Jun2025 02:06:40.303] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[02Jun2025 02:06:41.297] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[02Jun2025 22:52:27.176] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Jun2025 22:52:27.180] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[02Jun2025 22:52:29.109] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Jun2025 22:52:29.170] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chica/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Jun2025 22:52:29.455] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 22:52:29.457] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 22:52:29.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 22:52:29.461] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 22:52:29.645] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[02Jun2025 22:52:31.494] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Jun2025 22:52:31.542] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
+[02Jun2025 22:52:31.543] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
+[02Jun2025 22:52:31.571] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Jun2025 22:52:31.617] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jun2025 22:52:31.623] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jun2025 22:52:31.753] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[02Jun2025 22:52:32.607] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 22:52:32.631] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 22:52:33.023] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[02Jun2025 22:52:35.487] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 22:52:35.489] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 22:52:35.504] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 22:52:35.505] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 22:52:40.021] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[02Jun2025 22:52:40.153] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
+[02Jun2025 22:52:40.567] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Jun2025 22:52:40.567] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Jun2025 22:52:42.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[02Jun2025 22:52:43.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[02Jun2025 22:52:43.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jun2025 22:52:43.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02Jun2025 22:52:43.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
+[02Jun2025 22:52:43.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
+[02Jun2025 22:52:45.344] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jun2025 22:52:46.754] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/chica/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[02Jun2025 22:52:46.754] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/chica/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[02Jun2025 22:52:49.502] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[02Jun2025 22:52:50.199] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -73,7 +73,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Jun2025 02:06:41.308] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[02Jun2025 22:52:50.206] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -102,7 +102,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Jun2025 02:06:41.319] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[02Jun2025 22:52:50.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
@@ -135,234 +135,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Jun2025 02:06:41.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[02Jun2025 02:06:41.500] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1824 advancements
-[02Jun2025 02:06:41.507] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[02Jun2025 02:06:41.515] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[02Jun2025 02:06:41.521] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[02Jun2025 02:06:41.534] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[02Jun2025 02:06:43.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02Jun2025 02:06:43.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Jun2025 02:06:43.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Jun2025 02:06:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Jun2025 02:06:43.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Jun2025 02:06:43.228] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Jun2025 02:06:43.355] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02Jun2025 02:06:43.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02Jun2025 02:06:43.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02Jun2025 02:06:43.356] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02Jun2025 02:06:43.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02Jun2025 02:06:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Jun2025 02:06:54.453] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.505] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.514] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.516] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.526] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.569] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.579] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.642] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:54.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:55.193] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:55.720] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:56.170] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:56.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:57.165] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:57.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:58.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:58.658] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:59.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jun2025 02:06:59.655] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[02Jun2025 02:07:00.155] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[02Jun2025 02:07:00.568] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9914 ms
-[02Jun2025 02:07:00.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.152s)! For help, type "help"
-[02Jun2025 02:07:00.614] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Jun2025 02:07:00.727] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:auto_save
-[02Jun2025 02:07:00.728] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:resend_request
-[02Jun2025 02:07:00.728] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:restrict_game_type
-[02Jun2025 02:07:00.729] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:restrict_movement
-[02Jun2025 02:07:00.729] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:timeout
-[02Jun2025 02:07:00.734] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[02Jun2025 02:07:00.736] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[02Jun2025 02:07:08.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
-[02Jun2025 02:07:25.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:55713] logged in with entity id 135 at (-944.3000000119209, 66.0, -284.387318542478)
-[02Jun2025 02:07:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 02:07:26.301] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 02:07:29.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
-[02Jun2025 02:08:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] El servidor está siendo apagado...
-[02Jun2025 02:08:40.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 20
-[02Jun2025 02:09:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 19
-[02Jun2025 02:09:09.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 18
-[02Jun2025 02:09:14.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 17
-[02Jun2025 02:09:19.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 16
-[02Jun2025 02:09:22.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 15
-[02Jun2025 02:09:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 14
-[02Jun2025 02:09:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 13
-[02Jun2025 02:09:31.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 12
-[02Jun2025 02:09:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 11
-[02Jun2025 02:09:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 10
-[02Jun2025 02:09:42.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 9
-[02Jun2025 02:09:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 8
-[02Jun2025 02:09:50.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 7
-[02Jun2025 02:09:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 6
-[02Jun2025 02:09:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 5
-[02Jun2025 02:10:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 4
-[02Jun2025 02:10:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 3
-[02Jun2025 02:10:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 2
-[02Jun2025 02:10:13.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 1
-[02Jun2025 02:10:17.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Apagando 0
-[02Jun2025 02:11:20.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:40613] logged in with entity id 1139 at (-68.9686075473488, 68.0, 123.31404367255217)
-[02Jun2025 02:11:20.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
-[02Jun2025 02:11:21.940] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
-[02Jun2025 02:14:21.565] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.653 ms. 1608/1636 recipes are parallelized.
-[02Jun2025 02:14:51.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> zz
-[02Jun2025 02:17:20.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ghost
-[02Jun2025 02:17:20.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-73, 68, 128) minecraft:overworld
-[02Jun2025 02:17:28.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[02Jun2025 02:17:50.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] BatmanGordo1 bot
-[02Jun2025 02:17:51.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, vos te metiste al anarquico del curso
-[02Jun2025 02:17:58.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
-[02Jun2025 02:18:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> yo si, ya me puse full neterita
-[02Jun2025 02:18:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> pero no le digas por la d
-[02Jun2025 02:18:37.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> por las dudas, ya que creo que todavia no estaba permitido
-[02Jun2025 02:19:02.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como si no lo pudieran ver desde aternos :v
-[02Jun2025 02:19:16.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> se puede ver eso?
-[02Jun2025 02:19:51.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pueden ver todos los bloques minados, herramientas usadas, aramduras equipadas, inventario, coordenada, hambre, vida
-[02Jun2025 02:19:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> poruq esi no ya lo re vieron
-[02Jun2025 02:20:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] etc
-[02Jun2025 02:20:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] creo que pueden ver hasta los bloques quue caminaste
-[02Jun2025 02:21:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy a estudiar ingles, la vivieron mucho uds?
-[02Jun2025 02:21:33.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
-[02Jun2025 02:21:42.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> yo no
-[02Jun2025 02:21:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> le dije a chatgpt que me haga una prueba en base a todos lostemas
-[02Jun2025 02:22:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> cierto benja, te paso lo de holidays?
-[02Jun2025 02:22:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que cosa?
-[02Jun2025 02:22:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> lo que hablamos ayer, que e fausto e lo paso
-[02Jun2025 02:22:39.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> ah bueno pasamelo
-[02Jun2025 02:22:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> alguien hizo lo de mate?
-[02Jun2025 02:22:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como fue la prueba que te dio?
-[02Jun2025 02:22:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no
-[02Jun2025 02:22:59.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no
-[02Jun2025 02:22:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tranqui
-[02Jun2025 02:23:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alta paja el cuadro
-[02Jun2025 02:23:05.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> me la pasas?
-[02Jun2025 02:23:59.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -9.064476785198849,-4.373699204017555,-0.876371678904377
-[02Jun2025 02:26:17.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> nesesito que sea de noche, perdon si no duermo
-[02Jun2025 02:26:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> oka
-[02Jun2025 02:26:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> por?
-[02Jun2025 02:26:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> matar unos bichos
-[02Jun2025 02:28:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
-[02Jun2025 02:28:16.954] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-805, 71, -187) minecraft:overworld
-[02Jun2025 02:28:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
-[02Jun2025 02:29:31.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon hit the ground too hard
-[02Jun2025 02:29:31.126] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-736, 72, -203) minecraft:overworld
-[02Jun2025 02:30:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was blown up by Creeper
-[02Jun2025 02:30:36.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Zombie
-[02Jun2025 02:30:36.349] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-111, 65, 128) minecraft:overworld
-[02Jun2025 02:31:03.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[02Jun2025 02:31:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ahora si
-[02Jun2025 02:31:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzz?
-[02Jun2025 02:32:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon hit the ground too hard
-[02Jun2025 02:32:28.881] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-863, 91, -236) minecraft:overworld
-[02Jun2025 02:34:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
-[02Jun2025 02:34:38.546] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-758, 69, -238) minecraft:overworld
-[02Jun2025 02:35:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
-[02Jun2025 02:35:30.751] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-765, 68, -245) minecraft:overworld
-[02Jun2025 02:36:34.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Not Today, Thank You]
-[02Jun2025 02:37:35.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
-[02Jun2025 02:37:35.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-793, 65, -236) minecraft:overworld
-[02Jun2025 02:44:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzz?
-[02Jun2025 02:44:21.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
-[02Jun2025 02:44:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 02:44:34.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:39125] logged in with entity id 14873 at (-956.164549255035, 78.0, -439.6936266246442)
-[02Jun2025 02:44:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 02:44:34.737] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 02:45:01.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Enderman
-[02Jun2025 02:45:01.796] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-62, 62, 138) minecraft:overworld
-[02Jun2025 02:45:15.109] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[02Jun2025 02:45:34.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
-[02Jun2025 02:45:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 02:45:34.550] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[02Jun2025 02:45:43.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:57371] logged in with entity id 15593 at (-954.1671885988984, 67.0, -438.3839785006185)
-[02Jun2025 02:45:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 02:45:43.438] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 02:46:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Enderman
-[02Jun2025 02:46:02.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-60, 66, 171) minecraft:overworld
-[02Jun2025 02:46:21.498] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[02Jun2025 02:49:11.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: benjamon, BatmanGordo1
-[02Jun2025 02:49:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aguante chatgpt amigo
-[02Jun2025 02:49:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mañana me saco 10
-[02Jun2025 02:49:50.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> FULL didn´t be
-[02Jun2025 02:50:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] eso eso
-[02Jun2025 02:50:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] habia algo de lengua?
-[02Jun2025 02:51:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> no c
-[02Jun2025 02:51:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> creo que no
-[02Jun2025 02:51:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] good
-[02Jun2025 02:55:43.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Rotten to the Core]
-[02Jun2025 02:56:20.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ZZZ?
-[02Jun2025 02:56:20.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
-[02Jun2025 02:56:20.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 02:56:31.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:39251] logged in with entity id 21887 at (-2119.699999988079, 58.0, -250.37676932359764)
-[02Jun2025 02:56:31.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 02:56:31.887] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 02:57:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Ice Bucket Challenge]
-[02Jun2025 03:06:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Sea? Not a Problem]
-[02Jun2025 03:11:45.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
-[02Jun2025 03:11:45.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 03:11:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ZZ?
-[02Jun2025 03:11:57.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:47251] logged in with entity id 32112 at (-2518.3071827756535, 25.0, -855.3000000119209)
-[02Jun2025 03:11:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 03:11:57.926] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 03:24:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> que tanto estudiaste vos?
-[02Jun2025 03:24:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> no mucho
-[02Jun2025 03:24:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> te gustan las patatas?
-[02Jun2025 03:27:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zz?
-[02Jun2025 03:27:37.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
-[02Jun2025 03:27:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 03:27:49.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:49805] logged in with entity id 38087 at (-2527.699999988079, -44.0, -773.6999999880791)
-[02Jun2025 03:27:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 03:27:49.965] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 03:28:58.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1027, y=55, z=-141} BlockPos{x=-1025, y=54, z=-142}
-[02Jun2025 03:30:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no quiero que mañana sea lunes
-[02Jun2025 03:30:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no quiero dormie
-[02Jun2025 03:30:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que paja
-[02Jun2025 03:30:46.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> nunca emtendere a los que dicen que se abuerren en vacaciones
-[02Jun2025 03:30:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Hot Stuff]
-[02Jun2025 03:31:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tengo 2 cosas que decir
-[02Jun2025 03:31:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> 1-como te vas a aburri en vacacioones, gente bld
-[02Jun2025 03:32:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> y 2- se empezo a escuchar una cancion de boss, me cague todo
-[02Jun2025 03:33:43.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> el tizi siempre que volvemos a la escuela me dice ¨yo queria empezar porque me habia aburrido en las vacacione¨ y despues es el primero que putea a los profesores y dice que explican mal
-[02Jun2025 03:33:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> xddd
-[02Jun2025 03:34:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como se va a aburrir?
-[02Jun2025 03:34:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> a mi me encanta no hacer nada
-[02Jun2025 03:36:39.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, estoy esuchando una musica de boos de la nada
-[02Jun2025 03:36:47.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
-[02Jun2025 03:39:13.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
-[02Jun2025 03:39:13.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 03:39:14.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zz?
-[02Jun2025 03:39:24.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:34821] logged in with entity id 43572 at (-2531.300000011921, -38.0, -733.1392740901377)
-[02Jun2025 03:39:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
-[02Jun2025 03:39:24.429] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player benjamon has successfully logged in.
-[02Jun2025 03:44:43.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.3769206914705592
-[02Jun2025 03:44:44.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.6205459921425245
-[02Jun2025 03:44:44.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.3054705094990595
-[02Jun2025 03:44:44.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.4164820168253982
-[02Jun2025 03:44:44.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.4917591643400385
-[02Jun2025 03:44:44.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.167007213691477
-[02Jun2025 03:44:44.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.167007213691477
-[02Jun2025 03:44:44.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 1.856272843953775
-[02Jun2025 03:44:44.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 1.8168243219224678
-[02Jun2025 03:44:44.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.218659598029717
-[02Jun2025 03:44:44.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.218659598029717
-[02Jun2025 03:44:44.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.14353970199204
-[02Jun2025 03:44:44.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.2650239876577416
-[02Jun2025 03:44:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.2346413568457137
-[02Jun2025 03:44:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.1949300938149463
-[02Jun2025 03:44:44.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.236680439761585
-[02Jun2025 03:44:44.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.3502726727640493
-[02Jun2025 03:48:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me voy a mimir
-[02Jun2025 03:48:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> bye bye
-[02Jun2025 03:48:30.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
-[02Jun2025 03:48:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
-[02Jun2025 03:48:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> bye bye
-[02Jun2025 04:05:21.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
-[02Jun2025 04:05:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[02Jun2025 22:52:50.258] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[02Jun2025 22:52:50.379] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1824 advancements
+[02Jun2025 22:52:50.383] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[02Jun2025 22:52:50.390] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[02Jun2025 22:52:50.396] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Jun2025 22:52:50.407] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[02Jun2025 22:52:51.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Jun2025 22:52:51.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jun2025 22:52:51.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jun2025 22:52:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jun2025 22:52:51.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jun2025 22:52:51.802] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Jun2025 22:52:51.898] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Jun2025 22:52:51.898] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Jun2025 22:52:51.899] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Jun2025 22:52:51.899] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Jun2025 22:52:52.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jun2025 22:52:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jun2025 22:53:02.063] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.195] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.249] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.327] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.450] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.510] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:02.596] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:03.041] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:03.544] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:04.039] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 22:53:04.536] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[02Jun2025 22:53:05.036] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[02Jun2025 22:53:05.489] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7454 ms
+[02Jun2025 22:53:05.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.569s)! For help, type "help"
+[02Jun2025 22:53:05.523] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jun2025 22:53:05.559] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:auto_save
+[02Jun2025 22:53:05.560] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:resend_request
+[02Jun2025 22:53:05.560] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:restrict_game_type
+[02Jun2025 22:53:05.560] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:restrict_movement
+[02Jun2025 22:53:05.561] [Server thread/INFO] [simplelogin/]: Loading plugin simplelogin:timeout
+[02Jun2025 22:53:05.562] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[02Jun2025 22:53:05.563] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[02Jun2025 22:54:51.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:58181] logged in with entity id 52 at (-1004.2893348039745, 101.0, 643.1192129088181)
+[02Jun2025 22:54:51.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[02Jun2025 22:54:57.108] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[02Jun2025 22:55:34.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzzz
+[02Jun2025 22:55:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 22:55:35.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 22:55:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[02Jun2025 22:56:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: rotto123
+[02Jun2025 22:56:31.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ezquisofrénico
+[02Jun2025 22:56:55.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> no estoy en mi momento mas cuerdo
+[02Jun2025 22:56:58.738] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.478 ms. 1608/1636 recipes are parallelized.
+[02Jun2025 22:57:06.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:46855] logged in with entity id 578 at (-2551.300000011921, -49.0, -653.6999999880791)
+[02Jun2025 22:57:06.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 22:57:06.788] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 22:57:08.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[02Jun2025 22:58:33.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[02Jun2025 22:58:33.888] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2558, -43, -650) minecraft:overworld
