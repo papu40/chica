@@ -248,3 +248,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 02:23:59.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -9.064476785198849,-4.373699204017555,-0.876371678904377
 [02Jun2025 02:26:17.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> nesesito que sea de noche, perdon si no duermo
 [02Jun2025 02:26:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> oka
+[02Jun2025 02:26:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> por?
+[02Jun2025 02:26:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> matar unos bichos
+[02Jun2025 02:28:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[02Jun2025 02:28:16.954] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-805, 71, -187) minecraft:overworld
+[02Jun2025 02:28:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[02Jun2025 02:29:31.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon hit the ground too hard
+[02Jun2025 02:29:31.126] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-736, 72, -203) minecraft:overworld
+[02Jun2025 02:30:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was blown up by Creeper
+[02Jun2025 02:30:36.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Zombie
+[02Jun2025 02:30:36.349] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-111, 65, 128) minecraft:overworld
+[02Jun2025 02:31:03.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Jun2025 02:31:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ahora si
+[02Jun2025 02:31:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzz?
+[02Jun2025 02:32:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon hit the ground too hard
+[02Jun2025 02:32:28.881] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-863, 91, -236) minecraft:overworld
+[02Jun2025 02:34:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[02Jun2025 02:34:38.546] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-758, 69, -238) minecraft:overworld
+[02Jun2025 02:35:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[02Jun2025 02:35:30.751] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-765, 68, -245) minecraft:overworld
+[02Jun2025 02:36:34.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Not Today, Thank You]
