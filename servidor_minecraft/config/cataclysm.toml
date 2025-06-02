@@ -1,9 +1,4 @@
 
-[Koboleton]
-	#Cause Koboleton to Drop Item In Hand Percent
-	#Range: 0.0 ~ 100.0
-	CauseKoboletontoDropItemInHandPercent = 5.0
-
 [Etc]
 	#Lava Opacity for the Ignitium Helemt.
 	#Range: 0.01 ~ 1.0
@@ -424,6 +419,11 @@
 	#Remnant's EarthQuake Damage
 	#Range: 0.0 ~ 1000000.0
 	"Remnant's EarthQuakeDamage" = 11.0
+
+[Koboleton]
+	#Cause Koboleton to Drop Item In Hand Percent
+	#Range: 0.0 ~ 100.0
+	CauseKoboletontoDropItemInHandPercent = 5.0
 
 [Kobolediator]
 	#Kobolediator's block breaking ignore the MobGriefing
