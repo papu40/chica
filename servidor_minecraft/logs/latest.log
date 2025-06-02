@@ -1,184 +1,61 @@
-[02Jun2025 00:00:08.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> las tenes que poner vo te dije
-[02Jun2025 00:00:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> aweonao
-[02Jun2025 00:00:37.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Who You Gonna Call?]
-[02Jun2025 00:01:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Iron Golem
-[02Jun2025 00:01:03.919] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1090, 49, -179) minecraft:overworld
-[02Jun2025 00:01:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
-[02Jun2025 00:01:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:01:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
-[02Jun2025 00:01:18.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:01:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:01:19.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
-[02Jun2025 00:01:19.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
-[02Jun2025 00:01:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zszz
-[02Jun2025 00:01:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzzzz
-[02Jun2025 00:01:42.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> duermasn
-[02Jun2025 00:01:59.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked BatmanGordo1: Kicked by an operator
-[02Jun2025 00:01:59.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Kicked by an operator
-[02Jun2025 00:01:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
-[02Jun2025 00:02:02.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
-[02Jun2025 00:02:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
-[02Jun2025 00:02:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:02:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:02:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:02:07.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:47405] logged in with entity id 201834 at (-860.5, 80.0, -191.5)
-[02Jun2025 00:02:07.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
-[02Jun2025 00:02:07.706] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
-[02Jun2025 00:02:19.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked rotto123: Kicked by an operator
-[02Jun2025 00:02:19.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Kicked by an operator
-[02Jun2025 00:02:19.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
-[02Jun2025 00:02:27.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:44177] logged in with entity id 202045 at (-1010.5, 97.0, 644.5)
-[02Jun2025 00:02:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
-[02Jun2025 00:02:27.832] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
-[02Jun2025 00:02:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, ya cansas
-[02Jun2025 00:02:51.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> peruano estupido ya estaba durmiendo
-[02Jun2025 00:03:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> jajjj
-[02Jun2025 00:03:22.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved too quickly! -10.22801241520483,1.252203340253729,-0.47627588061135384
-[02Jun2025 00:03:50.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:37521] logged in with entity id 202881 at (-1092.2414431376576, 63.0, -244.04093965839243)
-[02Jun2025 00:03:50.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
-[02Jun2025 00:03:50.488] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
-[02Jun2025 00:04:03.076] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[02Jun2025 00:04:04.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Iron Golem
-[02Jun2025 00:04:04.570] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1090, 49, -179) minecraft:overworld
-[02Jun2025 00:04:27.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=64, z=-230} BlockPos{x=-1074, y=62, z=-231}
-[02Jun2025 00:05:24.624] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
-[02Jun2025 00:07:01.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved wrongly!
-[02Jun2025 00:07:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> de dodne sacas tanto polvo?
-[02Jun2025 00:07:35.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved wrongly!
-[02Jun2025 00:07:35.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved wrongly!
-[02Jun2025 00:07:37.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved wrongly!
-[02Jun2025 00:07:38.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved wrongly!
-[02Jun2025 00:07:38.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved wrongly!
-[02Jun2025 00:07:51.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de algas etc
-[02Jun2025 00:07:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> alcanzaste a agarras?
-[02Jun2025 00:08:02.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no
-[02Jun2025 00:08:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> algas?
-[02Jun2025 00:08:12.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> transformé 3 zanahorias
-[02Jun2025 00:08:19.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> en 8 stack
-[02Jun2025 00:08:26.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> toma
-[02Jun2025 00:08:48.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> hay que repartirlo equitativamente en los 3 al polvo
-[02Jun2025 00:09:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como transformas el algo en polvo?
-[02Jun2025 00:09:25.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cual algo
-[02Jun2025 00:09:31.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> algas dice
-[02Jun2025 00:09:36.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ah
-[02Jun2025 00:09:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> con el composter pe
-[02Jun2025 00:09:50.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> por eso quería granja de algas
-[02Jun2025 00:09:53.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero
-[02Jun2025 00:10:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> se necesita cuarzo
-[02Jun2025 00:10:18.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y no puedo ir al neger
-[02Jun2025 00:10:35.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ?
-[02Jun2025 00:10:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> no se si te sirve
-[02Jun2025 00:10:45.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> mm no, es la mena
-[02Jun2025 00:10:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
-[02Jun2025 00:10:51.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero gracia
-[02Jun2025 00:11:06.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ta bien
-[02Jun2025 00:11:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> es m ás, todas las remolachas y esas mierdas tambien se pueden compostar
-[02Jun2025 00:11:26.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> flores
-[02Jun2025 00:11:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero las algas se consiguen en cantidad más facil
-[02Jun2025 00:14:48.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
-[02Jun2025 00:14:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
-[02Jun2025 00:14:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
-[02Jun2025 00:14:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
-[02Jun2025 00:14:53.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:14:53.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:14:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:14:54.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:14:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:14:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:14:55.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:14:55.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:15:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
-[02Jun2025 00:15:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:15:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:15:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:15:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
-[02Jun2025 00:15:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> puta gorda dormi
-[02Jun2025 00:15:45.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no
-[02Jun2025 00:15:46.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zz
-[02Jun2025 00:15:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:15:46.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:15:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
-[02Jun2025 00:16:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked BatmanGordo1: Kicked by an operator
-[02Jun2025 00:16:15.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Kicked by an operator
-[02Jun2025 00:16:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
-[02Jun2025 00:16:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> juandizorra si no duermes
-[02Jun2025 00:16:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me estas incentivando a no dormir
-[02Jun2025 00:16:36.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:43355] logged in with entity id 209203 at (-860.5, 80.0, -191.5)
-[02Jun2025 00:16:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
-[02Jun2025 00:16:36.759] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
-[02Jun2025 00:16:55.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:37725] logged in with entity id 209339 at (-1010.2317439482025, 106.0, 638.5350395968759)
-[02Jun2025 00:16:55.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
-[02Jun2025 00:16:55.690] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
-[02Jun2025 00:17:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> [name:"granja", x:-836, y:77, z:-218, dim:minecraft:overworld]
-[02Jun2025 00:24:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che juan, mandaste las reglas?
-[02Jun2025 00:24:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> están en el grupo
-[02Jun2025 00:24:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> resaltalas
-[02Jun2025 00:24:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> esta resalto
-[02Jun2025 00:25:05.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no estan resaltadas
-[02Jun2025 00:25:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya sé
-[02Jun2025 00:27:19.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
-[02Jun2025 00:27:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
-[02Jun2025 00:27:33.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:34959] logged in with entity id 217613 at (-1004.1286056330877, 102.0, 641.6969932758047)
-[02Jun2025 00:27:33.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
-[02Jun2025 00:27:33.486] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
-[02Jun2025 00:27:36.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Ghost
-[02Jun2025 00:27:36.679] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1009, 97, 643) minecraft:overworld
-[02Jun2025 00:28:00.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Timed out
-[02Jun2025 00:28:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
-[02Jun2025 00:28:01.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
-[02Jun2025 00:28:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
-[02Jun2025 00:28:04.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
-[02Jun2025 00:28:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
-[02Jun2025 00:28:09.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:35291] logged in with entity id 218007 at (-1009.4837902652646, 97.0, 639.6516958076774)
-[02Jun2025 00:28:09.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
-[02Jun2025 00:28:09.513] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
-[02Jun2025 00:28:14.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:36281] logged in with entity id 218260 at (-1273.0818897215745, 76.0, 288.7256414156635)
-[02Jun2025 00:28:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
-[02Jun2025 00:28:15.269] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
-[02Jun2025 00:28:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> estuvieron a 0.2 segundos de ser brutalmente kickeados
-[02Jun2025 00:28:26.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:48953] logged in with entity id 218737 at (-1008.6999999880791, 97.0, 642.0887731549585)
-[02Jun2025 00:28:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
-[02Jun2025 00:28:26.563] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
-[02Jun2025 00:28:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> yo me sali justo
-[02Jun2025 00:30:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> che
-[02Jun2025 00:30:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> me tengo que ir
-[02Jun2025 00:30:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no
-[02Jun2025 00:30:15.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ao
-[02Jun2025 00:30:15.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
-[02Jun2025 00:30:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
-[02Jun2025 00:31:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Spooky Scary Skeleton]
-[02Jun2025 00:33:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
-[02Jun2025 00:34:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
-[02Jun2025 00:34:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
-[02Jun2025 00:34:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
-[02Jun2025 00:34:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
-[02Jun2025 00:34:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de dónde sacaste la calavera
-[02Jun2025 00:34:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> una estructura
-[02Jun2025 00:35:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cual
-[02Jun2025 00:36:04.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> un arbol
-[02Jun2025 00:36:25.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> bueno
-[02Jun2025 00:36:29.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me voy al pingo
-[02Jun2025 00:36:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cahao
-[02Jun2025 00:36:39.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
-[02Jun2025 00:36:39.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
-[02Jun2025 00:36:47.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:35903] logged in with entity id 224092 at (-846.6090317907689, 76.0, -218.6829271014216)
-[02Jun2025 00:36:47.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
-[02Jun2025 00:36:47.932] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
-[02Jun2025 00:37:07.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
-[02Jun2025 00:37:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
-[02Jun2025 00:37:20.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked BatmanGordo1: Kicked by an operator
-[02Jun2025 00:37:20.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Kicked by an operator
-[02Jun2025 00:37:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
-[02Jun2025 00:37:29.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:50989] logged in with entity id 224570 at (-1276.1825834376243, 68.0, -166.59371559996836)
-[02Jun2025 00:37:29.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
-[02Jun2025 00:37:29.635] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
-[02Jun2025 00:42:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Monster Hunter]
-[02Jun2025 00:42:24.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Best Friends Forever]
-[02Jun2025 00:44:21.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
-[02Jun2025 00:44:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
-[02Jun2025 00:45:02.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:48715] logged in with entity id 228604 at (-1202.1616399741501, 72.0, -75.96954243081598)
-[02Jun2025 00:45:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
-[02Jun2025 00:45:03.242] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
-[02Jun2025 00:52:42.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
-[02Jun2025 00:52:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
-[02Jun2025 00:55:33.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [The Parrots and the Bats]
+[02Jun2025 01:07:03.495] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Jun2025 01:07:03.499] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[02Jun2025 01:07:04.575] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Jun2025 01:07:04.627] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chica/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Jun2025 01:07:04.934] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:07:04.939] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:07:04.941] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:07:04.942] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chica/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:07:05.141] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[02Jun2025 01:07:07.303] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Jun2025 01:07:07.355] [main/ERROR] [mixin/]: Mixin config antixray.common.mixins.json does not specify "minVersion" property
+[02Jun2025 01:07:07.356] [main/ERROR] [mixin/]: Mixin config antixray.forge.mixins.json does not specify "minVersion" property
+[02Jun2025 01:07:07.388] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Jun2025 01:07:07.442] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jun2025 01:07:07.452] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jun2025 01:07:07.582] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[02Jun2025 01:07:08.681] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 01:07:08.702] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 01:07:09.013] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[02Jun2025 01:07:11.911] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 01:07:11.912] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 01:07:11.949] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 01:07:11.950] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[02Jun2025 01:07:16.239] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[02Jun2025 01:07:16.334] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
+[02Jun2025 01:07:16.761] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Jun2025 01:07:16.761] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Jun2025 01:07:18.425] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/chica/servidor_minecraft/config/trashslot-common.toml is not correct. Correcting
+[02Jun2025 01:07:18.519] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/chica/servidor_minecraft/config/cataclysm.toml is not correct. Correcting
+[02Jun2025 01:07:18.589] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/chica/servidor_minecraft/config/cataclysm.toml is not correct. Correcting
+[02Jun2025 01:07:18.662] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/chica/servidor_minecraft/config/cataclysm.toml is not correct. Correcting
+[02Jun2025 01:07:18.736] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/chica/servidor_minecraft/config/cataclysm.toml is not correct. Correcting
+[02Jun2025 01:07:19.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[02Jun2025 01:07:19.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[02Jun2025 01:07:19.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jun2025 01:07:20.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02Jun2025 01:07:20.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.20/update.json
+[02Jun2025 01:07:20.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: BETA Current: 1.20.1-1.3.0 Target: 1.3.0
+[02Jun2025 01:07:22.240] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jun2025 01:07:22.282] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/chica/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]

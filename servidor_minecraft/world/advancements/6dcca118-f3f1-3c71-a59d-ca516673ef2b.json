@@ -54,6 +54,7 @@
       "minecraft:stony_shore": "2025-06-01 00:31:39 +0000",
       "minecraft:forest": "2025-05-31 01:11:34 +0000",
       "minecraft:ocean": "2025-06-01 00:35:57 +0000",
+      "minecraft:jungle": "2025-06-02 00:57:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-31 01:55:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-01 03:57:59 +0000",
       "minecraft:savanna": "2025-05-31 01:08:25 +0000",
@@ -2134,6 +2135,18 @@
       "tamed_animal": "2025-06-02 00:42:24 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-02 00:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2025-06-02 00:55:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

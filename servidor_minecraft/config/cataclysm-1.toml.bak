@@ -1,4 +1,4 @@
-Aptrgangr = {}
+Kobolediator = {}
 
 [Etc]
 	#Lava Opacity for the Ignitium Helemt.
@@ -289,4 +289,140 @@ Aptrgangr = {}
 	ProwlerDamageMultiplier = 1.0
 
 ["The Harbinger"]
-	#Ha
+	#Harbinger's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	HarbingerHealthMultiplier = 1.0
+	#Harbinger's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	HarbingerDamageMultiplier = 1.0
+	#Harbinger's Healing Multiplier
+	#Range: 0.0 ~ 1000000.0
+	HarbingerHealingMultiplier = 1.0
+	#Harbinger's Wither Missile's Damage
+	#Range: 0.0 ~ 1000000.0
+	"Harbinger's WitherMissiledamage" = 8.0
+	#Harbinger's laser's Damage
+	#Range: 0.0 ~ 1000000.0
+	"Harbinger's laser damage" = 5.0
+	#Harbinger's Immune to Long distance attack range.
+	#Range: 1.0 ~ 1000000.0
+	"The Harbinger's prevent attacks from far away Range" = 35.0
+	#Harbinger's DamageCap
+	#Range: 0.0 ~ 1000000.0
+	"The Harbinger DamageCap" = 22.0
+	#Harbinger's DamageTime
+	#Range: 0 ~ 100
+	"The Harbinger DamageTime" = 12
+	#Harbinger's lasers can light a fire in MobGriefing
+	"The Harbinger Light A Fire" = true
+	#The Harbinger's charge attack Hp Damage
+	#Range: 0.0 ~ 1.0
+	"The Harbinger's charge attack Hp Damage" = 0.06
+
+["The Leviathan"]
+	#Leviathan's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	LeviathanHealthMultiplier = 1.0
+	#Leviathan's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	LeviathanDamageMultiplier = 1.0
+	#Leviathan's Healing with out target
+	#Range: 0.0 ~ 1000000.0
+	LeviathanNatureHealing = 20.0
+	#Leviathan's Immune to Long distance attack range.
+	#Range: 1.0 ~ 1000000.0
+	"Leviathan's prevent attacks from far away Range" = 38.0
+	#Leviathan's Bite Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Leviathan's Bite Hp Damage" = 0.1
+	#Leviathan's Rush Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Leviathan's Rush Hp Damage" = 0.05
+	#Leviathan's TailSwing Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Leviathan's TailSwing Hp Damage" = 0.08
+	#Leviathan's Tentacle Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Leviathan's Tentacle Hp Damage" = 0.03
+	#Leviathan's DamageCap
+	#Range: 0.0 ~ 1000000.0
+	LeviathanDamageCap = 20.0
+	#Leviathan's DamageTime
+	#Range: 0 ~ 100
+	"Leviathan DamageTime" = 15
+	#Leviathan's block breaking ignore the MobGriefing
+	LeviathanBlockBreaking = true
+	#Leviathan Immune Out of Water
+	LeviathanImmuneOutofWater = true
+
+["The Baby Leviathan"]
+	#BabyLeviathan's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	BabyLeviathanHealthMultiplier = 1.0
+	#BabyLeviathan's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	BabyLeviathanDamageMultiplier = 1.0
+
+["Modern Remnant"]
+	#Modern Remnant's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ModernRemnantHealthMultiplier = 1.0
+	#Modern Remnant's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ModernRemnantDamageMultiplier = 1.0
+
+["Netherite Ministrosity"]
+	#Ministrosity's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	MinistrosityHealthMultiplier = 1.0
+
+["Amethyst Crab"]
+	#Amethyst Crab's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AmethystCrabHealthMultiplier = 1.0
+	#Amethyst Crab's EarthQuake Damage
+	#Range: 0.0 ~ 1000000.0
+	AmethystCrabEarthQuakeDamage = 5.0
+	#Amethyst Crab's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AmethystCrabDamageMultiplier = 1.0
+
+["Ancient Remnant"]
+	#Ancient Remnant's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantHealthMultiplier = 1.0
+	#Ancient Remnant's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantDamageMultiplier = 1.0
+	#AncientRemnant's Healing with out target
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantNatureHealing = 20.0
+	#Ancient Remnant's Immune to Long distance attack range.
+	#Range: 1.0 ~ 1000000.0
+	"Ancient Remnant's prevent attacks from far away Range" = 14.0
+	#Ancient Remnant's DamageCap
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantCap = 21.0
+	#Ancient Remnant's DamageTime
+	#Range: 0 ~ 100
+	"Ancient Remnant DamageTime" = 12
+	#Ancient Remnant's block breaking ignore the MobGriefing
+	AncientRemnantBlockBreaking = true
+	#Remnant's Charge Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Remnant's Charge Hp Damage" = 0.1
+	#Remnant's Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Remnant's Normal attack Hp Damage" = 0.05
+	#Remnant's Stomp Hp Damage
+	#Range: 0.0 ~ 1.0
+	"Remnant's Stomp Hp Damage" = 0.03
+	#Remnant's EarthQuake Damage
+	#Range: 0.0 ~ 1000000.0
+	"Remnant's EarthQuakeDamage" = 11.0
+
+[Koboleton]
+	#Cause Koboleton to Drop Item In Hand Percent
+	#Range: 0.0 ~ 100.0
+	CauseKoboletontoDropItemInHandPercent = 5.0
+
