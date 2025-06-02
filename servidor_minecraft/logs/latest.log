@@ -336,3 +336,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 03:34:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> a mi me encanta no hacer nada
 [02Jun2025 03:36:39.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, estoy esuchando una musica de boos de la nada
 [02Jun2025 03:36:47.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
+[02Jun2025 03:39:13.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 03:39:13.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 03:39:14.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zz?
+[02Jun2025 03:39:24.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:34821] logged in with entity id 43572 at (-2531.300000011921, -38.0, -733.1392740901377)
+[02Jun2025 03:39:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 03:39:24.429] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 03:44:43.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.3769206914705592
+[02Jun2025 03:44:44.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.6205459921425245
+[02Jun2025 03:44:44.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.3054705094990595
+[02Jun2025 03:44:44.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.4164820168253982
+[02Jun2025 03:44:44.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 0.4917591643400385
+[02Jun2025 03:44:44.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.167007213691477
+[02Jun2025 03:44:44.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.167007213691477
+[02Jun2025 03:44:44.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 1.856272843953775
+[02Jun2025 03:44:44.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 1.8168243219224678
+[02Jun2025 03:44:44.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.218659598029717
+[02Jun2025 03:44:44.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.218659598029717
+[02Jun2025 03:44:44.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.14353970199204
+[02Jun2025 03:44:44.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.2650239876577416
+[02Jun2025 03:44:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.2346413568457137
+[02Jun2025 03:44:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.1949300938149463
+[02Jun2025 03:44:44.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.236680439761585
+[02Jun2025 03:44:44.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BatmanGordo1) moved wrongly! 2.3502726727640493
+[02Jun2025 03:48:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me voy a mimir
+[02Jun2025 03:48:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> bye bye
+[02Jun2025 03:48:30.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 03:48:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 03:48:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> bye bye
+[02Jun2025 04:05:21.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[02Jun2025 04:05:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
