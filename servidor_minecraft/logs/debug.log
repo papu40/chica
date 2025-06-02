@@ -12181,3 +12181,10 @@ Reason: Banned by an operator.
 [02Jun2025 00:45:28.220] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw rotto123 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You accepted the teleport request!","color":"gold"}]'
 [02Jun2025 00:45:33.219] [Server thread/DEBUG] [simplelogin/]: Checking command 'tp BatmanGordo1 rotto123'
 [02Jun2025 00:45:33.219] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw BatmanGordo1 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleported!","color":"gold"}]'
+[02Jun2025 00:48:03.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:48:03.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:52:42.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
+[02Jun2025 00:52:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[02Jun2025 00:53:03.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:53:03.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:55:33.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [The Parrots and the Bats]

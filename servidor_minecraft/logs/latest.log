@@ -179,3 +179,6 @@
 [02Jun2025 00:45:02.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:48715] logged in with entity id 228604 at (-1202.1616399741501, 72.0, -75.96954243081598)
 [02Jun2025 00:45:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
 [02Jun2025 00:45:03.242] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[02Jun2025 00:52:42.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
+[02Jun2025 00:52:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[02Jun2025 00:55:33.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [The Parrots and the Bats]
