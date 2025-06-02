@@ -3209,3 +3209,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 03:27:49.602] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2ea98af8 into net.minecraft.network.Connection@ca13fa3
 [02Jun2025 03:27:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
 [02Jun2025 03:27:49.965] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 03:28:58.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1027, y=55, z=-141} BlockPos{x=-1025, y=54, z=-142}
+[02Jun2025 03:30:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no quiero que mañana sea lunes
+[02Jun2025 03:30:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no quiero dormie
+[02Jun2025 03:30:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que paja
+[02Jun2025 03:30:46.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> nunca emtendere a los que dicen que se abuerren en vacaciones
+[02Jun2025 03:30:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Hot Stuff]
+[02Jun2025 03:31:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tengo 2 cosas que decir
+[02Jun2025 03:31:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> 1-como te vas a aburri en vacacioones, gente bld
+[02Jun2025 03:32:04.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:32:04.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:32:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> y 2- se empezo a escuchar una cancion de boss, me cague todo
+[02Jun2025 03:33:43.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> el tizi siempre que volvemos a la escuela me dice ¨yo queria empezar porque me habia aburrido en las vacacione¨ y despues es el primero que putea a los profesores y dice que explican mal
+[02Jun2025 03:33:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> xddd
+[02Jun2025 03:34:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como se va a aburrir?
+[02Jun2025 03:34:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> a mi me encanta no hacer nada
+[02Jun2025 03:36:39.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, estoy esuchando una musica de boos de la nada
+[02Jun2025 03:36:47.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
+[02Jun2025 03:37:04.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:37:04.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
