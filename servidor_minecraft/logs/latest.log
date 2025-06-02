@@ -98,3 +98,21 @@
 [02Jun2025 00:15:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
 [02Jun2025 00:15:46.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
 [02Jun2025 00:15:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> z
+[02Jun2025 00:16:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked BatmanGordo1: Kicked by an operator
+[02Jun2025 00:16:15.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Kicked by an operator
+[02Jun2025 00:16:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[02Jun2025 00:16:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> juandizorra si no duermes
+[02Jun2025 00:16:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me estas incentivando a no dormir
+[02Jun2025 00:16:36.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:43355] logged in with entity id 209203 at (-860.5, 80.0, -191.5)
+[02Jun2025 00:16:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[02Jun2025 00:16:36.759] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[02Jun2025 00:16:55.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.116.208.122:37725] logged in with entity id 209339 at (-1010.2317439482025, 106.0, 638.5350395968759)
+[02Jun2025 00:16:55.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[02Jun2025 00:16:55.690] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[02Jun2025 00:17:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> [name:"granja", x:-836, y:77, z:-218, dim:minecraft:overworld]
+[02Jun2025 00:24:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che juan, mandaste las reglas?
+[02Jun2025 00:24:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> están en el grupo
+[02Jun2025 00:24:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> resaltalas
+[02Jun2025 00:24:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> esta resalto
+[02Jun2025 00:25:05.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no estan resaltadas
+[02Jun2025 00:25:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya sé

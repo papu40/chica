@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-06-01 00:35:56 +0000",
+      "minecraft:windswept_hills": "2025-06-02 00:19:51 +0000",
       "minecraft:beach": "2025-05-31 01:16:34 +0000",
       "minecraft:dark_forest": "2025-06-01 03:58:44 +0000",
       "minecraft:lukewarm_ocean": "2025-05-31 01:19:56 +0000",
@@ -2020,6 +2021,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-02 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-02 00:14:34 +0000"
     },
     "done": true
   },
