@@ -312,3 +312,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 03:11:57.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:47251] logged in with entity id 32112 at (-2518.3071827756535, 25.0, -855.3000000119209)
 [02Jun2025 03:11:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
 [02Jun2025 03:11:57.926] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 03:24:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> que tanto estudiaste vos?
+[02Jun2025 03:24:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> no mucho
+[02Jun2025 03:24:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> te gustan las patatas?
+[02Jun2025 03:27:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zz?
+[02Jun2025 03:27:37.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 03:27:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 03:27:49.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:49805] logged in with entity id 38087 at (-2527.699999988079, -44.0, -773.6999999880791)
+[02Jun2025 03:27:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 03:27:49.965] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
