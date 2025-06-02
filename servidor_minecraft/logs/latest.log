@@ -215,3 +215,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 02:11:21.940] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
 [02Jun2025 02:14:21.565] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.653 ms. 1608/1636 recipes are parallelized.
 [02Jun2025 02:14:51.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> zz
+[02Jun2025 02:17:20.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ghost
+[02Jun2025 02:17:20.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-73, 68, 128) minecraft:overworld
+[02Jun2025 02:17:28.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Jun2025 02:17:50.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] BatmanGordo1 bot
+[02Jun2025 02:17:51.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, vos te metiste al anarquico del curso
+[02Jun2025 02:17:58.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
+[02Jun2025 02:18:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> yo si, ya me puse full neterita
+[02Jun2025 02:18:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> pero no le digas por la d
+[02Jun2025 02:18:37.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> por las dudas, ya que creo que todavia no estaba permitido
+[02Jun2025 02:19:02.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como si no lo pudieran ver desde aternos :v
+[02Jun2025 02:19:16.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> se puede ver eso?
+[02Jun2025 02:19:51.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pueden ver todos los bloques minados, herramientas usadas, aramduras equipadas, inventario, coordenada, hambre, vida
+[02Jun2025 02:19:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> poruq esi no ya lo re vieron
+[02Jun2025 02:20:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] etc
+[02Jun2025 02:20:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] creo que pueden ver hasta los bloques quue caminaste
+[02Jun2025 02:21:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy a estudiar ingles, la vivieron mucho uds?
+[02Jun2025 02:21:33.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
+[02Jun2025 02:21:42.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> yo no
+[02Jun2025 02:21:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> le dije a chatgpt que me haga una prueba en base a todos lostemas
+[02Jun2025 02:22:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> cierto benja, te paso lo de holidays?
+[02Jun2025 02:22:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que cosa?
+[02Jun2025 02:22:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> lo que hablamos ayer, que e fausto e lo paso
+[02Jun2025 02:22:39.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> ah bueno pasamelo
+[02Jun2025 02:22:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> alguien hizo lo de mate?
+[02Jun2025 02:22:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> como fue la prueba que te dio?
+[02Jun2025 02:22:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no
+[02Jun2025 02:22:59.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no
+[02Jun2025 02:22:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tranqui
+[02Jun2025 02:23:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alta paja el cuadro
+[02Jun2025 02:23:05.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> me la pasas?
+[02Jun2025 02:23:59.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -9.064476785198849,-4.373699204017555,-0.876371678904377
+[02Jun2025 02:26:17.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> nesesito que sea de noche, perdon si no duermo
+[02Jun2025 02:26:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> oka
