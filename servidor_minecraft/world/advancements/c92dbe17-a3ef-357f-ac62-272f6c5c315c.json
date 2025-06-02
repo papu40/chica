@@ -670,6 +670,7 @@
     "criteria": {
       "chicken": "2025-06-02 02:10:38 +0000",
       "cooked_mutton": "2025-06-01 23:44:45 +0000",
+      "cooked_beef": "2025-06-02 02:33:56 +0000",
       "apple": "2025-06-01 04:07:52 +0000",
       "golden_apple": "2025-06-01 03:57:36 +0000",
       "rotten_flesh": "2025-06-01 04:04:43 +0000",
@@ -880,6 +881,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-01 04:56:32 +0000",
       "minecraft:spider": "2025-06-01 04:35:42 +0000",
+      "minecraft:creeper": "2025-06-02 02:33:18 +0000",
       "minecraft:zombie": "2025-06-01 05:06:27 +0000"
     },
     "done": false
@@ -1658,6 +1660,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-02 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-02 02:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-02 02:09:54 +0000"
@@ -1670,27 +1684,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-02 02:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-02 02:19:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-06-02 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-02 02:26:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-06-02 02:08:17 +0000"
     },
     "done": true
   },
@@ -1712,15 +1714,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-02 02:09:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-02 02:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-02 02:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-02 02:26:30 +0000"
     },
     "done": true
   },
@@ -1730,9 +1738,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-06-02 02:19:09 +0000"
+      "deflected_projectile": "2025-06-02 02:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-02 02:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-02 02:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-02 02:44:59 +0000"
     },
     "done": true
   },

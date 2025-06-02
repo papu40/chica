@@ -268,3 +268,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02Jun2025 02:35:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
 [02Jun2025 02:35:30.751] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-765, 68, -245) minecraft:overworld
 [02Jun2025 02:36:34.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Not Today, Thank You]
+[02Jun2025 02:37:35.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[02Jun2025 02:37:35.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-793, 65, -236) minecraft:overworld
+[02Jun2025 02:44:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> zzz?
+[02Jun2025 02:44:21.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[02Jun2025 02:44:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 02:44:34.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:39125] logged in with entity id 14873 at (-956.164549255035, 78.0, -439.6936266246442)
+[02Jun2025 02:44:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 02:44:34.737] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 02:45:01.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Enderman
+[02Jun2025 02:45:01.796] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-62, 62, 138) minecraft:overworld
+[02Jun2025 02:45:15.109] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Jun2025 02:45:34.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[02Jun2025 02:45:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[02Jun2025 02:45:34.550] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jun2025 02:45:43.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:57371] logged in with entity id 15593 at (-954.1671885988984, 67.0, -438.3839785006185)
+[02Jun2025 02:45:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[02Jun2025 02:45:43.438] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[02Jun2025 02:46:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Enderman
+[02Jun2025 02:46:02.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-60, 66, 171) minecraft:overworld
+[02Jun2025 02:46:21.498] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
