@@ -32,3 +32,6 @@
 [03Jun2025 00:18:36.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> estoy yo solo .-.
 [03Jun2025 00:36:46.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
 [03Jun2025 00:36:46.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[03Jun2025 00:53:40.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:49285] logged in with entity id 42952 at (-1005.7559555198516, 101.0, 642.0837865273513)
+[03Jun2025 00:53:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[03Jun2025 00:53:41.836] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
