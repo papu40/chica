@@ -257,3 +257,361 @@
 [03Jun2025 01:55:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> DUERMAN GORREADO
 [03Jun2025 01:55:27.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Revenant
 [03Jun2025 01:55:27.683] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-536, 67, -2408) minecraft:overworld
+[03Jun2025 01:56:03.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[03Jun2025 01:56:03.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 01:56:38.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:41489] logged in with entity id 87795 at (-2549.0217484188684, -15.0, -791.5963529779445)
+[03Jun2025 01:56:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 01:56:39.043] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 01:56:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 3 of a max of 20 players online: BatmanGordo1, Juandi3531, benjamon
+[03Jun2025 01:56:45.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> bruhh
+[03Jun2025 01:56:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked BatmanGordo1: Kicked by an operator
+[03Jun2025 01:56:51.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Kicked by an operator
+[03Jun2025 01:56:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[03Jun2025 01:56:53.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[03Jun2025 01:56:53.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 01:57:07.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:34599] logged in with entity id 88168 at (-2549.0217484188684, -15.0, -791.5963529779445)
+[03Jun2025 01:57:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 01:57:07.420] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 01:57:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> lo kickie
+[03Jun2025 01:57:22.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
+[03Jun2025 01:57:33.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cld
+[03Jun2025 01:57:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me apareció un clan en la geta culiao
+[03Jun2025 01:57:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y una araña gigante
+[03Jun2025 01:57:56.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me garcaron
+[03Jun2025 02:03:24.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:44795] logged in with entity id 92685 at (-1166.0952890208307, 78.0, -33.252331689386324)
+[03Jun2025 02:03:24.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[03Jun2025 02:03:24.918] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[03Jun2025 02:03:46.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 drowned whilst trying to escape Fire Dragon
+[03Jun2025 02:03:46.846] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-781, 59, -1515) minecraft:overworld
+[03Jun2025 02:03:52.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> concha
+[03Jun2025 02:03:53.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de
+[03Jun2025 02:03:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> mi
+[03Jun2025 02:03:58.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> abuela puta
+[03Jun2025 02:04:02.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, recien me expulsaba c ada 2 segundos porque pensaba que estaba bolando
+[03Jun2025 02:04:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> pero estaba calendo desde re alto
+[03Jun2025 02:04:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> manso
+[03Jun2025 02:06:07.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 moved too quickly! -0.16715618953867306,-12.693136552155849,0.4952675377414266
+[03Jun2025 02:07:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was blown up by Skeleton Creeper
+[03Jun2025 02:07:58.845] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2549, 72, -709) minecraft:overworld
+[03Jun2025 02:08:08.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> z
+[03Jun2025 02:08:08.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> z
+[03Jun2025 02:08:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> z
+[03Jun2025 02:08:09.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> z
+[03Jun2025 02:08:09.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> z
+[03Jun2025 02:08:13.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[03Jun2025 02:08:13.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[03Jun2025 02:08:16.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[03Jun2025 02:08:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[03Jun2025 02:08:23.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:55863] logged in with entity id 97930 at (-1172.2412403510477, 65.0, -58.506195212458046)
+[03Jun2025 02:08:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[03Jun2025 02:08:24.187] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[03Jun2025 02:08:53.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:51271] logged in with entity id 98577 at (-812.1917279582775, 66.0, -1123.0053478810148)
+[03Jun2025 02:08:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[03Jun2025 02:08:53.875] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[03Jun2025 02:09:29.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Spooky Scary Skeleton]
+[03Jun2025 02:09:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> estas en el neger?
+[03Jun2025 02:09:48.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> no
+[03Jun2025 02:10:00.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:10:00.602] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:12:41.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Voluntary Exile]
+[03Jun2025 02:13:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 burned to death
+[03Jun2025 02:13:53.545] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-787, 69, -1926) minecraft:overworld
+[03Jun2025 02:14:09.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> los dragones de fuego son mis putas
+[03Jun2025 02:14:49.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me enxontre otro castillo
+[03Jun2025 02:15:09.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> perfect
+[03Jun2025 02:15:21.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ?
+[03Jun2025 02:16:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> HAY 1000 HADAS
+[03Jun2025 02:16:33.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> uememos el bosque
+[03Jun2025 02:16:52.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> don let mii down
+[03Jun2025 02:17:49.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> toma
+[03Jun2025 02:17:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> aca hay mas
+[03Jun2025 02:17:58.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> graci
+[03Jun2025 02:19:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> duerman
+[03Jun2025 02:19:12.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[03Jun2025 02:19:12.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[03Jun2025 02:19:14.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[03Jun2025 02:19:14.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 02:19:18.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[03Jun2025 02:19:18.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[03Jun2025 02:19:21.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:45777] logged in with entity id 109820 at (-1235.2458099156877, 67.0, -1154.6827284652404)
+[03Jun2025 02:19:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[03Jun2025 02:19:21.953] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[03Jun2025 02:19:25.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:58525] logged in with entity id 110092 at (-2573.338746602677, 79.0, -1182.6812657874136)
+[03Jun2025 02:19:25.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 02:19:25.450] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 02:19:26.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[03Jun2025 02:19:26.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[03Jun2025 02:19:32.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:56559] logged in with entity id 110365 at (-1253.7234524019275, 72.0, -1186.8170831421373)
+[03Jun2025 02:19:32.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[03Jun2025 02:19:32.473] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[03Jun2025 02:19:40.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el diablo
+[03Jun2025 02:19:42.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[03Jun2025 02:19:42.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[03Jun2025 02:19:43.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:33481] logged in with entity id 110671 at (-1235.2458099156877, 67.0, -1154.6827284652404)
+[03Jun2025 02:19:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[03Jun2025 02:19:43.745] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[03Jun2025 02:19:48.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[03Jun2025 02:19:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 02:20:01.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:35629] logged in with entity id 110988 at (-2569.490305246467, 79.0, -1182.276614626176)
+[03Jun2025 02:20:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 02:20:01.614] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 02:20:02.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:34359] logged in with entity id 110989 at (-1253.7234524019275, 72.0, -1186.8170831421373)
+[03Jun2025 02:20:02.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[03Jun2025 02:20:02.930] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[03Jun2025 02:20:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> dormi
+[03Jun2025 02:20:06.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[03Jun2025 02:20:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[03Jun2025 02:20:10.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[03Jun2025 02:20:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 02:20:15.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[03Jun2025 02:20:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[03Jun2025 02:20:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[03Jun2025 02:20:29.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:59957] logged in with entity id 111350 at (-2569.490305246467, 79.0, -1182.276614626176)
+[03Jun2025 02:20:29.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 02:20:29.910] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 02:20:30.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:54561] logged in with entity id 111351 at (-1255.543208985696, 76.0, -1201.147998266014)
+[03Jun2025 02:20:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[03Jun2025 02:20:30.946] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[03Jun2025 02:20:37.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:50751] logged in with entity id 111956 at (-1254.5581628639527, 72.0, -1138.0647832385616)
+[03Jun2025 02:20:37.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[03Jun2025 02:20:38.213] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[03Jun2025 02:22:42.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tan lejos esta?
+[03Jun2025 02:22:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> faltan como 850 bloques
+[03Jun2025 02:22:59.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> xd
+[03Jun2025 02:23:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> aguante el gato con bostas
+[03Jun2025 02:23:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> che, lo encontraste gracias al mod de los mapas?
+[03Jun2025 02:23:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> a quien
+[03Jun2025 02:23:40.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> al dragn
+[03Jun2025 02:23:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> emm
+[03Jun2025 02:24:04.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no es como que me haya turboculeado 7 veces wn
+[03Jun2025 02:24:32.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ?
+[03Jun2025 02:24:44.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> COREER
+[03Jun2025 02:25:22.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> aca hay cueva
+[03Jun2025 02:27:34.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [An Imposter]
+[03Jun2025 02:27:41.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> among us
+[03Jun2025 02:27:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ambusher
+[03Jun2025 02:27:49.621] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2579, 68, -1190) minecraft:overworld
+[03Jun2025 02:27:51.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:27:51.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:27:51.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:28:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Frostbitten Golem
+[03Jun2025 02:28:19.919] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-524, 69, -2372) minecraft:overworld
+[03Jun2025 02:28:20.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [A Freezing Place]
+[03Jun2025 02:28:25.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:28:25.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:28:27.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el diablo
+[03Jun2025 02:28:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> carajo
+[03Jun2025 02:28:38.485] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:28:38.485] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:28:38.485] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:28:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> pegale
+[03Jun2025 02:28:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> vamooooooo
+[03Jun2025 02:29:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has completed the challenge [The Coldest Golem]
+[03Jun2025 02:29:24.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> que te dio?
+[03Jun2025 02:29:41.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> una pija
+[03Jun2025 02:29:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> o sea
+[03Jun2025 02:29:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> unas cosas pa hacer espada y escudo
+[03Jun2025 02:29:58.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero necesitamos matar otro para hacerlo
+[03Jun2025 02:30:07.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> toma esa
+[03Jun2025 02:30:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> porque solo dropeo uno dea cada
+[03Jun2025 02:30:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> aa
+[03Jun2025 02:30:35.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> entonces si alcanza
+[03Jun2025 02:30:44.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> ZZZ
+[03Jun2025 02:30:47.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[03Jun2025 02:30:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[03Jun2025 02:31:07.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.106.135.166:41485] logged in with entity id 119866 at (-526.038495812644, 67.0, -2397.238128297116)
+[03Jun2025 02:31:07.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[03Jun2025 02:31:07.636] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[03Jun2025 02:31:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> woa
+[03Jun2025 02:31:21.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> eso hace
+[03Jun2025 02:31:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> exloremos?
+[03Jun2025 02:31:40.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el diablo
+[03Jun2025 02:31:52.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y el pvp desactivado?
+[03Jun2025 02:31:56.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya voi
+[03Jun2025 02:32:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> voy a enchufar a pc
+[03Jun2025 02:33:04.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya
+[03Jun2025 02:33:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el proximo te lo dejas vo
+[03Jun2025 02:33:22.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ok
+[03Jun2025 02:33:32.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> vamo
+[03Jun2025 02:34:40.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya fui por ahi
+[03Jun2025 02:34:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ah no
+[03Jun2025 02:34:54.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> sigamos pal norte
+[03Jun2025 02:35:14.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> hay aldea
+[03Jun2025 02:35:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> dodne?
+[03Jun2025 02:35:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> adelante
+[03Jun2025 02:35:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y dragon
+[03Jun2025 02:35:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> vamo
+[03Jun2025 02:35:49.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> en la puta aldea
+[03Jun2025 02:35:50.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/121932, l='ServerLevel[world]', x=-438.61, y=64.00, z=-2898.64] died, message: 'Nitwit was turned to ice by Ice Dragon'
+[03Jun2025 02:36:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[03Jun2025 02:36:08.176] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2609, 77, -1175) minecraft:overworld
+[03Jun2025 02:36:11.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/121940, l='ServerLevel[world]', x=-459.19, y=65.02, z=-2896.17] died, message: 'Armorer was frozen by Ice Dragon'
+[03Jun2025 02:36:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> espero que sea chico
+[03Jun2025 02:36:22.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/121847, l='ServerLevel[world]', x=-456.20, y=69.69, z=-2866.79] died, message: 'Farmer was slain by Ice Dragon'
+[03Jun2025 02:36:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> es enorme cld
+[03Jun2025 02:36:35.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/121931, l='ServerLevel[world]', x=-441.57, y=66.00, z=-2880.45] died, message: 'Nitwit was slain by Ice Dragon'
+[03Jun2025 02:36:44.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was frozen by Ice Dragon
+[03Jun2025 02:36:44.222] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-438, 68, -2871) minecraft:overworld
+[03Jun2025 02:36:45.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[03Jun2025 02:36:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 02:36:57.572] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:36:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was frozen by Ice Dragon
+[03Jun2025 02:36:59.324] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-457, 68, -2861) minecraft:overworld
+[03Jun2025 02:37:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ice Dragon
+[03Jun2025 02:37:07.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-460, 68, -2866) minecraft:overworld
+[03Jun2025 02:37:08.520] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:37:08.520] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:37:08.520] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:37:13.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122019, l='ServerLevel[world]', x=-471.99, y=66.00, z=-2878.82] died, message: 'Villager was turned to ice by Ice Dragon'
+[03Jun2025 02:37:20.121] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:37:23.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cagamo
+[03Jun2025 02:37:31.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:55177] logged in with entity id 123644 at (-2609.0, 77.0, -1175.0)
+[03Jun2025 02:37:31.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 02:37:31.571] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 02:37:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> vaja violin
+[03Jun2025 02:37:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ancient Guardian
+[03Jun2025 02:37:38.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was frozen by Ice Dragon
+[03Jun2025 02:37:38.211] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-481, 67, -2877) minecraft:overworld
+[03Jun2025 02:37:41.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was turned to ice by Ice Dragon
+[03Jun2025 02:37:41.923] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-476, 67, -2873) minecraft:overworld
+[03Jun2025 02:37:47.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -5.6618019525726595,-2.0,8.029847742589709
+[03Jun2025 02:37:52.529] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:37:55.377] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:37:55.378] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:37:55.378] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:38:02.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ice Dragon
+[03Jun2025 02:38:02.077] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-473, 68, -2866) minecraft:overworld
+[03Jun2025 02:38:09.778] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:38:12.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:38:12.511] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:38:16.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Ice Dragon
+[03Jun2025 02:38:16.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-450, 66, -2874) minecraft:overworld
+[03Jun2025 02:38:18.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ice Dragon
+[03Jun2025 02:38:18.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-449, 68, -2871) minecraft:overworld
+[03Jun2025 02:38:25.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ambusher
+[03Jun2025 02:38:25.124] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2587, 79, -1193) minecraft:overworld
+[03Jun2025 02:38:25.827] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:38:25.827] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:38:25.827] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:38:26.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122002, l='ServerLevel[world]', x=-451.90, y=66.69, z=-2893.30] died, message: 'Villager was slain by Ice Dragon'
+[03Jun2025 02:38:37.334] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:38:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Ice Dragon
+[03Jun2025 02:38:39.877] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-452, 64, -2899) minecraft:overworld
+[03Jun2025 02:38:46.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[03Jun2025 02:38:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 02:38:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was frozen by Ice Dragon
+[03Jun2025 02:38:47.470] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-447, 64, -2893) minecraft:overworld
+[03Jun2025 02:38:54.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:38:54.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:38:54.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:38:55.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/121909, l='ServerLevel[world]', x=-430.45, y=67.69, z=-2891.48] died, message: 'Armorer was slain by Ice Dragon'
+[03Jun2025 02:39:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Ice Dragon
+[03Jun2025 02:39:05.417] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-436, 64, -2892) minecraft:overworld
+[03Jun2025 02:39:07.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:38917] logged in with entity id 125867 at (-2585.7790705474877, 68.0, -1201.3911599765404)
+[03Jun2025 02:39:07.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 02:39:07.829] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 02:39:08.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ice Dragon
+[03Jun2025 02:39:08.576] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-438, 64, -2890) minecraft:overworld
+[03Jun2025 02:39:15.531] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:39:15.531] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:39:19.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:39:19.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:39:19.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:39:20.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122005, l='ServerLevel[world]', x=-442.70, y=64.00, z=-2912.50] died, message: 'Villager was turned to ice by Ice Dragon'
+[03Jun2025 02:39:21.132] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:39:22.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ambusher
+[03Jun2025 02:39:22.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2587, 79, -1193) minecraft:overworld
+[03Jun2025 02:39:24.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was frozen by Ice Dragon
+[03Jun2025 02:39:24.918] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-440, 64, -2908) minecraft:overworld
+[03Jun2025 02:39:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ice Dragon
+[03Jun2025 02:39:27.570] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-443, 64, -2907) minecraft:overworld
+[03Jun2025 02:39:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> esta a 10
+[03Jun2025 02:39:34.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/121939, l='ServerLevel[world]', x=-452.90, y=65.00, z=-2900.59] died, message: 'Butcher was turned to ice by Ice Dragon'
+[03Jun2025 02:39:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was frozen by Ice Dragon
+[03Jun2025 02:39:39.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/122136, l='ServerLevel[world]', x=-451.77, y=64.50, z=-2901.32] died, message: 'Nitwit was pricked to death'
+[03Jun2025 02:39:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Ice Dragon
+[03Jun2025 02:39:40.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> puta
+[03Jun2025 02:39:42.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -2.420230447341055,11.0,8.300000011920929
+[03Jun2025 02:39:44.727] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:39:44.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:39:45.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/121935, l='ServerLevel[world]', x=-448.28, y=64.00, z=-2886.53] died, message: 'Scribe was frozen by Ice Dragon'
+[03Jun2025 02:39:48.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was turned to ice by Ice Dragon
+[03Jun2025 02:39:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was turned to ice by Ice Dragon
+[03Jun2025 02:39:53.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/121930, l='ServerLevel[world]', x=-442.84, y=66.00, z=-2879.52] died, message: 'Armorer was turned to ice by Ice Dragon'
+[03Jun2025 02:39:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was frozen by Ice Dragon
+[03Jun2025 02:39:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was frozen by Ice Dragon
+[03Jun2025 02:40:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Dragonslayer]
+[03Jun2025 02:40:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> puto de mierda
+[03Jun2025 02:40:29.358] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:40:29.359] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:40:29.359] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:40:31.641] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:40:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dudo que quede loot en a aldea XDD
+[03Jun2025 02:41:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> no creo xddd
+[03Jun2025 02:41:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:41:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Book of Monsters]
+[03Jun2025 02:42:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:05.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:06.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:07.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:17.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> otro golem
+[03Jun2025 02:42:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dou
+[03Jun2025 02:43:30.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Frostbitten Golem
+[03Jun2025 02:43:30.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-598, 73, -2976) minecraft:overworld
+[03Jun2025 02:44:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> wwq
+[03Jun2025 02:44:11.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Frostbitten Golem
+[03Jun2025 02:44:11.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-586, 71, -2967) minecraft:overworld
+[03Jun2025 02:44:14.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:44:14.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:44:14.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:44:29.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Frostbitten Golem
+[03Jun2025 02:44:29.170] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-582, 70, -2971) minecraft:overworld
+[03Jun2025 02:44:46.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:44:46.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:44:46.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:44:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Frostbitten Golem
+[03Jun2025 02:44:57.269] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-573, 69, -2977) minecraft:overworld
+[03Jun2025 02:44:57.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:45:01.479] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:45:01.479] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:01.479] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:05.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[03Jun2025 02:45:05.381] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2570, 79, -1177) minecraft:overworld
+[03Jun2025 02:45:17.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[03Jun2025 02:45:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 02:45:17.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was frozen to death by Frostbitten Golem
+[03Jun2025 02:45:17.772] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-562, 68, -2983) minecraft:overworld
+[03Jun2025 02:45:23.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:45:23.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:23.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:25.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:36513] logged in with entity id 131273 at (-2559.5, 71.0, -1212.5)
+[03Jun2025 02:45:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 02:45:25.962] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 02:45:36.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was doomed to fall by Frostbitten Golem
+[03Jun2025 02:45:36.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-572, 69, -2982) minecraft:overworld
+[03Jun2025 02:45:40.133] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:45:40.133] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:40.133] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:46.577] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:45:46.577] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:45:47.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Frostbitten Golem
+[03Jun2025 02:45:47.580] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-574, 70, -2968) minecraft:overworld
+[03Jun2025 02:45:47.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131283, l='ServerLevel[world]', x=-2535.41, y=64.00, z=-1223.60] died, message: 'Villager was slain by Zombie'
+[03Jun2025 02:45:54.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131281, l='ServerLevel[world]', x=-2535.88, y=64.00, z=-1223.70] died, message: 'Villager was slain by Zombie'
+[03Jun2025 02:45:55.780] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:45:59.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131282, l='ServerLevel[world]', x=-2538.27, y=64.00, z=-1223.70] died, message: 'Villager was slain by Zombie Villager'
+[03Jun2025 02:46:05.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Frostbitten Golem
+[03Jun2025 02:46:05.379] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-565, 70, -2975) minecraft:overworld
+[03Jun2025 02:46:07.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was frozen to death by Frostbitten Golem
+[03Jun2025 02:46:07.428] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-569, 70, -2972) minecraft:overworld
+[03Jun2025 02:46:10.776] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[03Jun2025 02:46:10.777] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:46:10.777] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[03Jun2025 02:46:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has completed the challenge [The Coldest Golem]
+[03Jun2025 02:46:17.293] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
