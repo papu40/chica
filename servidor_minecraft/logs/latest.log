@@ -35,3 +35,26 @@
 [03Jun2025 00:53:40.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:49285] logged in with entity id 42952 at (-1005.7559555198516, 101.0, 642.0837865273513)
 [03Jun2025 00:53:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
 [03Jun2025 00:53:41.836] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[03Jun2025 00:56:55.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.230.13.3:47439] logged in with entity id 43601 at (-849.7624999880791, 76.0, -220.41084704797433)
+[03Jun2025 00:56:55.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[03Jun2025 00:56:57.804] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[03Jun2025 00:57:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ola
+[03Jun2025 00:57:44.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> ola
+[03Jun2025 00:58:15.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> bro
+[03Jun2025 00:58:25.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> porque hay un piglin aca en mi casa
+[03Jun2025 00:58:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> buena pregunta
+[03Jun2025 00:58:49.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ni idea
+[03Jun2025 00:58:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> no tengo portal bld
+[03Jun2025 00:58:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> aaaa ya se
+[03Jun2025 00:59:16.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> un trueno le pego a un chancho
+[03Jun2025 01:03:56.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Timed out
+[03Jun2025 01:03:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[03Jun2025 01:04:20.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:41425] logged in with entity id 46099 at (-1007.6780352132083, 108.00133597911214, 643.5418287613234)
+[03Jun2025 01:04:20.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[03Jun2025 01:04:21.487] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[03Jun2025 01:04:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
+[03Jun2025 01:04:57.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
+[03Jun2025 01:04:58.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[03Jun2025 01:04:58.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[03Jun2025 01:05:00.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[03Jun2025 01:05:00.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
