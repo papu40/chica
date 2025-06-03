@@ -800,6 +800,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-03 00:04:04 +0000",
       "minecraft:zombie": "2025-06-02 00:42:06 +0000"
     },
     "done": false
@@ -987,6 +988,18 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-06-02 23:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-03 00:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-03 00:04:01 +0000"
     },
     "done": true
   },

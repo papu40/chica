@@ -7,3 +7,13 @@
 [03Jun2025 00:03:45.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
 [03Jun2025 00:03:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
 [03Jun2025 00:03:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
+[03Jun2025 00:04:01.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Not Today, Thank You]
+[03Jun2025 00:04:50.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.57.198.192:58751] logged in with entity id 33626 at (-2681.794442958657, -42.0, -647.0456947881763)
+[03Jun2025 00:04:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[03Jun2025 00:04:50.732] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[03Jun2025 00:13:04.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[03Jun2025 00:13:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[03Jun2025 00:13:20.729] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2699, -34, -745) minecraft:overworld
+[03Jun2025 00:14:06.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[03Jun2025 00:14:06.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[03Jun2025 00:14:06.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
