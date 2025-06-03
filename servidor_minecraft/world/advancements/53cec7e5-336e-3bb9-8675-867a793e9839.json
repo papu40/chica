@@ -56,6 +56,7 @@
       "minecraft:stony_shore": "2025-05-31 02:29:21 +0000",
       "minecraft:snowy_plains": "2025-06-03 01:27:13 +0000",
       "minecraft:snowy_taiga": "2025-06-03 01:28:46 +0000",
+      "minecraft:grove": "2025-06-03 03:15:45 +0000",
       "minecraft:cold_ocean": "2025-06-03 01:32:55 +0000",
       "minecraft:forest": "2025-05-31 02:05:51 +0000",
       "minecraft:frozen_ocean": "2025-06-03 01:32:52 +0000",
@@ -2974,9 +2975,27 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-06-03 02:29:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-03 02:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-03 02:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 02:38:36 +0000"
     },
     "done": true
   },
@@ -2998,15 +3017,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "minecraft:recipes/misc/leather": {
     "criteria": {
-      "has_stripped_logs": "2025-06-03 02:41:11 +0000"
+      "has_rabbit_hide": "2025-06-03 02:39:17 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_frostbitten_golem": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "frostbitten_golem": "2025-06-03 02:29:14 +0000"
+      "has_stripped_logs": "2025-06-03 02:41:11 +0000"
     },
     "done": true
   },
@@ -3016,21 +3035,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_logs": "2025-06-03 02:38:36 +0000"
+      "bestiary": "2025-06-03 02:54:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
+  "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "has_rabbit_hide": "2025-06-03 02:39:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-06-03 02:37:16 +0000"
+      "bestiary": "2025-06-03 02:54:58 +0000"
     },
     "done": true
   },

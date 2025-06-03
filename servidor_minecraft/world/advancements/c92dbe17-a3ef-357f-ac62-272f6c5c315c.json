@@ -46,17 +46,23 @@
       "minecraft:old_growth_pine_taiga": "2025-06-02 03:03:54 +0000",
       "minecraft:taiga": "2025-06-02 03:04:21 +0000",
       "minecraft:deep_ocean": "2025-06-03 00:02:43 +0000",
+      "minecraft:frozen_river": "2025-06-03 03:02:21 +0000",
       "minecraft:birch_forest": "2025-06-01 03:58:08 +0000",
       "minecraft:beach": "2025-06-01 23:42:10 +0000",
       "minecraft:dark_forest": "2025-06-01 03:58:15 +0000",
       "minecraft:river": "2025-06-01 03:45:45 +0000",
       "minecraft:stony_shore": "2025-06-02 03:02:10 +0000",
+      "minecraft:snowy_plains": "2025-06-03 02:59:49 +0000",
+      "minecraft:snowy_taiga": "2025-06-03 02:59:58 +0000",
+      "minecraft:grove": "2025-06-03 03:18:06 +0000",
       "minecraft:cold_ocean": "2025-06-03 00:13:05 +0000",
       "minecraft:forest": "2025-06-01 03:55:31 +0000",
       "minecraft:lush_caves": "2025-06-02 03:12:53 +0000",
       "minecraft:deep_cold_ocean": "2025-06-03 00:13:17 +0000",
+      "minecraft:frozen_ocean": "2025-06-03 03:07:24 +0000",
       "minecraft:ocean": "2025-06-02 03:46:18 +0000",
       "minecraft:flower_forest": "2025-06-02 02:58:37 +0000",
+      "minecraft:frozen_peaks": "2025-06-03 03:27:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-01 04:07:18 +0000",
       "minecraft:savanna": "2025-06-01 03:45:35 +0000",
       "minecraft:plains": "2025-06-01 03:43:36 +0000"
@@ -897,7 +903,8 @@
       "minecraft:spider": "2025-06-01 04:35:42 +0000",
       "minecraft:creeper": "2025-06-02 02:33:18 +0000",
       "minecraft:cave_spider": "2025-06-03 00:05:53 +0000",
-      "minecraft:zombie": "2025-06-01 05:06:27 +0000"
+      "minecraft:zombie": "2025-06-01 05:06:27 +0000",
+      "minecraft:zombie_villager": "2025-06-03 03:30:35 +0000"
     },
     "done": false
   },
@@ -2332,6 +2339,36 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-03 02:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-03 02:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-03 03:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-03 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-06-03 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-03 03:28:55 +0000"
     },
     "done": true
   },
